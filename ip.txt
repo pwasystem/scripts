@@ -1,0 +1,11 @@
+192.168.0.1 - dlinkrouter
+192.168.0.100 - SHU
+192.168.0.108 - TV-Sala
+192.168.0.109 - wlan0
+192.168.0.129 - M2012K11AG
+192.168.0.140 - android-fba2a1cc119081ee
+192.168.0.145 - Google-Nest-Mini
+192.168.0.180 - lwip0
+192.168.0.193 - XiaoMiRepeater_V3
+192.168.0.195 - Xiaomi
+

@@ -1,0 +1,87 @@
+Ollama no Android 
+
+Instale o Termux:
+
+Primeiro, você precisa instalar o aplicativo Termux. Como o Google Play Store não oferece mais a versão mais atualizada, é recomendável instalar o F-Droid (https://f-droid.org/). F-Droid é um catálogo de aplicativos FOSS (Software Livre e de Código Aberto) para Android.
+Após instalar o F-Droid, abra-o e procure por "Termux".
+Instale o Termux a partir do F-Droid. Este será o seu ambiente Linux no Android.
+Configure o Termux:
+
+Abra o Termux. Aguarde a instalação dos pacotes de bootstrap.
+
+Atualize os pacotes: Para garantir que você tenha as versões mais recentes do software, execute os seguintes comandos um por vez:
+
+Bash
+
+pkg update
+pkg upgrade
+Digite Y quando solicitado para atualizar.
+
+Conceda acesso ao armazenamento: Para permitir que o Termux acesse o armazenamento do seu dispositivo, execute:
+
+Bash
+
+termux-setup-storage
+Instale as ferramentas essenciais:
+
+Você precisará de algumas ferramentas para compilar e executar o Ollama. Instale-as com o seguinte comando:
+
+Bash
+
+pkg install git cmake golang
+Isso instala o Git (para baixar o código fonte do Ollama), CMake (para construir o software) e Go (a linguagem de programação em que o Ollama é escrito).
+
+Instale e compile o Ollama:
+
+Clone o repositório do Ollama: Baixe o código fonte do Ollama do GitHub:
+
+Bash
+
+git clone --depth 1 https://github.com/ollama/ollama.git
+Entre no diretório do Ollama:
+
+Bash
+
+cd ollama
+Gere o código Go:
+
+Bash
+
+go generate ./...
+Construa o Ollama:
+
+Bash
+
+go build .
+Inicie o servidor Ollama:
+
+Bash
+
+./ollama serve &
+Este comando inicia o servidor Ollama em segundo plano.
+
+Execute um modelo Ollama:
+
+Escolha um modelo: Modelos menores como llama3.2:3b (3 bilhões de parâmetros) são recomendados para dispositivos móveis para um melhor desempenho. Você pode encontrar uma lista de modelos disponíveis no site do Ollama.
+
+Baixe e execute o modelo: Por exemplo, para executar o modelo llama3.2:3b, use:
+
+Bash
+
+./ollama run llama3.2:3b
+O Ollama irá baixar o modelo (isso pode levar algum tempo dependendo da sua conexão com a internet) e, em seguida, você poderá interagir com ele diretamente no terminal.
+
+Considerações de desempenho:
+
+O desempenho pode variar dependendo do modelo Ollama escolhido e dos recursos de hardware do seu Poco F3. Modelos maiores podem ser lentos ou não funcionar bem.
+Se o desempenho for muito lento, tente usar modelos menores, como modelos com 1 bilhão de parâmetros (1b) para melhorar a responsividade.
+Verificação:
+
+Para verificar se o servidor Ollama está rodando, execute:
+
+Bash
+
+ps aux | grep ollama
+Se você vir o processo ollama serve na lista, significa que o servidor está ativo.
+
+Agora você deve ter o Ollama instalado e funcionando no seu Termux no Poco F3. Você pode interagir com os modelos diretamente no terminal do Termux.

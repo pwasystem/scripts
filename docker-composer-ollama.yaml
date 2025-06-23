@@ -1,0 +1,52 @@
+name: AI-System
+
+services:
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    ports:
+      - "80:8080"
+    volumes:
+      - ./open-webui:/app/backend/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - ai-network
+    depends_on:
+      - ollama
+      - searxng      
+    environment:
+      ENABLE_RAG_WEB_SEARCH: True
+      RAG_WEB_SEARCH_ENGINE: "searxng"
+      RAG_WEB_SEARCH_RESULT_COUNT: 3
+      RAG_WEB_SEARCH_CONCURRENT_REQUESTS: 10
+      SEARXNG_QUERY_URL: "http://searxng:8080/search?q=<query>"
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./ollama:/root/.ollama
+    stdin_open: true
+    tty: true
+    networks:
+      - ai-network
+      
+  searxng:  
+    image: searxng/searxng:latest
+    container_name: searxng
+    ports:
+      - "8080:8080"
+    volumes:      
+      - ./searxng:/etc/searxng
+    networks:
+      - ai-network
+    
+#volumes:
+#  ai-volume:
+
+networks:
+  ai-network:
+    driver: bridge

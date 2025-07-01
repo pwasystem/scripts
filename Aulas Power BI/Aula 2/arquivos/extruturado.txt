@@ -1,0 +1,4 @@
+Estado   | Sigla | Região      | Data       | Temp_Média | Precipitação | Clima
+---------|-------|-------------|------------|------------|--------------|-----------
+São Paulo| SP    | Sudeste     | 2023-01-01 | 25.4       | 185          | Tropical
+Bahia    | BA    | Nordeste    | 2023-01-01 | 29.7       | 90           | Semiárido

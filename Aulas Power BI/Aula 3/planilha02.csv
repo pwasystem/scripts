@@ -1,0 +1,21 @@
+ID_Transacao,Data_Pedido,Produto,Quantidade,Valor_Unitario,Localizacao,Status
+101,2023-01-15,Caneta Azul,10,2.50,SP,Concluído
+102,15/01/2023,Caderno Grande,5,,RJ,Pendente
+ABC,2023-Fev-20,Lápis Preto ,Sete,1,20,MG,Em Andamento
+104,2023-02-01,Borracha,-2,0.80,SP,cancelado
+105,03-10-2023,Apontador,3,Um Real,RJ,Concluído
+106,,Pasta A4,,5.00,MG,Concluído
+107,2023-03-25,Clipes,20,0.10,SP,Concluído
+108,2023-04-01,Grampeador,Um,35.00,RJ,Pendente
+109,05/04/2023,Fita Adesiva,15,2,99,MG,Concluído
+110,Data Inválida,Corretivo,5,3.50,SP,Concluído
+111,2023-06-10,,10,1.00,RJ,Pendente
+112,2023-06-15,Post-it,Não Informado,5.00,MG,Em Andamento
+113,2023-07-01,Régua,2,1.50,SP,Concluído
+114,2023-07-05,Estojo,1,Vinco,RJ,Concluído
+115,2023-07-10,Mochila,Nulo,80.00,MG,cancelado
+116,2023-07-15,Agenda,1,,SP,Pendente
+117,2023-07-20,Calculadora,1,50.00,RJ,Concluído
+118,2023-07-25,Etiquetas,30,Texto Aqui,MG,Concluído
+119,2023-08-01,Papel Sulfite,1 Pacote,20.00,SP,Concluído
+120,2023-08-05,Placa PVC,5,10,00,RJ,Em Andamento

@@ -1,0 +1,28 @@
+Estado										Sigla										Região										Data										Temperatura_Média_C										Temperatura_Mín_C										Temperatura_Máx_C										Precipitação_mm										Umidade_%										Velocidade_Vento_km_h										Clima_Predominante
+Acre										AC										Norte										2023-01-15										27.8										22.5										33.1										280										88										6.2										Equatorial
+Alagoas										AL										Nordeste										2023-01-15										28.2										24.1										32.3										120										75										14.3										Tropical
+Amapá										AP										Norte										2023-01-15										27.5										23.8										31.2										310										90										5.8										Equatorial
+Amazonas										AM										Norte										2023-01-15										30.1										24.5										35.7										320										92										4.9										Equatorial
+Bahia										BA										Nordeste										2023-01-15										29.5										24.3										34.7										95										68										15.1										Semiárido
+Ceará										CE										Nordeste										2023-01-15										31.2										26.1										36.3										45										58										20.7										Semiárido
+Distrito Federal										DF										Centro-Oeste										2023-01-15										24.8										18.9										30.7										180										65										12.5										Tropical
+Espírito Santo										ES										Sudeste										2023-01-15										27.3										22.7										31.9										150										78										11.2										Tropical
+Goiás										GO										Centro-Oeste										2023-01-15										26.9										20.5										33.3										110										62										13.8										Cerrado
+Maranhão										MA										Nordeste										2023-01-15										29.8										24.7										34.9										180										76										10.4										Tropical
+Mato Grosso										MT										Centro-Oeste										2023-01-15										28.5										22.3										34.7										200										70										9.6										Pantanal
+Mato Grosso do Sul										MS										Centro-Oeste										2023-01-15										27.7										21.5										33.9										170										72										11.3										Pantanal
+Minas Gerais										MG										Sudeste										2023-01-15										25.6										18.7										32.5										135										65										8.9										Tropical
+Pará										PA										Norte										2023-01-15										28.4										23.9										32.9										290										87										7.1										Equatorial
+Paraíba										PB										Nordeste										2023-01-15										30.1										25.6										34.6										60										63										16.8										Semiárido
+Paraná										PR										Sul										2023-01-15										22.3										16.4										28.2										190										82										10.5										Subtropical
+Pernambuco										PE										Nordeste										2023-01-15										29.7										25.2										34.2										80										71										14.2										Tropical
+Piauí										PI										Nordeste										2023-01-15										31.5										25.9										37.1										70										60										17.3										Caatinga
+Rio de Janeiro										RJ										Sudeste										2023-01-15										29.8										24.5										35.1										110										79										9.8										Tropical
+Rio Grande do Norte										RN										Nordeste										2023-01-15										30.3										25.8										34.9										55										66										18.5										Semiárido
+Rio Grande do Sul										RS										Sul										2023-01-15										23.5										17.8										29.2										165										78										14.7										Subtropical
+Rondônia										RO										Norte										2023-01-15										28.7										23.4										34.0										240										85										6.8										Equatorial
+Roraima										RR										Norte										2023-01-15										30.5										24.8										36.2										180										83										7.5										Equatorial
+Santa Catarina										SC										Sul										2023-01-15										21.8										16.2										27.4										210										85										13.2										Subtropical
+São Paulo										SP										Sudeste										2023-01-15										25.4										19.6										31.2										185										75										7.9										Tropical
+Sergipe										SE										Nordeste										2023-01-15										29.3										24.8										33.8										100										74										12.6										Tropical
+Tocantins										TO										Norte										2023-01-15										29.1										23.5										34.7										160										69										11.4										Cerrado

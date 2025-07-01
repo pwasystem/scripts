@@ -1,0 +1,102 @@
+{
+  "fonte": "Instituto Nacional de Meteorologia",
+  "atualizacao": "2023-12-15",
+  "dados": [
+    {
+      "estado": "São Paulo",
+      "sigla": "SP",
+      "regiao": "Sudeste",
+      "clima": {
+        "media_anual": {
+          "temperatura": 22.1,
+          "precipitacao": 1450,
+          "umidade": 78
+        },
+        "cidades": [
+          {
+            "nome": "São Paulo",
+            "altitude": 760,
+            "dados_mensais": [
+              {"mes": "Jan", "temp_max": 27.5, "temp_min": 18.8, "chuva": 240},
+              {"mes": "Fev", "temp_max": 27.8, "temp_min": 19.0, "chuva": 220},
+              {"mes": "Jul", "temp_max": 22.1, "temp_min": 12.3, "chuva": 45}
+            ]
+          },
+          {
+            "nome": "Campinas",
+            "altitude": 685,
+            "dados_mensais": [
+              {"mes": "Jan", "temp_max": 29.1, "temp_min": 19.2, "chuva": 280},
+              {"mes": "Fev", "temp_max": 29.0, "temp_min": 19.1, "chuva": 215},
+              {"mes": "Jul", "temp_max": 24.8, "temp_min": 13.0, "chuva": 35}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "estado": "Bahia",
+      "sigla": "BA",
+      "regiao": "Nordeste",
+      "clima": {
+        "media_anual": {
+          "temperatura": 26.5,
+          "precipitacao": 1100,
+          "umidade": 72
+        },
+        "cidades": [
+          {
+            "nome": "Salvador",
+            "altitude": 8,
+            "dados_mensais": [
+              {"mes": "Jan", "temp_max": 30.2, "temp_min": 24.1, "chuva": 110},
+              {"mes": "Fev", "temp_max": 30.5, "temp_min": 24.3, "chuva": 120},
+              {"mes": "Jul", "temp_max": 26.8, "temp_min": 21.5, "chuva": 195}
+            ]
+          },
+          {
+            "nome": "Ilhéus",
+            "altitude": 52,
+            "dados_mensais": [
+              {"mes": "Jan", "temp_max": 30.1, "temp_min": 22.8, "chuva": 145},
+              {"mes": "Fev", "temp_max": 30.3, "temp_min": 22.9, "chuva": 140},
+              {"mes": "Jul", "temp_max": 26.5, "temp_min": 20.1, "chuva": 155}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "estado": "Rio Grande do Sul",
+      "sigla": "RS",
+      "regiao": "Sul",
+      "clima": {
+        "media_anual": {
+          "temperatura": 18.3,
+          "precipitacao": 1650,
+          "umidade": 75
+        },
+        "cidades": [
+          {
+            "nome": "Porto Alegre",
+            "altitude": 10,
+            "dados_mensais": [
+              {"mes": "Jan", "temp_max": 30.5, "temp_min": 21.2, "chuva": 110},
+              {"mes": "Fev", "temp_max": 29.8, "temp_min": 21.0, "chuva": 130},
+              {"mes": "Jul", "temp_max": 19.6, "temp_min": 9.1, "chuva": 140}
+            ]
+          },
+          {
+            "nome": "Gramado",
+            "altitude": 830,
+            "dados_mensais": [
+              {"mes": "Jan", "temp_max": 25.1, "temp_min": 15.0, "chuva": 180},
+              {"mes": "Fev", "temp_max": 24.8, "temp_min": 15.2, "chuva": 165},
+              {"mes": "Jul", "temp_max": 16.2, "temp_min": 6.5, "chuva": 155}
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

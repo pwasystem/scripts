@@ -1,0 +1,1501 @@
+ID,Tipo_Servico,Categoria,Status,Departamento,Cliente,Data_Abertura,Hora_Abertura,Tempo_Resolucao_Horas,SLA_Contratado_Horas,Dentro_SLA,Satisfacao_Cliente,Complexidade,Responsavel
+5598,Manutenção,Baixa Prioridade,Pendente,Financeiro,Cliente D,2025-02-15,10:50,16,24,Sim,2,Média,Tecnico_7
+7106,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente E,2025-01-12,18:56,59,96,Sim,1,Alta,Tecnico_11
+1239,Atendimento ao Cliente,Baixa Prioridade,Pendente,RH,Cliente C,2025-04-14,9:03,158,48,Não,2,Baixa,Tecnico_17
+6179,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente D,2025-03-24,10:13,225,24,Não,1,Alta,Tecnico_14
+5607,Atendimento ao Cliente,Baixa Prioridade,Resolvido,TI,Cliente D,2025-02-13,8:22,86,48,Não,1,Alta,Tecnico_17
+4093,Manutenção,Alta Prioridade,Cancelado,RH,Cliente E,2025-03-04,16:51,36,24,Não,4,Média,Tecnico_18
+8292,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-06-03,11:29,110,72,Não,3,Alta,Tecnico_16
+4195,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Financeiro,Cliente B,2025-04-27,14:08,19,24,Sim,3,Alta,Tecnico_11
+8674,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente B,2024-12-20,8:13,82,72,Não,5,Média,Tecnico_15
+4702,Manutenção,Média Prioridade,Em Andamento,Comercial,Cliente E,2024-12-23,13:47,216,72,Não,1,Alta,Tecnico_8
+5231,Incidente Crítico,Baixa Prioridade,Resolvido,TI,Cliente A,2025-01-13,14:29,82,72,Não,4,Média,Tecnico_5
+4294,Atendimento ao Cliente,Alta Prioridade,Em Andamento,TI,Cliente B,2025-01-01,11:00,127,72,Não,5,Baixa,Tecnico_7
+6111,Solicitação de Serviço,Alta Prioridade,Cancelado,Financeiro,Cliente B,2025-05-03,17:36,111,24,Não,3,Alta,Tecnico_1
+1728,Incidente Crítico,Média Prioridade,Cancelado,Financeiro,Cliente B,2024-12-21,15:21,153,24,Não,2,Alta,Tecnico_7
+8814,Incidente Crítico,Alta Prioridade,Cancelado,TI,Cliente D,2025-03-21,8:23,183,24,Não,2,Média,Tecnico_12
+3097,Solicitação de Serviço,Baixa Prioridade,Resolvido,Comercial,Cliente A,2025-02-18,18:38,64,24,Não,3,Média,Tecnico_13
+7106,Atendimento ao Cliente,Baixa Prioridade,Pendente,RH,Cliente B,2025-05-22,12:55,234,96,Não,4,Alta,Tecnico_13
+2514,Manutenção,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-01-10,18:32,29,72,Sim,3,Média,Tecnico_5
+9133,Suporte Técnico,Baixa Prioridade,Em Andamento,Operações,Cliente D,2025-02-02,11:47,156,24,Não,2,Baixa,Tecnico_9
+4189,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente D,2025-04-22,18:14,125,96,Não,2,Baixa,Tecnico_19
+3334,Solicitação de Serviço,Baixa Prioridade,Cancelado,Comercial,Cliente B,2025-01-05,9:32,234,72,Não,3,Média,Tecnico_5
+2437,Manutenção,Média Prioridade,Pendente,Comercial,Cliente A,2025-01-07,14:30,234,96,Não,4,Baixa,Tecnico_16
+9104,Atendimento ao Cliente,Baixa Prioridade,Pendente,TI,Cliente E,2025-01-27,14:50,186,72,Não,4,Alta,Tecnico_11
+9653,Incidente Crítico,Baixa Prioridade,Cancelado,Operações,Cliente B,2025-05-23,9:07,216,24,Não,2,Baixa,Tecnico_17
+9186,Solicitação de Serviço,Média Prioridade,Em Andamento,RH,Cliente D,2025-05-26,14:29,61,24,Não,1,Alta,Tecnico_6
+4028,Incidente Crítico,Baixa Prioridade,Cancelado,Comercial,Cliente E,2025-03-24,14:35,98,96,Não,3,Baixa,Tecnico_1
+1490,Atendimento ao Cliente,Alta Prioridade,Em Andamento,TI,Cliente A,2025-01-05,15:38,178,48,Não,4,Alta,Tecnico_12
+7986,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Comercial,Cliente B,2025-01-30,11:08,191,72,Não,4,Média,Tecnico_4
+6745,Incidente Crítico,Baixa Prioridade,Resolvido,TI,Cliente C,2025-01-24,16:09,17,96,Sim,4,Média,Tecnico_1
+4267,Manutenção,Alta Prioridade,Pendente,TI,Cliente D,2025-01-19,10:45,46,24,Não,2,Média,Tecnico_9
+2681,Atendimento ao Cliente,Alta Prioridade,Cancelado,Operações,Cliente B,2025-06-06,9:13,145,96,Não,4,Alta,Tecnico_17
+2295,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Financeiro,Cliente D,2025-04-18,10:36,32,96,Sim,2,Alta,Tecnico_8
+6125,Suporte Técnico,Alta Prioridade,Pendente,TI,Cliente A,2025-01-19,8:07,131,72,Não,3,Alta,Tecnico_10
+2313,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente D,2025-03-05,17:37,52,96,Sim,5,Baixa,Tecnico_3
+2517,Incidente Crítico,Média Prioridade,Pendente,RH,Cliente B,2024-12-23,11:55,45,48,Sim,5,Baixa,Tecnico_12
+6795,Solicitação de Serviço,Alta Prioridade,Em Andamento,TI,Cliente A,2025-05-27,8:24,181,24,Não,3,Baixa,Tecnico_15
+6753,Suporte Técnico,Baixa Prioridade,Resolvido,Operações,Cliente E,2025-01-23,9:54,54,48,Não,4,Baixa,Tecnico_3
+8267,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente B,2025-02-28,16:36,34,96,Sim,3,Baixa,Tecnico_18
+7298,Incidente Crítico,Alta Prioridade,Em Andamento,Comercial,Cliente E,2025-03-17,11:48,239,48,Não,4,Média,Tecnico_3
+4329,Manutenção,Alta Prioridade,Resolvido,Operações,Cliente A,2025-02-06,13:14,174,24,Não,3,Alta,Tecnico_13
+6312,Solicitação de Serviço,Média Prioridade,Em Andamento,Comercial,Cliente E,2024-12-17,10:22,9,24,Sim,2,Alta,Tecnico_12
+3770,Incidente Crítico,Alta Prioridade,Em Andamento,RH,Cliente C,2025-04-02,14:30,92,48,Não,1,Alta,Tecnico_14
+6118,Manutenção,Baixa Prioridade,Cancelado,Comercial,Cliente A,2025-06-02,18:56,60,24,Não,3,Média,Tecnico_15
+5810,Atendimento ao Cliente,Alta Prioridade,Pendente,TI,Cliente C,2025-02-05,16:37,135,24,Não,3,Média,Tecnico_2
+1139,Incidente Crítico,Alta Prioridade,Resolvido,Comercial,Cliente D,2025-03-12,13:08,83,96,Sim,4,Alta,Tecnico_6
+6075,Solicitação de Serviço,Alta Prioridade,Pendente,Comercial,Cliente A,2025-05-08,10:24,216,24,Não,3,Alta,Tecnico_5
+4267,Solicitação de Serviço,Baixa Prioridade,Em Andamento,TI,Cliente D,2025-02-20,10:33,110,72,Não,2,Média,Tecnico_12
+3634,Solicitação de Serviço,Baixa Prioridade,Resolvido,RH,Cliente D,2025-04-14,11:03,23,24,Sim,3,Alta,Tecnico_5
+1354,Manutenção,Média Prioridade,Resolvido,TI,Cliente E,2025-03-16,11:20,99,48,Não,4,Média,Tecnico_5
+9233,Solicitação de Serviço,Alta Prioridade,Em Andamento,TI,Cliente A,2025-02-02,14:15,210,48,Não,4,Alta,Tecnico_9
+4652,Solicitação de Serviço,Alta Prioridade,Resolvido,Comercial,Cliente E,2025-06-07,14:04,69,48,Não,3,Alta,Tecnico_20
+7193,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Operações,Cliente C,2025-03-17,14:58,57,72,Sim,3,Alta,Tecnico_16
+7783,Suporte Técnico,Média Prioridade,Resolvido,TI,Cliente B,2025-03-01,11:16,93,48,Não,4,Média,Tecnico_7
+2169,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente E,2025-05-08,16:29,78,24,Não,4,Baixa,Tecnico_3
+3220,Atendimento ao Cliente,Média Prioridade,Pendente,Operações,Cliente D,2025-05-26,8:32,197,72,Não,4,Média,Tecnico_14
+7785,Manutenção,Média Prioridade,Resolvido,Operações,Cliente D,2025-05-24,17:21,181,48,Não,4,Média,Tecnico_1
+5211,Incidente Crítico,Alta Prioridade,Pendente,Operações,Cliente C,2024-12-15,15:27,124,96,Não,1,Baixa,Tecnico_13
+3172,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Financeiro,Cliente D,2025-01-12,12:16,114,96,Não,2,Média,Tecnico_11
+9776,Suporte Técnico,Média Prioridade,Resolvido,Comercial,Cliente D,2025-03-19,11:00,211,24,Não,1,Baixa,Tecnico_15
+2170,Suporte Técnico,Média Prioridade,Pendente,RH,Cliente C,2025-05-28,8:39,25,24,Não,2,Alta,Tecnico_7
+6631,Manutenção,Média Prioridade,Em Andamento,Financeiro,Cliente A,2025-02-15,13:16,113,24,Não,1,Média,Tecnico_8
+2635,Solicitação de Serviço,Média Prioridade,Pendente,Financeiro,Cliente E,2025-03-27,10:28,48,24,Não,3,Média,Tecnico_19
+7808,Atendimento ao Cliente,Baixa Prioridade,Cancelado,RH,Cliente B,2025-05-20,16:56,92,72,Não,4,Baixa,Tecnico_15
+7197,Suporte Técnico,Média Prioridade,Cancelado,Financeiro,Cliente A,2025-03-07,9:21,40,72,Sim,5,Média,Tecnico_11
+2539,Incidente Crítico,Baixa Prioridade,Cancelado,Comercial,Cliente E,2025-03-22,18:34,209,72,Não,4,Baixa,Tecnico_19
+3361,Solicitação de Serviço,Alta Prioridade,Cancelado,TI,Cliente B,2025-05-22,16:21,153,96,Não,5,Alta,Tecnico_3
+9300,Solicitação de Serviço,Média Prioridade,Em Andamento,Comercial,Cliente C,2025-04-08,8:22,164,72,Não,1,Baixa,Tecnico_6
+3881,Incidente Crítico,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-02-02,8:38,179,48,Não,4,Baixa,Tecnico_16
+6089,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente E,2025-04-08,17:17,31,24,Não,5,Média,Tecnico_4
+1205,Manutenção,Média Prioridade,Em Andamento,RH,Cliente B,2025-01-26,11:19,37,24,Não,2,Baixa,Tecnico_3
+7390,Incidente Crítico,Média Prioridade,Pendente,TI,Cliente E,2025-01-27,14:50,40,48,Sim,1,Baixa,Tecnico_3
+6601,Manutenção,Média Prioridade,Pendente,TI,Cliente A,2024-12-28,11:07,86,24,Não,2,Alta,Tecnico_1
+4349,Solicitação de Serviço,Média Prioridade,Resolvido,RH,Cliente A,2025-03-26,8:19,89,96,Sim,2,Alta,Tecnico_2
+9052,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,RH,Cliente B,2025-04-15,17:45,1,24,Sim,4,Média,Tecnico_10
+8628,Incidente Crítico,Média Prioridade,Cancelado,Comercial,Cliente B,2025-01-02,18:03,75,24,Não,4,Média,Tecnico_18
+1054,Incidente Crítico,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2025-02-02,9:50,102,72,Não,2,Baixa,Tecnico_11
+2438,Incidente Crítico,Alta Prioridade,Pendente,Financeiro,Cliente D,2025-01-27,12:06,172,48,Não,4,Alta,Tecnico_6
+3259,Manutenção,Média Prioridade,Em Andamento,RH,Cliente C,2025-02-23,10:24,120,96,Não,1,Baixa,Tecnico_20
+8263,Incidente Crítico,Média Prioridade,Cancelado,Financeiro,Cliente E,2025-02-10,11:24,75,24,Não,1,Alta,Tecnico_15
+4732,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-03-13,15:06,223,72,Não,3,Alta,Tecnico_1
+3680,Solicitação de Serviço,Média Prioridade,Cancelado,Comercial,Cliente C,2025-04-06,17:22,166,48,Não,5,Média,Tecnico_19
+7003,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2025-02-20,16:09,164,72,Não,3,Alta,Tecnico_15
+6507,Manutenção,Alta Prioridade,Em Andamento,TI,Cliente A,2025-02-13,9:49,129,24,Não,1,Baixa,Tecnico_4
+9956,Suporte Técnico,Média Prioridade,Cancelado,Financeiro,Cliente B,2025-05-30,14:03,79,96,Sim,4,Alta,Tecnico_17
+2339,Suporte Técnico,Alta Prioridade,Pendente,TI,Cliente E,2025-06-04,18:50,57,96,Sim,5,Média,Tecnico_18
+4543,Atendimento ao Cliente,Média Prioridade,Pendente,RH,Cliente E,2025-05-04,13:21,53,48,Não,1,Alta,Tecnico_14
+5087,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Operações,Cliente B,2025-02-20,15:36,228,96,Não,3,Média,Tecnico_16
+1225,Solicitação de Serviço,Média Prioridade,Resolvido,RH,Cliente A,2025-03-10,18:20,88,48,Não,2,Alta,Tecnico_16
+1889,Suporte Técnico,Alta Prioridade,Pendente,TI,Cliente E,2024-12-11,13:24,21,48,Sim,3,Média,Tecnico_15
+7765,Manutenção,Média Prioridade,Em Andamento,Comercial,Cliente C,2025-03-05,17:26,24,48,Sim,2,Média,Tecnico_6
+6503,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente A,2025-04-10,9:21,161,24,Não,4,Alta,Tecnico_6
+1277,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-04-21,12:22,55,24,Não,5,Alta,Tecnico_18
+1236,Suporte Técnico,Alta Prioridade,Em Andamento,RH,Cliente D,2025-01-06,16:44,90,24,Não,2,Baixa,Tecnico_14
+8905,Solicitação de Serviço,Baixa Prioridade,Resolvido,Operações,Cliente E,2025-04-26,14:19,38,96,Sim,3,Média,Tecnico_7
+8750,Suporte Técnico,Baixa Prioridade,Resolvido,TI,Cliente D,2025-03-23,18:30,158,72,Não,3,Média,Tecnico_18
+4089,Atendimento ao Cliente,Média Prioridade,Em Andamento,Financeiro,Cliente B,2025-01-14,8:54,171,72,Não,5,Média,Tecnico_16
+9121,Atendimento ao Cliente,Alta Prioridade,Resolvido,RH,Cliente E,2025-02-17,10:34,15,72,Sim,4,Média,Tecnico_6
+3582,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-05-05,15:53,44,24,Não,3,Alta,Tecnico_14
+3639,Solicitação de Serviço,Alta Prioridade,Pendente,Financeiro,Cliente D,2025-02-15,13:51,108,72,Não,5,Média,Tecnico_15
+5933,Manutenção,Baixa Prioridade,Cancelado,RH,Cliente A,2025-05-09,9:09,227,48,Não,3,Alta,Tecnico_18
+1977,Manutenção,Alta Prioridade,Resolvido,Financeiro,Cliente E,2025-02-03,9:05,56,96,Sim,3,Alta,Tecnico_18
+3584,Atendimento ao Cliente,Média Prioridade,Resolvido,Operações,Cliente E,2025-01-24,8:43,19,96,Sim,3,Baixa,Tecnico_18
+1939,Solicitação de Serviço,Média Prioridade,Resolvido,Operações,Cliente E,2025-02-04,16:38,96,72,Não,3,Alta,Tecnico_15
+9818,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Operações,Cliente B,2024-12-31,12:02,193,96,Não,1,Baixa,Tecnico_1
+9369,Incidente Crítico,Média Prioridade,Cancelado,Operações,Cliente C,2025-05-15,8:11,182,72,Não,5,Baixa,Tecnico_11
+1704,Suporte Técnico,Alta Prioridade,Cancelado,Operações,Cliente A,2025-02-24,17:36,69,24,Não,4,Média,Tecnico_9
+6614,Suporte Técnico,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-03-15,9:58,126,24,Não,2,Média,Tecnico_17
+9023,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente C,2025-03-30,13:12,141,48,Não,1,Baixa,Tecnico_13
+9347,Incidente Crítico,Baixa Prioridade,Cancelado,Financeiro,Cliente A,2024-12-31,15:51,60,48,Não,4,Baixa,Tecnico_10
+4582,Suporte Técnico,Alta Prioridade,Cancelado,TI,Cliente A,2025-04-10,10:23,75,48,Não,1,Média,Tecnico_11
+7114,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente A,2025-03-29,8:49,222,96,Não,3,Média,Tecnico_12
+6818,Incidente Crítico,Média Prioridade,Resolvido,Comercial,Cliente E,2025-01-09,12:28,64,48,Não,4,Alta,Tecnico_1
+4881,Incidente Crítico,Baixa Prioridade,Pendente,TI,Cliente D,2025-05-28,15:46,122,72,Não,1,Baixa,Tecnico_1
+7383,Incidente Crítico,Baixa Prioridade,Resolvido,TI,Cliente C,2025-02-02,16:55,143,96,Não,1,Baixa,Tecnico_10
+9974,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente B,2025-04-01,9:06,103,96,Não,2,Baixa,Tecnico_1
+8722,Manutenção,Alta Prioridade,Em Andamento,TI,Cliente B,2025-02-07,18:49,68,48,Não,3,Baixa,Tecnico_20
+1545,Atendimento ao Cliente,Média Prioridade,Resolvido,RH,Cliente B,2025-04-18,10:12,95,48,Não,2,Baixa,Tecnico_1
+7855,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente E,2025-03-20,9:22,53,24,Não,2,Alta,Tecnico_1
+1896,Atendimento ao Cliente,Baixa Prioridade,Resolvido,TI,Cliente B,2025-02-18,18:38,7,24,Sim,3,Baixa,Tecnico_10
+9293,Manutenção,Média Prioridade,Resolvido,Operações,Cliente E,2024-12-28,9:59,178,96,Não,5,Alta,Tecnico_4
+7388,Suporte Técnico,Baixa Prioridade,Cancelado,Comercial,Cliente E,2025-05-13,10:44,47,72,Sim,5,Baixa,Tecnico_11
+3424,Incidente Crítico,Média Prioridade,Pendente,Comercial,Cliente E,2025-04-02,9:20,196,96,Não,3,Média,Tecnico_9
+4266,Manutenção,Média Prioridade,Cancelado,Comercial,Cliente C,2025-05-18,11:13,143,72,Não,4,Baixa,Tecnico_5
+6010,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente B,2025-03-23,15:21,234,24,Não,5,Média,Tecnico_1
+9998,Atendimento ao Cliente,Baixa Prioridade,Cancelado,RH,Cliente D,2025-02-14,12:51,22,24,Sim,2,Média,Tecnico_18
+3114,Atendimento ao Cliente,Baixa Prioridade,Pendente,Operações,Cliente A,2025-05-22,14:38,172,48,Não,3,Alta,Tecnico_20
+9255,Incidente Crítico,Média Prioridade,Resolvido,Operações,Cliente C,2025-02-06,15:19,66,96,Sim,5,Alta,Tecnico_15
+5769,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente E,2025-05-06,15:32,20,72,Sim,5,Alta,Tecnico_2
+7456,Suporte Técnico,Alta Prioridade,Cancelado,RH,Cliente A,2025-02-19,17:45,110,24,Não,2,Alta,Tecnico_19
+6125,Manutenção,Baixa Prioridade,Em Andamento,RH,Cliente E,2025-04-16,17:20,112,96,Não,1,Média,Tecnico_11
+7037,Suporte Técnico,Alta Prioridade,Resolvido,RH,Cliente A,2025-02-13,8:19,157,96,Não,5,Média,Tecnico_9
+4376,Manutenção,Alta Prioridade,Resolvido,Operações,Cliente D,2025-03-31,14:35,77,96,Sim,1,Baixa,Tecnico_9
+5955,Solicitação de Serviço,Média Prioridade,Pendente,TI,Cliente E,2025-05-15,8:35,100,24,Não,3,Alta,Tecnico_15
+4199,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente E,2025-03-04,10:39,45,24,Não,2,Alta,Tecnico_11
+6322,Solicitação de Serviço,Alta Prioridade,Em Andamento,RH,Cliente B,2024-12-23,14:05,141,72,Não,2,Alta,Tecnico_14
+1591,Suporte Técnico,Média Prioridade,Cancelado,Comercial,Cliente C,2025-01-27,14:32,154,96,Não,1,Média,Tecnico_9
+1638,Manutenção,Média Prioridade,Pendente,Financeiro,Cliente B,2024-12-23,8:05,51,48,Não,4,Baixa,Tecnico_15
+1870,Atendimento ao Cliente,Baixa Prioridade,Resolvido,TI,Cliente C,2025-04-11,15:20,194,48,Não,3,Baixa,Tecnico_19
+1178,Atendimento ao Cliente,Alta Prioridade,Resolvido,Operações,Cliente C,2025-01-23,10:20,183,96,Não,5,Média,Tecnico_8
+9330,Incidente Crítico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-05-19,11:28,66,48,Não,4,Média,Tecnico_19
+7545,Atendimento ao Cliente,Alta Prioridade,Cancelado,RH,Cliente C,2025-01-04,17:12,236,48,Não,2,Alta,Tecnico_5
+8568,Manutenção,Alta Prioridade,Resolvido,Financeiro,Cliente D,2025-02-01,8:12,61,48,Não,5,Alta,Tecnico_18
+9024,Incidente Crítico,Alta Prioridade,Cancelado,Financeiro,Cliente A,2025-03-03,9:29,62,96,Sim,2,Alta,Tecnico_7
+8599,Incidente Crítico,Baixa Prioridade,Pendente,TI,Cliente E,2025-04-16,18:19,125,96,Não,2,Alta,Tecnico_1
+9934,Incidente Crítico,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-05-02,9:20,87,72,Não,2,Alta,Tecnico_18
+6114,Suporte Técnico,Baixa Prioridade,Cancelado,Financeiro,Cliente A,2025-05-26,12:44,77,48,Não,5,Baixa,Tecnico_19
+1191,Manutenção,Média Prioridade,Resolvido,RH,Cliente C,2024-12-17,13:19,196,24,Não,4,Baixa,Tecnico_7
+1735,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,TI,Cliente C,2025-02-07,16:08,95,96,Sim,2,Alta,Tecnico_20
+9270,Suporte Técnico,Alta Prioridade,Resolvido,RH,Cliente B,2025-05-27,8:47,157,24,Não,2,Baixa,Tecnico_12
+5466,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente A,2025-01-04,11:13,2,96,Sim,3,Baixa,Tecnico_3
+1420,Manutenção,Média Prioridade,Em Andamento,Operações,Cliente A,2025-02-22,11:51,81,24,Não,1,Baixa,Tecnico_16
+7082,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente A,2025-05-20,11:15,113,72,Não,2,Baixa,Tecnico_16
+4003,Solicitação de Serviço,Alta Prioridade,Cancelado,TI,Cliente C,2024-12-12,17:28,214,96,Não,4,Média,Tecnico_1
+9636,Solicitação de Serviço,Baixa Prioridade,Pendente,Operações,Cliente C,2025-03-22,10:53,180,48,Não,3,Média,Tecnico_11
+3466,Manutenção,Alta Prioridade,Cancelado,TI,Cliente B,2025-05-13,8:55,47,96,Sim,5,Média,Tecnico_5
+2918,Atendimento ao Cliente,Média Prioridade,Cancelado,TI,Cliente D,2025-04-26,8:26,216,48,Não,4,Baixa,Tecnico_6
+3650,Solicitação de Serviço,Média Prioridade,Cancelado,Operações,Cliente C,2025-03-02,15:27,81,72,Não,2,Baixa,Tecnico_7
+3996,Manutenção,Média Prioridade,Resolvido,RH,Cliente D,2025-04-03,17:45,7,96,Sim,3,Média,Tecnico_19
+2397,Incidente Crítico,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-05-03,12:27,7,96,Sim,2,Alta,Tecnico_3
+4102,Suporte Técnico,Baixa Prioridade,Pendente,Operações,Cliente D,2025-03-07,12:59,217,96,Não,5,Alta,Tecnico_12
+7783,Manutenção,Alta Prioridade,Resolvido,RH,Cliente C,2025-02-11,15:23,200,96,Não,1,Alta,Tecnico_12
+8881,Suporte Técnico,Baixa Prioridade,Pendente,TI,Cliente D,2025-04-13,8:23,234,48,Não,2,Baixa,Tecnico_8
+8532,Suporte Técnico,Alta Prioridade,Cancelado,RH,Cliente D,2025-01-18,18:16,179,96,Não,5,Alta,Tecnico_18
+2726,Suporte Técnico,Baixa Prioridade,Resolvido,TI,Cliente B,2025-03-09,14:20,158,24,Não,2,Alta,Tecnico_17
+9644,Solicitação de Serviço,Baixa Prioridade,Pendente,RH,Cliente A,2025-01-09,12:39,162,48,Não,5,Baixa,Tecnico_4
+7062,Solicitação de Serviço,Baixa Prioridade,Resolvido,TI,Cliente D,2025-04-08,14:26,33,24,Não,4,Baixa,Tecnico_12
+6302,Incidente Crítico,Alta Prioridade,Cancelado,TI,Cliente E,2025-06-03,8:16,62,24,Não,1,Alta,Tecnico_14
+5589,Manutenção,Média Prioridade,Cancelado,RH,Cliente E,2025-05-13,13:22,211,48,Não,5,Alta,Tecnico_10
+5399,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Financeiro,Cliente B,2024-12-23,18:41,104,72,Não,1,Média,Tecnico_20
+4182,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente B,2025-02-13,13:40,156,72,Não,5,Média,Tecnico_13
+8188,Suporte Técnico,Média Prioridade,Em Andamento,Comercial,Cliente B,2025-04-21,9:50,3,24,Sim,3,Média,Tecnico_9
+7839,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente C,2025-04-12,9:32,158,24,Não,4,Alta,Tecnico_9
+7720,Suporte Técnico,Alta Prioridade,Resolvido,Operações,Cliente C,2025-01-19,13:57,207,24,Não,5,Baixa,Tecnico_8
+5054,Solicitação de Serviço,Média Prioridade,Em Andamento,RH,Cliente D,2025-06-05,13:58,94,72,Não,4,Média,Tecnico_8
+1222,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente A,2025-02-07,10:48,191,48,Não,3,Média,Tecnico_7
+8149,Suporte Técnico,Média Prioridade,Pendente,Operações,Cliente D,2025-01-10,14:34,238,96,Não,2,Alta,Tecnico_10
+5165,Suporte Técnico,Baixa Prioridade,Resolvido,TI,Cliente A,2025-05-12,17:57,96,72,Não,1,Alta,Tecnico_12
+9201,Incidente Crítico,Alta Prioridade,Resolvido,Operações,Cliente C,2025-02-14,14:09,32,96,Sim,5,Alta,Tecnico_12
+6694,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente C,2025-04-25,17:50,35,24,Não,5,Alta,Tecnico_6
+2881,Suporte Técnico,Baixa Prioridade,Em Andamento,Financeiro,Cliente B,2025-05-15,18:59,93,48,Não,3,Média,Tecnico_6
+2842,Suporte Técnico,Baixa Prioridade,Resolvido,TI,Cliente C,2025-01-30,16:30,113,72,Não,5,Média,Tecnico_5
+1602,Incidente Crítico,Média Prioridade,Pendente,Financeiro,Cliente E,2025-01-20,18:13,70,24,Não,1,Média,Tecnico_4
+5144,Solicitação de Serviço,Alta Prioridade,Pendente,TI,Cliente B,2025-02-10,13:48,138,48,Não,2,Média,Tecnico_3
+3719,Solicitação de Serviço,Alta Prioridade,Em Andamento,Financeiro,Cliente E,2025-02-26,9:51,34,72,Sim,4,Baixa,Tecnico_4
+1787,Solicitação de Serviço,Média Prioridade,Cancelado,Operações,Cliente C,2025-03-20,8:32,195,24,Não,3,Média,Tecnico_19
+5061,Suporte Técnico,Alta Prioridade,Pendente,Comercial,Cliente B,2024-12-12,17:45,165,72,Não,5,Média,Tecnico_9
+8957,Manutenção,Média Prioridade,Resolvido,Financeiro,Cliente C,2025-01-10,12:15,231,24,Não,5,Baixa,Tecnico_7
+4118,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente C,2025-04-17,14:46,202,96,Não,1,Baixa,Tecnico_5
+7885,Incidente Crítico,Baixa Prioridade,Resolvido,TI,Cliente E,2025-06-04,13:27,211,96,Não,2,Média,Tecnico_2
+5916,Suporte Técnico,Alta Prioridade,Pendente,Operações,Cliente D,2025-05-23,17:27,214,48,Não,2,Baixa,Tecnico_6
+1601,Manutenção,Baixa Prioridade,Cancelado,Comercial,Cliente B,2025-03-16,11:59,113,96,Não,1,Média,Tecnico_8
+9954,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente E,2025-04-19,17:23,72,48,Não,3,Alta,Tecnico_9
+9845,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente C,2025-04-02,9:28,109,96,Não,2,Média,Tecnico_12
+3312,Solicitação de Serviço,Média Prioridade,Em Andamento,Comercial,Cliente E,2025-02-01,15:00,50,24,Não,3,Alta,Tecnico_12
+4799,Suporte Técnico,Alta Prioridade,Cancelado,TI,Cliente C,2025-01-12,14:28,217,96,Não,4,Alta,Tecnico_18
+4598,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente B,2025-04-14,14:16,147,72,Não,4,Alta,Tecnico_1
+6761,Manutenção,Alta Prioridade,Resolvido,Comercial,Cliente A,2025-01-04,11:46,60,48,Não,2,Baixa,Tecnico_9
+5068,Suporte Técnico,Média Prioridade,Pendente,Comercial,Cliente A,2025-02-26,9:49,192,96,Não,2,Baixa,Tecnico_19
+6503,Atendimento ao Cliente,Alta Prioridade,Cancelado,RH,Cliente A,2025-02-05,17:45,62,24,Não,4,Média,Tecnico_9
+6157,Incidente Crítico,Média Prioridade,Em Andamento,TI,Cliente E,2025-04-03,10:21,177,24,Não,1,Baixa,Tecnico_8
+4721,Incidente Crítico,Alta Prioridade,Em Andamento,Financeiro,Cliente E,2025-04-14,14:22,163,48,Não,1,Baixa,Tecnico_8
+6002,Atendimento ao Cliente,Média Prioridade,Cancelado,RH,Cliente C,2024-12-29,17:29,152,96,Não,2,Baixa,Tecnico_19
+9731,Solicitação de Serviço,Baixa Prioridade,Resolvido,TI,Cliente C,2025-03-10,14:30,176,48,Não,1,Baixa,Tecnico_11
+9483,Suporte Técnico,Média Prioridade,Resolvido,Financeiro,Cliente D,2025-05-20,12:35,182,48,Não,4,Média,Tecnico_8
+4243,Suporte Técnico,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-02-24,17:04,83,96,Sim,5,Média,Tecnico_12
+2945,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente D,2024-12-29,15:42,228,96,Não,1,Alta,Tecnico_5
+9124,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente E,2025-03-05,16:19,7,24,Sim,4,Média,Tecnico_2
+6137,Manutenção,Média Prioridade,Cancelado,TI,Cliente E,2024-12-25,13:02,4,48,Sim,3,Baixa,Tecnico_18
+7989,Atendimento ao Cliente,Alta Prioridade,Pendente,TI,Cliente D,2025-04-21,16:20,118,72,Não,3,Alta,Tecnico_1
+8276,Solicitação de Serviço,Alta Prioridade,Resolvido,Financeiro,Cliente A,2025-02-04,16:31,150,48,Não,3,Baixa,Tecnico_10
+4632,Atendimento ao Cliente,Média Prioridade,Pendente,RH,Cliente B,2024-12-30,8:55,10,24,Sim,2,Baixa,Tecnico_16
+8925,Solicitação de Serviço,Média Prioridade,Em Andamento,RH,Cliente E,2025-04-10,17:27,111,96,Não,3,Baixa,Tecnico_16
+7715,Manutenção,Alta Prioridade,Resolvido,Operações,Cliente A,2025-04-21,17:04,78,24,Não,1,Baixa,Tecnico_2
+7306,Atendimento ao Cliente,Média Prioridade,Cancelado,RH,Cliente C,2025-01-12,11:56,175,48,Não,5,Média,Tecnico_8
+6563,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente A,2024-12-12,17:57,55,24,Não,1,Alta,Tecnico_3
+9914,Suporte Técnico,Baixa Prioridade,Resolvido,Operações,Cliente A,2025-01-18,8:28,174,24,Não,2,Baixa,Tecnico_8
+7172,Solicitação de Serviço,Média Prioridade,Pendente,Operações,Cliente B,2025-04-04,17:02,70,48,Não,3,Média,Tecnico_15
+8612,Suporte Técnico,Baixa Prioridade,Cancelado,RH,Cliente E,2024-12-22,10:55,239,72,Não,3,Alta,Tecnico_5
+2027,Manutenção,Alta Prioridade,Pendente,Operações,Cliente C,2025-01-26,15:58,225,24,Não,4,Média,Tecnico_16
+8191,Solicitação de Serviço,Média Prioridade,Resolvido,TI,Cliente D,2025-05-01,17:40,36,96,Sim,4,Baixa,Tecnico_4
+5225,Incidente Crítico,Alta Prioridade,Pendente,Comercial,Cliente C,2025-03-15,13:46,38,96,Sim,2,Alta,Tecnico_19
+8906,Incidente Crítico,Baixa Prioridade,Em Andamento,Operações,Cliente A,2025-02-08,9:03,82,96,Sim,3,Baixa,Tecnico_7
+9950,Solicitação de Serviço,Média Prioridade,Resolvido,Comercial,Cliente D,2025-04-09,18:15,231,72,Não,3,Baixa,Tecnico_3
+7153,Manutenção,Média Prioridade,Em Andamento,TI,Cliente E,2025-04-24,13:03,69,24,Não,5,Alta,Tecnico_20
+4399,Manutenção,Alta Prioridade,Cancelado,RH,Cliente E,2025-04-26,15:39,13,24,Sim,5,Média,Tecnico_17
+6877,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente D,2025-01-01,18:39,54,24,Não,2,Baixa,Tecnico_9
+1767,Manutenção,Alta Prioridade,Cancelado,TI,Cliente D,2024-12-26,9:49,175,96,Não,2,Baixa,Tecnico_5
+2287,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Financeiro,Cliente A,2025-01-15,17:21,156,48,Não,2,Média,Tecnico_20
+8450,Atendimento ao Cliente,Alta Prioridade,Pendente,Comercial,Cliente A,2025-04-15,11:35,54,96,Sim,3,Baixa,Tecnico_7
+7468,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente C,2025-04-12,14:35,6,96,Sim,1,Alta,Tecnico_10
+9815,Solicitação de Serviço,Média Prioridade,Cancelado,Operações,Cliente D,2024-12-18,12:54,62,96,Sim,3,Baixa,Tecnico_12
+4327,Atendimento ao Cliente,Média Prioridade,Em Andamento,Comercial,Cliente A,2025-05-13,18:58,140,96,Não,4,Baixa,Tecnico_11
+1749,Suporte Técnico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-03-26,14:27,132,96,Não,5,Média,Tecnico_11
+5014,Solicitação de Serviço,Média Prioridade,Pendente,Operações,Cliente E,2024-12-19,15:56,140,48,Não,5,Média,Tecnico_12
+8990,Solicitação de Serviço,Alta Prioridade,Cancelado,Comercial,Cliente D,2024-12-15,14:27,209,96,Não,3,Baixa,Tecnico_13
+2756,Suporte Técnico,Média Prioridade,Em Andamento,Financeiro,Cliente E,2025-03-25,9:53,126,72,Não,3,Baixa,Tecnico_13
+5097,Atendimento ao Cliente,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-04-19,16:31,105,24,Não,1,Alta,Tecnico_11
+9102,Incidente Crítico,Média Prioridade,Resolvido,TI,Cliente C,2025-02-14,15:43,108,48,Não,4,Média,Tecnico_4
+5790,Solicitação de Serviço,Baixa Prioridade,Pendente,Operações,Cliente C,2025-03-13,14:21,193,24,Não,1,Baixa,Tecnico_18
+7240,Incidente Crítico,Média Prioridade,Em Andamento,Operações,Cliente A,2025-02-12,12:09,78,96,Sim,3,Média,Tecnico_7
+4303,Atendimento ao Cliente,Baixa Prioridade,Pendente,RH,Cliente A,2025-05-07,11:41,28,72,Sim,5,Baixa,Tecnico_13
+2782,Solicitação de Serviço,Média Prioridade,Resolvido,Operações,Cliente D,2025-02-12,12:13,119,96,Não,3,Média,Tecnico_9
+6903,Atendimento ao Cliente,Média Prioridade,Cancelado,Comercial,Cliente A,2025-04-05,14:00,101,72,Não,4,Baixa,Tecnico_7
+1516,Incidente Crítico,Alta Prioridade,Em Andamento,RH,Cliente E,2025-04-24,12:49,88,48,Não,4,Alta,Tecnico_18
+8652,Atendimento ao Cliente,Média Prioridade,Pendente,Financeiro,Cliente E,2025-06-09,15:48,220,48,Não,2,Média,Tecnico_15
+5892,Manutenção,Alta Prioridade,Em Andamento,RH,Cliente A,2025-01-30,11:38,20,48,Sim,3,Alta,Tecnico_7
+2418,Atendimento ao Cliente,Média Prioridade,Pendente,Financeiro,Cliente A,2025-04-19,17:15,48,96,Sim,3,Baixa,Tecnico_2
+6114,Suporte Técnico,Média Prioridade,Resolvido,Financeiro,Cliente A,2025-05-26,11:44,234,96,Não,1,Baixa,Tecnico_7
+9867,Manutenção,Média Prioridade,Em Andamento,Operações,Cliente D,2025-03-02,10:30,4,24,Sim,4,Alta,Tecnico_1
+6268,Suporte Técnico,Alta Prioridade,Cancelado,RH,Cliente C,2025-05-20,17:31,147,48,Não,1,Baixa,Tecnico_19
+4556,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente D,2025-03-15,11:17,34,48,Sim,4,Alta,Tecnico_19
+4874,Incidente Crítico,Média Prioridade,Resolvido,Financeiro,Cliente D,2025-01-03,12:38,189,96,Não,2,Baixa,Tecnico_15
+9136,Atendimento ao Cliente,Média Prioridade,Em Andamento,Comercial,Cliente D,2024-12-16,12:44,76,48,Não,1,Média,Tecnico_9
+3541,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Comercial,Cliente B,2025-05-24,18:51,36,24,Não,4,Alta,Tecnico_18
+1457,Incidente Crítico,Média Prioridade,Pendente,TI,Cliente B,2025-05-20,8:14,53,24,Não,1,Baixa,Tecnico_19
+7813,Atendimento ao Cliente,Baixa Prioridade,Pendente,Financeiro,Cliente E,2025-01-02,8:32,94,48,Não,2,Média,Tecnico_12
+3246,Solicitação de Serviço,Média Prioridade,Em Andamento,TI,Cliente D,2024-12-18,17:55,223,48,Não,3,Baixa,Tecnico_10
+2077,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente A,2025-04-23,15:03,62,48,Não,5,Alta,Tecnico_10
+3230,Manutenção,Média Prioridade,Resolvido,Operações,Cliente B,2025-03-01,16:09,15,48,Sim,3,Média,Tecnico_1
+3961,Manutenção,Alta Prioridade,Pendente,Comercial,Cliente E,2025-06-09,16:05,4,24,Sim,4,Alta,Tecnico_5
+5067,Incidente Crítico,Alta Prioridade,Pendente,TI,Cliente A,2025-01-10,8:45,134,72,Não,1,Baixa,Tecnico_16
+5152,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente B,2025-05-21,16:56,66,24,Não,3,Média,Tecnico_9
+8190,Manutenção,Alta Prioridade,Cancelado,Comercial,Cliente E,2025-05-28,10:02,203,72,Não,1,Alta,Tecnico_18
+7634,Incidente Crítico,Baixa Prioridade,Resolvido,Operações,Cliente D,2025-03-21,12:02,122,96,Não,1,Média,Tecnico_8
+8749,Suporte Técnico,Média Prioridade,Resolvido,TI,Cliente C,2025-04-22,14:08,232,96,Não,1,Baixa,Tecnico_13
+3922,Manutenção,Baixa Prioridade,Em Andamento,Comercial,Cliente B,2025-05-24,8:27,11,72,Sim,1,Baixa,Tecnico_5
+3720,Manutenção,Baixa Prioridade,Pendente,Operações,Cliente E,2025-02-22,15:46,33,72,Sim,5,Alta,Tecnico_8
+7515,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente E,2025-05-26,11:52,146,96,Não,4,Alta,Tecnico_10
+8246,Manutenção,Baixa Prioridade,Resolvido,Financeiro,Cliente E,2025-03-28,13:24,70,48,Não,1,Média,Tecnico_9
+9523,Suporte Técnico,Baixa Prioridade,Cancelado,Comercial,Cliente D,2025-02-13,18:13,41,24,Não,4,Média,Tecnico_3
+5105,Manutenção,Baixa Prioridade,Pendente,TI,Cliente C,2025-05-31,13:06,62,24,Não,1,Alta,Tecnico_19
+8691,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente A,2025-02-22,13:26,116,48,Não,1,Baixa,Tecnico_20
+5258,Incidente Crítico,Baixa Prioridade,Em Andamento,Financeiro,Cliente C,2025-04-16,9:34,239,48,Não,1,Alta,Tecnico_3
+9260,Manutenção,Alta Prioridade,Resolvido,RH,Cliente D,2025-05-07,16:03,197,48,Não,2,Alta,Tecnico_5
+4750,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente C,2025-05-30,14:04,106,48,Não,4,Baixa,Tecnico_16
+3355,Atendimento ao Cliente,Alta Prioridade,Resolvido,Operações,Cliente E,2024-12-23,17:00,205,48,Não,3,Baixa,Tecnico_17
+8998,Atendimento ao Cliente,Média Prioridade,Cancelado,TI,Cliente C,2025-01-03,10:05,58,96,Sim,2,Média,Tecnico_1
+5492,Atendimento ao Cliente,Média Prioridade,Resolvido,Comercial,Cliente C,2025-05-04,13:53,167,24,Não,5,Baixa,Tecnico_8
+2058,Incidente Crítico,Baixa Prioridade,Resolvido,TI,Cliente B,2025-02-07,14:01,184,48,Não,4,Média,Tecnico_13
+8403,Atendimento ao Cliente,Alta Prioridade,Resolvido,Operações,Cliente B,2025-06-07,16:00,151,24,Não,4,Média,Tecnico_15
+8929,Suporte Técnico,Alta Prioridade,Cancelado,Comercial,Cliente E,2025-04-13,11:39,51,96,Sim,2,Média,Tecnico_6
+3617,Manutenção,Baixa Prioridade,Em Andamento,TI,Cliente C,2025-06-06,8:03,231,72,Não,4,Alta,Tecnico_19
+8254,Suporte Técnico,Alta Prioridade,Cancelado,TI,Cliente A,2025-01-09,9:17,64,24,Não,3,Baixa,Tecnico_1
+2424,Suporte Técnico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-01-14,8:05,89,72,Não,5,Baixa,Tecnico_18
+7444,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Financeiro,Cliente D,2025-04-22,12:47,123,24,Não,2,Baixa,Tecnico_16
+1585,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente A,2025-02-22,12:13,42,48,Sim,1,Média,Tecnico_18
+1361,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-05-11,15:47,90,24,Não,2,Alta,Tecnico_1
+1719,Manutenção,Baixa Prioridade,Pendente,TI,Cliente B,2025-01-16,17:43,158,24,Não,3,Alta,Tecnico_2
+9239,Atendimento ao Cliente,Alta Prioridade,Em Andamento,TI,Cliente C,2025-05-07,18:45,55,24,Não,2,Alta,Tecnico_11
+8452,Incidente Crítico,Média Prioridade,Em Andamento,RH,Cliente E,2025-03-12,11:33,14,96,Sim,2,Média,Tecnico_13
+4041,Solicitação de Serviço,Alta Prioridade,Pendente,Financeiro,Cliente A,2025-01-08,12:15,149,24,Não,1,Alta,Tecnico_16
+9754,Solicitação de Serviço,Média Prioridade,Resolvido,Comercial,Cliente C,2025-02-15,17:07,211,48,Não,5,Alta,Tecnico_8
+2573,Solicitação de Serviço,Média Prioridade,Em Andamento,Financeiro,Cliente B,2025-01-14,11:35,69,96,Sim,3,Alta,Tecnico_13
+8893,Manutenção,Alta Prioridade,Em Andamento,Financeiro,Cliente D,2025-04-02,17:30,100,72,Não,4,Baixa,Tecnico_3
+3013,Manutenção,Alta Prioridade,Cancelado,RH,Cliente E,2025-03-22,16:53,59,24,Não,4,Alta,Tecnico_10
+7190,Atendimento ao Cliente,Alta Prioridade,Cancelado,RH,Cliente D,2024-12-29,12:55,67,72,Sim,3,Baixa,Tecnico_10
+4855,Incidente Crítico,Alta Prioridade,Cancelado,Operações,Cliente A,2025-01-13,15:48,113,96,Não,3,Alta,Tecnico_14
+5882,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente D,2024-12-30,11:15,217,24,Não,1,Média,Tecnico_1
+4466,Incidente Crítico,Média Prioridade,Resolvido,RH,Cliente C,2025-05-08,12:59,22,72,Sim,2,Baixa,Tecnico_1
+5420,Incidente Crítico,Média Prioridade,Em Andamento,Operações,Cliente B,2024-12-23,17:19,134,48,Não,4,Média,Tecnico_19
+6253,Solicitação de Serviço,Média Prioridade,Em Andamento,TI,Cliente C,2025-03-02,15:19,180,72,Não,4,Alta,Tecnico_10
+3504,Manutenção,Baixa Prioridade,Cancelado,TI,Cliente A,2024-12-22,15:25,217,24,Não,1,Média,Tecnico_12
+4402,Atendimento ao Cliente,Baixa Prioridade,Pendente,Operações,Cliente D,2025-01-23,16:59,44,24,Não,3,Média,Tecnico_9
+8493,Incidente Crítico,Alta Prioridade,Resolvido,TI,Cliente A,2025-05-23,17:12,193,48,Não,3,Média,Tecnico_3
+5542,Incidente Crítico,Média Prioridade,Cancelado,Comercial,Cliente D,2025-02-05,16:42,15,72,Sim,3,Alta,Tecnico_18
+3963,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-01-22,8:05,232,48,Não,2,Baixa,Tecnico_17
+1509,Incidente Crítico,Alta Prioridade,Em Andamento,RH,Cliente C,2025-05-25,13:54,57,48,Não,4,Baixa,Tecnico_17
+7624,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente B,2025-05-05,13:54,155,24,Não,5,Alta,Tecnico_18
+2569,Incidente Crítico,Média Prioridade,Pendente,TI,Cliente A,2025-02-26,17:38,218,48,Não,3,Baixa,Tecnico_13
+7565,Atendimento ao Cliente,Média Prioridade,Cancelado,RH,Cliente C,2025-04-18,11:27,215,96,Não,2,Média,Tecnico_10
+4259,Suporte Técnico,Alta Prioridade,Pendente,Operações,Cliente D,2025-04-06,16:44,69,72,Sim,4,Alta,Tecnico_6
+5936,Manutenção,Alta Prioridade,Cancelado,TI,Cliente C,2025-02-11,13:43,239,96,Não,2,Baixa,Tecnico_1
+6706,Suporte Técnico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-03-16,11:42,197,24,Não,4,Alta,Tecnico_1
+6376,Solicitação de Serviço,Média Prioridade,Pendente,Comercial,Cliente E,2025-05-01,12:37,28,48,Sim,4,Média,Tecnico_8
+2347,Solicitação de Serviço,Baixa Prioridade,Resolvido,Comercial,Cliente C,2025-05-08,17:37,238,24,Não,5,Baixa,Tecnico_5
+1351,Atendimento ao Cliente,Alta Prioridade,Resolvido,Comercial,Cliente C,2025-03-28,18:59,167,72,Não,3,Baixa,Tecnico_1
+1370,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente C,2025-03-28,18:18,84,24,Não,5,Alta,Tecnico_7
+3295,Incidente Crítico,Média Prioridade,Pendente,RH,Cliente E,2025-01-13,16:29,38,48,Sim,1,Baixa,Tecnico_3
+2488,Manutenção,Média Prioridade,Resolvido,Operações,Cliente B,2025-03-05,10:17,116,96,Não,2,Média,Tecnico_12
+4232,Manutenção,Baixa Prioridade,Cancelado,Comercial,Cliente A,2025-02-26,8:11,29,96,Sim,2,Alta,Tecnico_20
+6150,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente C,2025-04-23,9:45,96,72,Não,4,Média,Tecnico_4
+8805,Incidente Crítico,Alta Prioridade,Cancelado,Financeiro,Cliente E,2025-01-25,15:07,5,24,Sim,4,Alta,Tecnico_18
+9156,Suporte Técnico,Baixa Prioridade,Cancelado,TI,Cliente D,2025-05-27,8:00,5,48,Sim,4,Alta,Tecnico_9
+8326,Manutenção,Baixa Prioridade,Resolvido,Operações,Cliente C,2025-05-15,14:25,173,72,Não,3,Baixa,Tecnico_5
+1030,Incidente Crítico,Média Prioridade,Resolvido,TI,Cliente B,2025-02-12,15:39,104,96,Não,4,Alta,Tecnico_14
+6596,Manutenção,Alta Prioridade,Resolvido,TI,Cliente A,2025-04-24,8:58,160,96,Não,1,Alta,Tecnico_7
+1195,Suporte Técnico,Baixa Prioridade,Pendente,Financeiro,Cliente E,2025-03-18,13:03,139,96,Não,3,Média,Tecnico_18
+3513,Atendimento ao Cliente,Média Prioridade,Resolvido,Financeiro,Cliente C,2024-12-24,12:06,35,96,Sim,2,Média,Tecnico_16
+9246,Manutenção,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-04-28,14:28,97,48,Não,2,Baixa,Tecnico_13
+2442,Manutenção,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-01-01,14:01,141,72,Não,5,Baixa,Tecnico_17
+8274,Suporte Técnico,Média Prioridade,Cancelado,Financeiro,Cliente B,2025-04-06,12:41,2,24,Sim,1,Alta,Tecnico_4
+2477,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Operações,Cliente D,2024-12-30,14:01,131,24,Não,2,Alta,Tecnico_2
+6223,Solicitação de Serviço,Alta Prioridade,Em Andamento,TI,Cliente B,2025-06-02,14:04,224,24,Não,3,Baixa,Tecnico_2
+6593,Atendimento ao Cliente,Alta Prioridade,Pendente,Financeiro,Cliente B,2025-03-08,12:23,167,72,Não,2,Baixa,Tecnico_11
+5527,Manutenção,Baixa Prioridade,Resolvido,Financeiro,Cliente E,2024-12-29,14:29,219,24,Não,2,Baixa,Tecnico_19
+2282,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente D,2025-02-25,8:41,103,48,Não,3,Baixa,Tecnico_20
+8100,Manutenção,Média Prioridade,Resolvido,TI,Cliente E,2025-04-21,11:14,215,48,Não,2,Média,Tecnico_7
+2765,Suporte Técnico,Alta Prioridade,Resolvido,Operações,Cliente C,2025-05-20,13:24,11,72,Sim,4,Baixa,Tecnico_4
+9522,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente E,2025-04-14,8:59,206,24,Não,1,Baixa,Tecnico_1
+7082,Suporte Técnico,Baixa Prioridade,Em Andamento,Operações,Cliente B,2024-12-24,15:24,27,48,Sim,1,Média,Tecnico_3
+3947,Incidente Crítico,Baixa Prioridade,Pendente,RH,Cliente E,2024-12-30,16:36,175,96,Não,5,Baixa,Tecnico_14
+7931,Solicitação de Serviço,Média Prioridade,Pendente,Comercial,Cliente D,2025-02-08,11:51,132,96,Não,3,Média,Tecnico_5
+8552,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente A,2025-05-16,17:48,23,96,Sim,1,Média,Tecnico_16
+4947,Manutenção,Baixa Prioridade,Resolvido,Financeiro,Cliente A,2025-03-02,17:29,67,48,Não,1,Alta,Tecnico_12
+8855,Atendimento ao Cliente,Alta Prioridade,Resolvido,Operações,Cliente E,2025-05-16,13:35,229,48,Não,1,Alta,Tecnico_17
+7711,Incidente Crítico,Alta Prioridade,Cancelado,TI,Cliente D,2025-01-08,13:45,17,96,Sim,2,Média,Tecnico_11
+2043,Solicitação de Serviço,Média Prioridade,Cancelado,Operações,Cliente D,2025-04-15,11:14,104,96,Não,1,Média,Tecnico_19
+6915,Manutenção,Alta Prioridade,Em Andamento,Operações,Cliente A,2025-06-09,11:49,126,24,Não,2,Baixa,Tecnico_19
+2468,Suporte Técnico,Baixa Prioridade,Pendente,Financeiro,Cliente B,2025-04-04,14:35,173,48,Não,2,Alta,Tecnico_2
+3126,Incidente Crítico,Baixa Prioridade,Cancelado,Financeiro,Cliente E,2025-01-27,8:02,39,48,Sim,4,Alta,Tecnico_17
+5175,Solicitação de Serviço,Média Prioridade,Resolvido,RH,Cliente C,2025-03-04,12:16,73,72,Não,1,Alta,Tecnico_6
+3366,Suporte Técnico,Média Prioridade,Em Andamento,RH,Cliente D,2025-01-25,18:18,48,24,Não,3,Alta,Tecnico_18
+3701,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-01-10,14:58,140,24,Não,4,Média,Tecnico_5
+4275,Atendimento ao Cliente,Média Prioridade,Resolvido,Operações,Cliente D,2025-05-15,17:09,142,96,Não,3,Baixa,Tecnico_6
+8953,Suporte Técnico,Alta Prioridade,Em Andamento,Operações,Cliente C,2025-05-17,9:44,220,96,Não,3,Alta,Tecnico_15
+5988,Incidente Crítico,Média Prioridade,Resolvido,Operações,Cliente D,2025-02-26,18:19,132,96,Não,3,Baixa,Tecnico_4
+7516,Manutenção,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-03-29,10:43,144,48,Não,1,Baixa,Tecnico_18
+9451,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente B,2025-04-24,14:12,65,48,Não,1,Alta,Tecnico_3
+1073,Atendimento ao Cliente,Alta Prioridade,Resolvido,Operações,Cliente B,2025-01-25,15:48,164,24,Não,1,Alta,Tecnico_16
+8786,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente A,2024-12-31,9:50,236,24,Não,5,Alta,Tecnico_20
+8986,Manutenção,Alta Prioridade,Em Andamento,TI,Cliente A,2025-04-08,11:26,115,96,Não,3,Alta,Tecnico_16
+9808,Manutenção,Baixa Prioridade,Em Andamento,Financeiro,Cliente B,2025-04-29,15:07,160,96,Não,3,Alta,Tecnico_5
+7848,Manutenção,Baixa Prioridade,Em Andamento,Financeiro,Cliente D,2025-06-07,10:20,96,72,Não,4,Baixa,Tecnico_15
+5646,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente C,2025-05-22,16:06,123,96,Não,1,Baixa,Tecnico_2
+3120,Manutenção,Baixa Prioridade,Pendente,RH,Cliente C,2025-03-05,9:03,67,96,Sim,3,Média,Tecnico_4
+8812,Suporte Técnico,Alta Prioridade,Em Andamento,TI,Cliente D,2024-12-18,14:19,15,96,Sim,1,Baixa,Tecnico_18
+6841,Incidente Crítico,Alta Prioridade,Cancelado,TI,Cliente B,2025-02-25,18:48,57,96,Sim,4,Alta,Tecnico_13
+1727,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-02-20,14:48,60,72,Sim,3,Baixa,Tecnico_5
+7135,Solicitação de Serviço,Alta Prioridade,Em Andamento,TI,Cliente C,2025-01-31,18:39,68,24,Não,3,Média,Tecnico_8
+3174,Manutenção,Alta Prioridade,Resolvido,RH,Cliente D,2025-05-27,16:39,137,96,Não,1,Alta,Tecnico_4
+1552,Incidente Crítico,Baixa Prioridade,Cancelado,Financeiro,Cliente A,2025-04-26,8:12,178,24,Não,1,Alta,Tecnico_8
+3333,Solicitação de Serviço,Média Prioridade,Em Andamento,Financeiro,Cliente C,2025-01-01,15:26,178,96,Não,1,Alta,Tecnico_19
+3897,Incidente Crítico,Média Prioridade,Resolvido,Operações,Cliente B,2025-05-04,13:24,122,96,Não,2,Média,Tecnico_18
+6989,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente A,2025-05-24,18:28,19,24,Sim,3,Média,Tecnico_6
+3932,Solicitação de Serviço,Alta Prioridade,Pendente,Operações,Cliente E,2025-02-20,15:01,199,48,Não,1,Média,Tecnico_7
+4542,Manutenção,Média Prioridade,Cancelado,Financeiro,Cliente E,2025-02-17,14:25,178,24,Não,4,Baixa,Tecnico_16
+6265,Incidente Crítico,Média Prioridade,Pendente,Financeiro,Cliente B,2025-01-28,10:42,217,48,Não,1,Baixa,Tecnico_5
+9302,Solicitação de Serviço,Baixa Prioridade,Cancelado,Financeiro,Cliente E,2025-04-02,10:04,98,96,Não,3,Média,Tecnico_17
+3211,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente E,2025-01-05,11:02,11,96,Sim,1,Alta,Tecnico_4
+1300,Atendimento ao Cliente,Alta Prioridade,Em Andamento,TI,Cliente B,2025-03-02,14:22,18,48,Sim,3,Alta,Tecnico_18
+4990,Manutenção,Média Prioridade,Cancelado,Comercial,Cliente D,2025-03-24,11:39,147,96,Não,2,Baixa,Tecnico_14
+8892,Suporte Técnico,Baixa Prioridade,Resolvido,Financeiro,Cliente A,2025-02-03,12:11,157,48,Não,5,Média,Tecnico_1
+3983,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente A,2024-12-13,16:29,29,72,Sim,2,Baixa,Tecnico_6
+6647,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente C,2025-02-10,14:43,49,24,Não,2,Média,Tecnico_12
+9967,Incidente Crítico,Alta Prioridade,Em Andamento,RH,Cliente C,2025-01-02,12:26,16,96,Sim,1,Média,Tecnico_18
+6533,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente C,2025-03-22,13:17,6,48,Sim,2,Baixa,Tecnico_17
+5206,Manutenção,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-05-23,16:28,227,48,Não,2,Média,Tecnico_7
+2224,Manutenção,Média Prioridade,Pendente,Comercial,Cliente E,2025-04-25,14:59,160,48,Não,3,Média,Tecnico_10
+7609,Manutenção,Baixa Prioridade,Resolvido,Operações,Cliente D,2025-05-05,17:51,93,48,Não,1,Baixa,Tecnico_13
+8595,Atendimento ao Cliente,Média Prioridade,Cancelado,Financeiro,Cliente A,2025-02-11,9:41,1,48,Sim,5,Baixa,Tecnico_5
+8086,Incidente Crítico,Baixa Prioridade,Pendente,TI,Cliente C,2024-12-27,13:01,58,24,Não,3,Baixa,Tecnico_17
+6615,Manutenção,Baixa Prioridade,Em Andamento,TI,Cliente C,2025-05-13,12:54,77,72,Não,2,Baixa,Tecnico_7
+2753,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Comercial,Cliente E,2025-03-20,13:00,197,24,Não,3,Alta,Tecnico_15
+9384,Atendimento ao Cliente,Alta Prioridade,Pendente,Operações,Cliente A,2024-12-18,8:38,86,48,Não,1,Média,Tecnico_10
+6649,Incidente Crítico,Baixa Prioridade,Pendente,Financeiro,Cliente B,2025-03-19,8:12,109,96,Não,1,Média,Tecnico_19
+3191,Manutenção,Baixa Prioridade,Pendente,Financeiro,Cliente A,2025-03-11,9:25,24,72,Sim,5,Alta,Tecnico_16
+6854,Incidente Crítico,Baixa Prioridade,Em Andamento,TI,Cliente C,2025-04-20,17:41,47,24,Não,2,Alta,Tecnico_10
+7398,Manutenção,Média Prioridade,Resolvido,Operações,Cliente D,2025-04-26,14:25,2,24,Sim,5,Média,Tecnico_15
+6790,Solicitação de Serviço,Alta Prioridade,Cancelado,RH,Cliente B,2025-05-27,17:23,209,24,Não,3,Alta,Tecnico_16
+9991,Manutenção,Alta Prioridade,Em Andamento,TI,Cliente E,2025-03-13,18:33,146,48,Não,3,Média,Tecnico_15
+9610,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente E,2024-12-31,17:14,131,24,Não,2,Alta,Tecnico_17
+8372,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente E,2025-01-28,18:43,69,48,Não,5,Baixa,Tecnico_18
+6245,Incidente Crítico,Alta Prioridade,Resolvido,RH,Cliente B,2025-05-10,13:36,87,48,Não,1,Média,Tecnico_8
+3482,Solicitação de Serviço,Baixa Prioridade,Resolvido,TI,Cliente E,2025-01-14,15:28,66,24,Não,4,Média,Tecnico_3
+8653,Manutenção,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-05-14,12:38,45,96,Sim,2,Alta,Tecnico_18
+3978,Manutenção,Alta Prioridade,Pendente,Operações,Cliente E,2025-02-23,9:43,121,96,Não,4,Média,Tecnico_16
+3108,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente D,2025-03-23,14:06,143,72,Não,5,Alta,Tecnico_4
+1844,Suporte Técnico,Baixa Prioridade,Cancelado,RH,Cliente D,2025-03-17,18:35,96,96,Sim,3,Média,Tecnico_16
+4501,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Financeiro,Cliente A,2025-02-26,9:16,49,96,Sim,2,Média,Tecnico_11
+6204,Incidente Crítico,Baixa Prioridade,Resolvido,RH,Cliente E,2025-02-16,16:36,182,96,Não,4,Baixa,Tecnico_20
+3322,Solicitação de Serviço,Alta Prioridade,Pendente,Operações,Cliente E,2025-06-08,17:52,70,72,Sim,4,Média,Tecnico_11
+4827,Atendimento ao Cliente,Média Prioridade,Em Andamento,Comercial,Cliente D,2025-03-24,12:20,60,96,Sim,4,Média,Tecnico_10
+9067,Incidente Crítico,Baixa Prioridade,Resolvido,Financeiro,Cliente A,2025-02-13,14:55,38,24,Não,4,Baixa,Tecnico_6
+2826,Manutenção,Média Prioridade,Em Andamento,Financeiro,Cliente B,2025-04-10,13:35,90,24,Não,1,Média,Tecnico_18
+4971,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente A,2024-12-18,15:55,220,96,Não,5,Média,Tecnico_4
+3685,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente A,2025-05-07,9:15,186,96,Não,1,Baixa,Tecnico_16
+7246,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-04-07,11:50,221,72,Não,1,Média,Tecnico_7
+4072,Incidente Crítico,Média Prioridade,Cancelado,TI,Cliente B,2025-05-30,13:36,130,96,Não,3,Alta,Tecnico_11
+8051,Manutenção,Alta Prioridade,Pendente,Comercial,Cliente D,2025-05-25,12:51,64,48,Não,2,Baixa,Tecnico_4
+3257,Solicitação de Serviço,Baixa Prioridade,Cancelado,RH,Cliente D,2025-01-03,9:53,151,72,Não,1,Baixa,Tecnico_12
+6417,Manutenção,Baixa Prioridade,Cancelado,Comercial,Cliente D,2025-04-12,16:40,140,48,Não,4,Média,Tecnico_8
+8994,Suporte Técnico,Baixa Prioridade,Cancelado,Operações,Cliente D,2025-05-09,9:44,64,96,Sim,5,Média,Tecnico_12
+5368,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente E,2025-02-04,11:59,211,48,Não,3,Alta,Tecnico_13
+1067,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente A,2025-06-05,17:16,46,24,Não,1,Média,Tecnico_18
+8698,Incidente Crítico,Baixa Prioridade,Resolvido,Financeiro,Cliente E,2025-05-17,10:58,6,48,Sim,5,Média,Tecnico_19
+1775,Atendimento ao Cliente,Baixa Prioridade,Pendente,Operações,Cliente C,2025-04-04,8:42,153,48,Não,2,Média,Tecnico_17
+8301,Solicitação de Serviço,Média Prioridade,Pendente,TI,Cliente A,2025-06-08,9:47,60,96,Sim,3,Alta,Tecnico_20
+1758,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente B,2025-04-28,15:42,226,96,Não,4,Alta,Tecnico_4
+3046,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente B,2025-03-04,12:57,60,96,Sim,2,Média,Tecnico_9
+5502,Manutenção,Alta Prioridade,Pendente,Financeiro,Cliente A,2025-03-15,13:04,204,96,Não,5,Alta,Tecnico_2
+2514,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente B,2024-12-21,11:41,239,96,Não,3,Média,Tecnico_3
+3362,Manutenção,Baixa Prioridade,Em Andamento,RH,Cliente C,2025-03-30,8:19,163,48,Não,5,Baixa,Tecnico_14
+9002,Atendimento ao Cliente,Média Prioridade,Resolvido,Operações,Cliente E,2025-01-13,12:53,21,24,Sim,3,Baixa,Tecnico_10
+1072,Atendimento ao Cliente,Alta Prioridade,Pendente,TI,Cliente E,2025-01-26,16:30,166,48,Não,4,Alta,Tecnico_3
+6910,Manutenção,Baixa Prioridade,Em Andamento,TI,Cliente B,2025-04-20,17:46,110,96,Não,4,Média,Tecnico_15
+7549,Incidente Crítico,Média Prioridade,Cancelado,TI,Cliente C,2025-01-30,14:34,87,48,Não,1,Alta,Tecnico_18
+1752,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente C,2025-02-13,10:25,141,24,Não,1,Média,Tecnico_13
+3013,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente E,2025-03-08,14:19,12,96,Sim,3,Alta,Tecnico_6
+1611,Solicitação de Serviço,Média Prioridade,Pendente,Operações,Cliente D,2025-02-07,14:25,29,72,Sim,1,Média,Tecnico_9
+2666,Incidente Crítico,Média Prioridade,Em Andamento,RH,Cliente D,2025-03-06,14:07,75,24,Não,5,Baixa,Tecnico_16
+9994,Atendimento ao Cliente,Baixa Prioridade,Pendente,TI,Cliente B,2025-02-04,15:49,83,72,Não,5,Alta,Tecnico_19
+8671,Incidente Crítico,Baixa Prioridade,Em Andamento,Operações,Cliente C,2025-05-23,17:09,232,24,Não,5,Alta,Tecnico_6
+8916,Incidente Crítico,Média Prioridade,Cancelado,RH,Cliente B,2025-02-16,8:21,65,24,Não,2,Alta,Tecnico_5
+1536,Manutenção,Média Prioridade,Pendente,TI,Cliente C,2025-02-25,10:48,92,48,Não,2,Baixa,Tecnico_5
+4524,Incidente Crítico,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-02-20,11:48,233,96,Não,1,Média,Tecnico_13
+1618,Solicitação de Serviço,Média Prioridade,Cancelado,Operações,Cliente C,2025-04-02,16:46,65,72,Sim,3,Média,Tecnico_10
+7508,Atendimento ao Cliente,Baixa Prioridade,Resolvido,RH,Cliente B,2025-04-15,16:07,183,48,Não,5,Alta,Tecnico_13
+8340,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente D,2025-02-15,12:06,105,24,Não,5,Média,Tecnico_18
+2782,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-04-04,8:47,108,24,Não,4,Média,Tecnico_19
+7318,Suporte Técnico,Baixa Prioridade,Resolvido,Operações,Cliente E,2025-03-28,12:38,133,96,Não,2,Média,Tecnico_18
+1454,Suporte Técnico,Alta Prioridade,Cancelado,Comercial,Cliente C,2025-03-21,13:37,104,96,Não,3,Baixa,Tecnico_8
+4389,Manutenção,Baixa Prioridade,Pendente,Operações,Cliente E,2025-03-19,12:33,95,48,Não,3,Alta,Tecnico_17
+3019,Atendimento ao Cliente,Média Prioridade,Pendente,RH,Cliente B,2025-01-20,12:25,105,72,Não,1,Baixa,Tecnico_10
+4369,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente E,2024-12-16,9:37,56,72,Sim,4,Média,Tecnico_16
+4699,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente E,2024-12-27,16:45,130,96,Não,5,Média,Tecnico_9
+5449,Solicitação de Serviço,Alta Prioridade,Em Andamento,Financeiro,Cliente E,2025-03-25,15:49,133,24,Não,4,Alta,Tecnico_19
+5809,Atendimento ao Cliente,Alta Prioridade,Resolvido,TI,Cliente A,2025-05-01,10:22,40,24,Não,5,Alta,Tecnico_1
+2339,Atendimento ao Cliente,Baixa Prioridade,Resolvido,TI,Cliente B,2024-12-26,10:06,134,72,Não,2,Média,Tecnico_11
+8312,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Comercial,Cliente D,2025-05-05,9:05,135,24,Não,2,Média,Tecnico_10
+7865,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente B,2024-12-26,10:30,172,72,Não,5,Média,Tecnico_7
+1642,Suporte Técnico,Baixa Prioridade,Em Andamento,Operações,Cliente D,2025-03-08,9:50,162,48,Não,1,Alta,Tecnico_10
+3021,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente D,2025-03-11,15:31,77,72,Não,4,Baixa,Tecnico_8
+3875,Incidente Crítico,Alta Prioridade,Em Andamento,RH,Cliente C,2025-02-27,16:49,8,48,Sim,5,Alta,Tecnico_9
+7527,Atendimento ao Cliente,Baixa Prioridade,Pendente,Operações,Cliente D,2025-01-05,13:02,113,96,Não,3,Média,Tecnico_6
+2563,Manutenção,Baixa Prioridade,Cancelado,TI,Cliente C,2025-04-20,11:59,120,96,Não,4,Baixa,Tecnico_6
+8519,Atendimento ao Cliente,Média Prioridade,Pendente,RH,Cliente C,2025-04-25,8:37,77,48,Não,1,Média,Tecnico_19
+2249,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente A,2025-05-14,12:27,76,96,Sim,4,Baixa,Tecnico_2
+9254,Manutenção,Média Prioridade,Cancelado,Operações,Cliente E,2025-05-18,13:38,229,24,Não,5,Média,Tecnico_15
+4984,Manutenção,Média Prioridade,Pendente,Financeiro,Cliente E,2025-05-31,8:52,16,48,Sim,2,Baixa,Tecnico_9
+4539,Incidente Crítico,Alta Prioridade,Pendente,Operações,Cliente C,2025-05-14,9:24,179,48,Não,2,Média,Tecnico_14
+7741,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente E,2025-04-11,16:34,72,24,Não,3,Baixa,Tecnico_19
+4170,Suporte Técnico,Alta Prioridade,Pendente,Comercial,Cliente A,2025-04-18,11:09,103,96,Não,3,Baixa,Tecnico_14
+3007,Manutenção,Baixa Prioridade,Pendente,TI,Cliente C,2025-01-18,15:14,145,96,Não,4,Baixa,Tecnico_11
+6849,Manutenção,Baixa Prioridade,Resolvido,Comercial,Cliente B,2025-01-12,16:40,145,72,Não,2,Baixa,Tecnico_15
+1900,Solicitação de Serviço,Alta Prioridade,Pendente,Operações,Cliente B,2025-04-26,12:05,167,48,Não,2,Média,Tecnico_12
+3290,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente B,2024-12-20,13:06,91,24,Não,1,Alta,Tecnico_18
+5646,Suporte Técnico,Média Prioridade,Cancelado,TI,Cliente C,2025-03-02,9:34,221,24,Não,2,Baixa,Tecnico_1
+3519,Manutenção,Média Prioridade,Cancelado,TI,Cliente A,2024-12-23,14:06,1,72,Sim,2,Alta,Tecnico_17
+4970,Manutenção,Alta Prioridade,Cancelado,Operações,Cliente B,2025-01-04,9:36,68,72,Sim,2,Alta,Tecnico_12
+5008,Incidente Crítico,Média Prioridade,Em Andamento,RH,Cliente A,2025-03-18,17:09,27,24,Não,2,Alta,Tecnico_18
+8202,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente A,2025-01-31,13:56,199,48,Não,2,Baixa,Tecnico_11
+6326,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Financeiro,Cliente E,2025-01-01,12:31,119,96,Não,2,Média,Tecnico_11
+8300,Suporte Técnico,Alta Prioridade,Em Andamento,Financeiro,Cliente E,2025-04-30,18:53,180,24,Não,3,Alta,Tecnico_11
+6494,Suporte Técnico,Baixa Prioridade,Pendente,TI,Cliente E,2025-01-15,11:18,203,72,Não,5,Média,Tecnico_11
+5353,Suporte Técnico,Média Prioridade,Resolvido,Comercial,Cliente C,2025-05-30,13:07,91,96,Sim,1,Média,Tecnico_3
+3604,Atendimento ao Cliente,Alta Prioridade,Pendente,Financeiro,Cliente E,2025-04-01,10:29,202,72,Não,5,Baixa,Tecnico_2
+4508,Atendimento ao Cliente,Média Prioridade,Pendente,Financeiro,Cliente C,2025-05-17,13:17,195,96,Não,1,Baixa,Tecnico_17
+6768,Suporte Técnico,Média Prioridade,Resolvido,Comercial,Cliente C,2025-02-22,8:22,232,96,Não,1,Baixa,Tecnico_7
+6196,Suporte Técnico,Baixa Prioridade,Cancelado,Financeiro,Cliente B,2025-04-12,16:06,3,72,Sim,4,Alta,Tecnico_3
+9619,Manutenção,Baixa Prioridade,Pendente,RH,Cliente D,2024-12-28,18:23,41,24,Não,3,Média,Tecnico_11
+7241,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente E,2024-12-17,11:16,148,72,Não,3,Alta,Tecnico_17
+3591,Incidente Crítico,Baixa Prioridade,Resolvido,Operações,Cliente A,2024-12-28,12:15,119,96,Não,1,Média,Tecnico_13
+6183,Incidente Crítico,Média Prioridade,Resolvido,TI,Cliente E,2025-05-24,17:11,72,48,Não,4,Alta,Tecnico_16
+8864,Manutenção,Baixa Prioridade,Em Andamento,RH,Cliente E,2025-05-16,9:07,153,24,Não,3,Média,Tecnico_12
+2724,Suporte Técnico,Alta Prioridade,Cancelado,TI,Cliente B,2025-05-20,9:59,170,48,Não,4,Baixa,Tecnico_2
+1017,Solicitação de Serviço,Alta Prioridade,Cancelado,RH,Cliente A,2025-05-31,11:36,130,96,Não,4,Baixa,Tecnico_2
+7582,Manutenção,Alta Prioridade,Resolvido,RH,Cliente D,2025-01-24,8:37,43,96,Sim,3,Baixa,Tecnico_11
+2540,Solicitação de Serviço,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-03-09,15:13,14,96,Sim,5,Alta,Tecnico_2
+9873,Suporte Técnico,Baixa Prioridade,Cancelado,TI,Cliente B,2025-04-18,16:48,143,72,Não,1,Baixa,Tecnico_18
+2326,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente E,2025-01-24,9:11,221,96,Não,5,Baixa,Tecnico_9
+1480,Manutenção,Média Prioridade,Resolvido,RH,Cliente C,2025-04-15,12:47,63,24,Não,1,Alta,Tecnico_20
+4668,Manutenção,Alta Prioridade,Resolvido,TI,Cliente E,2025-04-08,15:55,37,72,Sim,5,Alta,Tecnico_10
+8531,Manutenção,Baixa Prioridade,Resolvido,Operações,Cliente D,2025-06-02,8:03,58,24,Não,2,Baixa,Tecnico_6
+9595,Suporte Técnico,Baixa Prioridade,Cancelado,Financeiro,Cliente B,2025-04-07,17:35,163,96,Não,5,Baixa,Tecnico_19
+3127,Solicitação de Serviço,Baixa Prioridade,Pendente,TI,Cliente B,2024-12-14,9:46,32,96,Sim,5,Baixa,Tecnico_12
+9941,Atendimento ao Cliente,Média Prioridade,Em Andamento,Financeiro,Cliente A,2025-01-12,14:48,118,96,Não,4,Alta,Tecnico_4
+9623,Suporte Técnico,Média Prioridade,Em Andamento,Operações,Cliente E,2024-12-30,18:22,113,72,Não,1,Baixa,Tecnico_15
+4673,Suporte Técnico,Alta Prioridade,Em Andamento,RH,Cliente E,2025-03-11,16:44,125,72,Não,1,Média,Tecnico_6
+9545,Suporte Técnico,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-02-23,18:26,190,72,Não,1,Alta,Tecnico_17
+1160,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente D,2025-06-01,14:40,39,96,Sim,5,Média,Tecnico_15
+4618,Incidente Crítico,Média Prioridade,Cancelado,TI,Cliente B,2025-03-25,18:14,183,48,Não,1,Média,Tecnico_2
+9972,Atendimento ao Cliente,Média Prioridade,Pendente,TI,Cliente B,2025-03-01,17:25,63,24,Não,3,Média,Tecnico_8
+9317,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente A,2024-12-18,12:23,136,24,Não,5,Baixa,Tecnico_19
+4652,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente D,2025-05-03,9:41,72,96,Sim,1,Média,Tecnico_16
+2173,Manutenção,Baixa Prioridade,Cancelado,TI,Cliente A,2025-03-29,18:28,70,24,Não,4,Média,Tecnico_8
+7682,Suporte Técnico,Média Prioridade,Em Andamento,TI,Cliente A,2025-01-22,17:05,114,24,Não,3,Média,Tecnico_1
+1389,Incidente Crítico,Média Prioridade,Cancelado,Comercial,Cliente D,2025-04-05,10:56,193,48,Não,3,Alta,Tecnico_13
+3059,Manutenção,Baixa Prioridade,Em Andamento,Financeiro,Cliente D,2025-01-06,9:06,139,24,Não,3,Alta,Tecnico_1
+5746,Manutenção,Baixa Prioridade,Em Andamento,Comercial,Cliente B,2025-05-22,16:19,203,96,Não,5,Alta,Tecnico_8
+4720,Suporte Técnico,Média Prioridade,Em Andamento,RH,Cliente A,2025-05-25,16:57,125,96,Não,5,Média,Tecnico_4
+1796,Atendimento ao Cliente,Média Prioridade,Cancelado,TI,Cliente E,2025-04-15,17:13,153,72,Não,1,Baixa,Tecnico_9
+5116,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente D,2025-02-13,14:49,50,24,Não,2,Média,Tecnico_1
+8477,Solicitação de Serviço,Baixa Prioridade,Em Andamento,TI,Cliente E,2024-12-24,17:01,185,24,Não,4,Alta,Tecnico_9
+9649,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente E,2025-02-05,16:39,112,96,Não,1,Baixa,Tecnico_19
+5674,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente B,2025-02-04,17:32,52,96,Sim,5,Alta,Tecnico_12
+8986,Manutenção,Baixa Prioridade,Pendente,Financeiro,Cliente D,2025-05-04,15:32,196,24,Não,4,Baixa,Tecnico_6
+6050,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente B,2025-04-15,12:45,164,96,Não,5,Baixa,Tecnico_10
+3879,Suporte Técnico,Alta Prioridade,Pendente,TI,Cliente A,2025-03-20,10:35,165,48,Não,4,Alta,Tecnico_9
+6664,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente C,2025-04-23,11:08,212,48,Não,1,Alta,Tecnico_20
+8322,Solicitação de Serviço,Média Prioridade,Pendente,TI,Cliente E,2025-02-20,14:21,183,96,Não,2,Média,Tecnico_3
+8581,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente D,2025-02-24,8:20,126,72,Não,1,Média,Tecnico_6
+7598,Incidente Crítico,Média Prioridade,Resolvido,RH,Cliente C,2025-05-21,17:18,42,48,Sim,5,Baixa,Tecnico_17
+5251,Incidente Crítico,Alta Prioridade,Cancelado,TI,Cliente C,2025-04-07,16:55,125,96,Não,3,Média,Tecnico_1
+6717,Atendimento ao Cliente,Baixa Prioridade,Resolvido,RH,Cliente B,2024-12-17,18:29,99,24,Não,5,Média,Tecnico_15
+1441,Manutenção,Média Prioridade,Em Andamento,Operações,Cliente E,2025-04-13,14:07,141,48,Não,3,Alta,Tecnico_5
+6644,Manutenção,Média Prioridade,Em Andamento,Operações,Cliente A,2025-03-26,13:43,181,96,Não,1,Média,Tecnico_5
+6949,Solicitação de Serviço,Média Prioridade,Cancelado,TI,Cliente B,2025-03-25,9:03,43,96,Sim,5,Média,Tecnico_7
+1774,Solicitação de Serviço,Baixa Prioridade,Pendente,TI,Cliente E,2025-06-03,10:21,222,48,Não,1,Baixa,Tecnico_5
+8692,Solicitação de Serviço,Baixa Prioridade,Cancelado,Comercial,Cliente A,2025-03-25,17:49,107,72,Não,2,Média,Tecnico_5
+9096,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente A,2025-02-23,10:39,204,72,Não,3,Alta,Tecnico_10
+2658,Solicitação de Serviço,Alta Prioridade,Pendente,TI,Cliente A,2025-02-09,14:24,40,24,Não,5,Média,Tecnico_3
+4237,Solicitação de Serviço,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-01-05,15:22,26,48,Sim,5,Alta,Tecnico_1
+6641,Atendimento ao Cliente,Alta Prioridade,Pendente,Financeiro,Cliente B,2025-02-02,16:50,162,72,Não,4,Alta,Tecnico_13
+8524,Manutenção,Média Prioridade,Em Andamento,TI,Cliente C,2025-02-22,9:20,27,24,Não,4,Alta,Tecnico_15
+4073,Atendimento ao Cliente,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-05-21,10:25,9,96,Sim,5,Alta,Tecnico_11
+9414,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente B,2025-03-10,18:35,180,72,Não,2,Alta,Tecnico_9
+4416,Incidente Crítico,Média Prioridade,Cancelado,RH,Cliente C,2025-02-21,11:57,80,72,Não,5,Alta,Tecnico_6
+5704,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente A,2025-03-01,9:10,196,72,Não,1,Baixa,Tecnico_9
+7851,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente E,2025-05-14,8:44,42,24,Não,3,Baixa,Tecnico_14
+6787,Manutenção,Alta Prioridade,Pendente,Operações,Cliente B,2025-04-12,14:30,161,72,Não,5,Alta,Tecnico_3
+5266,Incidente Crítico,Média Prioridade,Pendente,Comercial,Cliente D,2025-01-26,14:34,64,24,Não,5,Média,Tecnico_17
+2923,Suporte Técnico,Baixa Prioridade,Pendente,TI,Cliente A,2025-04-07,16:25,180,48,Não,2,Alta,Tecnico_18
+4151,Solicitação de Serviço,Média Prioridade,Resolvido,Operações,Cliente E,2025-03-11,17:15,16,24,Sim,2,Alta,Tecnico_12
+2862,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente D,2025-01-17,12:41,186,72,Não,2,Alta,Tecnico_8
+7923,Manutenção,Média Prioridade,Cancelado,Financeiro,Cliente E,2025-02-08,17:17,102,48,Não,3,Média,Tecnico_1
+5668,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente B,2025-05-08,10:33,186,48,Não,5,Baixa,Tecnico_13
+5135,Manutenção,Baixa Prioridade,Em Andamento,TI,Cliente A,2025-05-20,15:28,215,48,Não,4,Média,Tecnico_2
+4041,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente A,2025-02-23,9:03,13,72,Sim,4,Média,Tecnico_16
+6357,Incidente Crítico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-03-14,10:19,65,24,Não,5,Média,Tecnico_20
+1493,Solicitação de Serviço,Alta Prioridade,Em Andamento,Financeiro,Cliente D,2025-01-20,12:02,70,24,Não,3,Baixa,Tecnico_13
+5613,Incidente Crítico,Baixa Prioridade,Resolvido,TI,Cliente A,2025-04-19,9:32,45,24,Não,1,Alta,Tecnico_11
+2041,Suporte Técnico,Baixa Prioridade,Cancelado,Comercial,Cliente B,2025-01-23,14:02,171,72,Não,2,Alta,Tecnico_6
+5300,Suporte Técnico,Baixa Prioridade,Resolvido,RH,Cliente C,2025-02-03,8:33,109,96,Não,4,Baixa,Tecnico_7
+5207,Incidente Crítico,Alta Prioridade,Resolvido,Operações,Cliente D,2025-04-28,9:32,8,96,Sim,4,Alta,Tecnico_18
+7761,Solicitação de Serviço,Alta Prioridade,Cancelado,Financeiro,Cliente E,2025-01-14,10:25,187,24,Não,2,Alta,Tecnico_2
+3825,Solicitação de Serviço,Média Prioridade,Resolvido,TI,Cliente A,2025-05-20,17:55,224,96,Não,4,Média,Tecnico_17
+2983,Suporte Técnico,Média Prioridade,Em Andamento,RH,Cliente A,2025-05-19,11:13,19,96,Sim,4,Baixa,Tecnico_7
+9701,Suporte Técnico,Média Prioridade,Cancelado,TI,Cliente E,2024-12-27,14:40,123,24,Não,1,Alta,Tecnico_2
+2891,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente C,2025-01-31,13:24,159,24,Não,2,Alta,Tecnico_12
+2039,Incidente Crítico,Baixa Prioridade,Pendente,RH,Cliente D,2025-02-14,16:48,134,96,Não,1,Média,Tecnico_8
+1676,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente E,2024-12-14,12:22,178,48,Não,4,Média,Tecnico_9
+5297,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2025-02-25,10:01,67,96,Sim,5,Média,Tecnico_14
+4889,Atendimento ao Cliente,Média Prioridade,Pendente,Operações,Cliente E,2025-01-01,17:58,2,24,Sim,5,Alta,Tecnico_9
+3331,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente E,2024-12-26,8:43,66,48,Não,1,Média,Tecnico_20
+1451,Incidente Crítico,Baixa Prioridade,Em Andamento,Operações,Cliente D,2025-01-29,10:13,132,72,Não,2,Média,Tecnico_19
+9052,Atendimento ao Cliente,Alta Prioridade,Resolvido,RH,Cliente A,2025-05-09,15:02,192,24,Não,1,Baixa,Tecnico_12
+2012,Suporte Técnico,Baixa Prioridade,Cancelado,Operações,Cliente D,2025-01-17,10:55,157,72,Não,1,Média,Tecnico_6
+4746,Suporte Técnico,Alta Prioridade,Cancelado,Operações,Cliente A,2024-12-24,10:12,163,96,Não,2,Baixa,Tecnico_3
+4988,Solicitação de Serviço,Alta Prioridade,Resolvido,TI,Cliente B,2025-05-29,13:12,58,24,Não,1,Baixa,Tecnico_4
+7283,Incidente Crítico,Baixa Prioridade,Pendente,Comercial,Cliente D,2025-03-06,10:25,4,96,Sim,3,Média,Tecnico_11
+9575,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente A,2024-12-19,10:46,97,96,Não,1,Média,Tecnico_17
+7810,Suporte Técnico,Alta Prioridade,Em Andamento,RH,Cliente D,2025-04-05,10:40,139,72,Não,3,Alta,Tecnico_10
+7131,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente B,2025-05-20,15:38,46,96,Sim,4,Alta,Tecnico_9
+4566,Incidente Crítico,Média Prioridade,Pendente,Comercial,Cliente E,2025-03-26,15:41,231,72,Não,2,Baixa,Tecnico_16
+6905,Incidente Crítico,Baixa Prioridade,Pendente,Comercial,Cliente D,2024-12-16,18:59,114,24,Não,4,Média,Tecnico_3
+1513,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente C,2025-03-20,16:55,67,48,Não,2,Baixa,Tecnico_13
+1661,Solicitação de Serviço,Baixa Prioridade,Resolvido,RH,Cliente A,2025-04-25,15:43,38,24,Não,5,Baixa,Tecnico_3
+8459,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-05-25,10:11,202,72,Não,3,Alta,Tecnico_7
+2385,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente B,2025-04-23,11:02,231,72,Não,2,Alta,Tecnico_18
+7119,Manutenção,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-01-12,13:42,188,48,Não,1,Média,Tecnico_5
+2159,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente D,2025-05-05,11:08,166,48,Não,1,Alta,Tecnico_3
+1338,Incidente Crítico,Média Prioridade,Pendente,TI,Cliente B,2025-01-05,18:54,176,96,Não,2,Média,Tecnico_9
+3793,Incidente Crítico,Alta Prioridade,Pendente,Financeiro,Cliente B,2025-01-17,16:21,105,96,Não,2,Baixa,Tecnico_13
+3816,Solicitação de Serviço,Alta Prioridade,Cancelado,TI,Cliente E,2025-03-30,16:19,169,72,Não,4,Baixa,Tecnico_3
+9599,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente E,2025-01-18,8:44,183,96,Não,4,Baixa,Tecnico_20
+2773,Manutenção,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-05-29,9:32,215,24,Não,4,Alta,Tecnico_7
+7145,Solicitação de Serviço,Baixa Prioridade,Resolvido,Financeiro,Cliente A,2025-03-04,11:49,234,72,Não,3,Média,Tecnico_20
+8106,Suporte Técnico,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-05-08,10:21,129,24,Não,2,Média,Tecnico_12
+8566,Incidente Crítico,Média Prioridade,Cancelado,Financeiro,Cliente D,2024-12-21,8:22,80,96,Sim,2,Média,Tecnico_5
+1823,Suporte Técnico,Média Prioridade,Cancelado,Financeiro,Cliente C,2025-01-23,10:14,218,72,Não,1,Média,Tecnico_12
+4614,Solicitação de Serviço,Baixa Prioridade,Em Andamento,RH,Cliente A,2025-02-18,11:49,220,96,Não,1,Média,Tecnico_2
+9135,Solicitação de Serviço,Média Prioridade,Em Andamento,Financeiro,Cliente E,2024-12-24,16:55,91,96,Sim,4,Alta,Tecnico_5
+1938,Manutenção,Baixa Prioridade,Cancelado,Financeiro,Cliente D,2025-02-08,17:04,40,96,Sim,3,Média,Tecnico_8
+4638,Suporte Técnico,Alta Prioridade,Cancelado,Operações,Cliente B,2025-01-29,17:31,26,48,Sim,1,Alta,Tecnico_20
+7687,Suporte Técnico,Média Prioridade,Em Andamento,Operações,Cliente B,2025-04-09,15:56,113,96,Não,2,Média,Tecnico_16
+4330,Manutenção,Média Prioridade,Em Andamento,TI,Cliente E,2025-02-09,8:16,171,24,Não,3,Alta,Tecnico_11
+2442,Solicitação de Serviço,Média Prioridade,Resolvido,Financeiro,Cliente D,2025-06-01,11:31,104,96,Não,2,Baixa,Tecnico_4
+4514,Manutenção,Média Prioridade,Em Andamento,Financeiro,Cliente B,2025-01-16,11:35,212,96,Não,1,Alta,Tecnico_17
+7759,Incidente Crítico,Alta Prioridade,Em Andamento,TI,Cliente A,2025-06-06,15:30,47,96,Sim,1,Alta,Tecnico_3
+3422,Suporte Técnico,Baixa Prioridade,Cancelado,TI,Cliente A,2025-01-04,9:07,194,24,Não,5,Alta,Tecnico_6
+7788,Solicitação de Serviço,Baixa Prioridade,Resolvido,Financeiro,Cliente E,2025-01-01,9:28,147,72,Não,4,Alta,Tecnico_19
+8496,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente E,2025-03-26,15:23,66,24,Não,4,Baixa,Tecnico_9
+8036,Suporte Técnico,Média Prioridade,Pendente,RH,Cliente A,2025-02-24,9:33,195,72,Não,2,Alta,Tecnico_5
+4898,Manutenção,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-03-02,8:24,140,48,Não,1,Alta,Tecnico_5
+1548,Manutenção,Alta Prioridade,Pendente,RH,Cliente D,2025-02-06,12:47,122,72,Não,1,Média,Tecnico_11
+4162,Incidente Crítico,Média Prioridade,Resolvido,Financeiro,Cliente B,2025-03-18,15:51,51,72,Sim,3,Média,Tecnico_15
+3640,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Comercial,Cliente B,2025-02-24,13:30,163,72,Não,1,Alta,Tecnico_5
+4072,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,TI,Cliente A,2025-04-05,14:53,84,24,Não,5,Alta,Tecnico_13
+6099,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-01-23,12:03,227,96,Não,1,Média,Tecnico_9
+7662,Suporte Técnico,Alta Prioridade,Pendente,TI,Cliente E,2025-04-13,17:05,26,24,Não,5,Média,Tecnico_1
+6095,Suporte Técnico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-04-10,17:49,188,96,Não,1,Média,Tecnico_20
+4029,Solicitação de Serviço,Alta Prioridade,Cancelado,Financeiro,Cliente B,2024-12-24,18:16,213,96,Não,1,Baixa,Tecnico_18
+1328,Manutenção,Média Prioridade,Cancelado,Comercial,Cliente C,2025-01-12,13:35,184,96,Não,2,Alta,Tecnico_14
+5576,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente B,2025-04-07,13:32,146,96,Não,5,Média,Tecnico_9
+7389,Manutenção,Alta Prioridade,Pendente,Operações,Cliente D,2025-05-18,10:53,240,72,Não,2,Alta,Tecnico_3
+5588,Suporte Técnico,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-01-06,12:29,145,48,Não,3,Média,Tecnico_12
+8452,Suporte Técnico,Baixa Prioridade,Pendente,TI,Cliente B,2024-12-12,12:16,6,48,Sim,2,Média,Tecnico_5
+8702,Incidente Crítico,Média Prioridade,Pendente,TI,Cliente A,2024-12-15,9:34,206,24,Não,5,Baixa,Tecnico_16
+2223,Manutenção,Média Prioridade,Pendente,Financeiro,Cliente C,2025-05-14,13:57,183,72,Não,4,Alta,Tecnico_8
+1865,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,RH,Cliente A,2025-04-23,8:29,217,96,Não,3,Baixa,Tecnico_2
+6644,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente C,2025-05-18,11:58,187,72,Não,4,Média,Tecnico_16
+6659,Incidente Crítico,Média Prioridade,Em Andamento,Operações,Cliente A,2025-03-22,8:02,91,48,Não,3,Baixa,Tecnico_13
+9902,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente D,2024-12-12,8:16,211,48,Não,2,Alta,Tecnico_7
+8130,Incidente Crítico,Média Prioridade,Cancelado,Operações,Cliente A,2025-04-07,12:19,196,72,Não,5,Baixa,Tecnico_5
+6885,Solicitação de Serviço,Alta Prioridade,Em Andamento,TI,Cliente E,2024-12-20,12:23,217,96,Não,3,Baixa,Tecnico_17
+6407,Suporte Técnico,Alta Prioridade,Cancelado,Financeiro,Cliente A,2025-04-27,11:38,57,48,Não,1,Média,Tecnico_4
+5605,Manutenção,Alta Prioridade,Pendente,RH,Cliente E,2025-01-28,13:52,184,24,Não,2,Média,Tecnico_4
+4014,Atendimento ao Cliente,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-04-03,12:00,200,48,Não,3,Baixa,Tecnico_4
+4327,Manutenção,Média Prioridade,Resolvido,Operações,Cliente E,2025-02-27,18:25,18,48,Sim,3,Baixa,Tecnico_19
+8513,Atendimento ao Cliente,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-03-22,17:57,221,48,Não,3,Baixa,Tecnico_5
+1051,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente B,2025-05-28,12:21,148,24,Não,2,Baixa,Tecnico_17
+4126,Solicitação de Serviço,Baixa Prioridade,Pendente,TI,Cliente C,2025-03-29,11:46,92,96,Sim,3,Média,Tecnico_9
+4939,Incidente Crítico,Alta Prioridade,Pendente,RH,Cliente C,2025-05-15,11:14,76,72,Não,4,Alta,Tecnico_16
+8824,Suporte Técnico,Baixa Prioridade,Pendente,RH,Cliente D,2025-01-30,12:02,221,96,Não,5,Alta,Tecnico_9
+9636,Atendimento ao Cliente,Alta Prioridade,Resolvido,Operações,Cliente C,2025-01-17,14:20,103,72,Não,2,Média,Tecnico_19
+7014,Incidente Crítico,Média Prioridade,Resolvido,Comercial,Cliente C,2025-04-21,9:59,192,24,Não,2,Alta,Tecnico_3
+2481,Suporte Técnico,Alta Prioridade,Cancelado,Financeiro,Cliente B,2025-04-27,10:16,12,24,Sim,2,Média,Tecnico_2
+8900,Manutenção,Média Prioridade,Cancelado,TI,Cliente E,2025-05-12,14:33,14,48,Sim,5,Baixa,Tecnico_17
+6839,Incidente Crítico,Média Prioridade,Cancelado,Financeiro,Cliente A,2025-03-29,10:16,144,72,Não,2,Média,Tecnico_15
+2433,Atendimento ao Cliente,Média Prioridade,Resolvido,RH,Cliente D,2024-12-31,10:24,204,24,Não,4,Alta,Tecnico_2
+3617,Atendimento ao Cliente,Média Prioridade,Resolvido,Financeiro,Cliente B,2025-01-21,11:07,138,24,Não,2,Média,Tecnico_10
+6601,Manutenção,Média Prioridade,Resolvido,TI,Cliente A,2025-02-23,17:59,167,72,Não,5,Baixa,Tecnico_4
+2450,Incidente Crítico,Alta Prioridade,Resolvido,RH,Cliente B,2025-06-09,18:01,137,24,Não,5,Alta,Tecnico_1
+5718,Solicitação de Serviço,Alta Prioridade,Cancelado,Comercial,Cliente E,2025-03-13,18:16,97,72,Não,4,Baixa,Tecnico_20
+8434,Manutenção,Baixa Prioridade,Pendente,Operações,Cliente E,2025-05-30,14:13,151,24,Não,4,Alta,Tecnico_17
+4585,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-05-08,12:43,237,72,Não,2,Média,Tecnico_10
+8365,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente A,2025-05-21,17:46,78,48,Não,4,Baixa,Tecnico_19
+3371,Manutenção,Alta Prioridade,Cancelado,Financeiro,Cliente C,2025-03-12,12:35,190,48,Não,4,Alta,Tecnico_17
+5435,Solicitação de Serviço,Alta Prioridade,Cancelado,RH,Cliente D,2024-12-13,9:52,80,24,Não,2,Média,Tecnico_18
+9836,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-01-03,8:20,51,72,Sim,5,Baixa,Tecnico_15
+8307,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente D,2025-01-19,11:43,77,48,Não,1,Alta,Tecnico_16
+3136,Manutenção,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-04-05,14:37,169,24,Não,4,Média,Tecnico_3
+2420,Suporte Técnico,Média Prioridade,Pendente,RH,Cliente B,2025-05-29,9:56,173,24,Não,3,Baixa,Tecnico_9
+9275,Incidente Crítico,Alta Prioridade,Cancelado,Financeiro,Cliente B,2025-02-19,15:09,202,96,Não,3,Baixa,Tecnico_1
+5646,Atendimento ao Cliente,Alta Prioridade,Pendente,Operações,Cliente B,2025-02-07,14:51,26,24,Não,4,Média,Tecnico_5
+9737,Suporte Técnico,Média Prioridade,Em Andamento,TI,Cliente B,2025-04-04,9:00,199,48,Não,4,Baixa,Tecnico_5
+4737,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente D,2025-01-15,12:33,29,24,Não,2,Baixa,Tecnico_15
+3269,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente D,2025-03-03,15:11,155,96,Não,5,Alta,Tecnico_12
+6742,Manutenção,Média Prioridade,Pendente,Financeiro,Cliente D,2025-03-07,13:41,78,72,Não,4,Alta,Tecnico_4
+6309,Suporte Técnico,Alta Prioridade,Resolvido,Operações,Cliente B,2025-04-12,8:20,24,96,Sim,1,Baixa,Tecnico_11
+3641,Manutenção,Baixa Prioridade,Resolvido,Financeiro,Cliente D,2025-01-07,17:10,25,72,Sim,3,Média,Tecnico_16
+1257,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Financeiro,Cliente B,2025-01-08,14:59,168,72,Não,5,Alta,Tecnico_15
+2183,Incidente Crítico,Baixa Prioridade,Cancelado,Financeiro,Cliente D,2025-05-06,9:36,15,96,Sim,2,Média,Tecnico_12
+8906,Incidente Crítico,Baixa Prioridade,Pendente,Operações,Cliente B,2024-12-19,10:59,80,96,Sim,1,Alta,Tecnico_19
+7877,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente D,2025-01-11,8:45,184,48,Não,1,Baixa,Tecnico_3
+3631,Solicitação de Serviço,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-05-23,15:50,37,24,Não,4,Baixa,Tecnico_20
+9415,Suporte Técnico,Baixa Prioridade,Pendente,RH,Cliente B,2025-02-02,14:23,208,96,Não,3,Baixa,Tecnico_18
+6135,Solicitação de Serviço,Baixa Prioridade,Cancelado,Financeiro,Cliente A,2025-04-16,11:51,115,48,Não,3,Baixa,Tecnico_2
+1511,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente E,2025-05-27,15:28,72,48,Não,1,Alta,Tecnico_18
+6151,Manutenção,Média Prioridade,Em Andamento,RH,Cliente A,2025-02-10,15:14,41,24,Não,1,Baixa,Tecnico_3
+7776,Suporte Técnico,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-05-05,16:00,176,48,Não,3,Média,Tecnico_11
+3065,Incidente Crítico,Alta Prioridade,Resolvido,TI,Cliente E,2025-02-27,12:43,161,24,Não,4,Média,Tecnico_4
+1212,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente D,2025-06-01,13:16,75,48,Não,3,Baixa,Tecnico_10
+4196,Incidente Crítico,Média Prioridade,Cancelado,TI,Cliente C,2025-05-07,17:31,238,24,Não,3,Média,Tecnico_16
+4020,Manutenção,Média Prioridade,Cancelado,RH,Cliente B,2025-03-24,9:06,104,48,Não,4,Alta,Tecnico_19
+2487,Suporte Técnico,Alta Prioridade,Pendente,TI,Cliente A,2025-04-03,12:37,101,72,Não,3,Baixa,Tecnico_2
+2809,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente B,2025-04-06,13:58,86,24,Não,1,Baixa,Tecnico_14
+7168,Suporte Técnico,Alta Prioridade,Resolvido,RH,Cliente B,2025-01-06,10:22,110,72,Não,2,Média,Tecnico_3
+4481,Manutenção,Alta Prioridade,Em Andamento,RH,Cliente A,2025-05-21,14:09,85,48,Não,5,Alta,Tecnico_5
+6398,Solicitação de Serviço,Baixa Prioridade,Em Andamento,TI,Cliente A,2025-03-31,8:43,171,96,Não,3,Média,Tecnico_6
+9723,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente D,2025-02-11,15:14,204,24,Não,1,Baixa,Tecnico_20
+9531,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,RH,Cliente C,2025-01-29,16:51,101,96,Não,3,Média,Tecnico_16
+1257,Atendimento ao Cliente,Baixa Prioridade,Pendente,TI,Cliente E,2025-03-24,18:33,1,48,Sim,2,Alta,Tecnico_4
+4850,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente B,2025-01-08,12:08,202,96,Não,3,Alta,Tecnico_4
+9437,Suporte Técnico,Baixa Prioridade,Cancelado,Financeiro,Cliente E,2025-04-15,12:35,159,48,Não,4,Baixa,Tecnico_19
+3804,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente C,2025-02-19,17:40,75,24,Não,2,Alta,Tecnico_1
+1381,Suporte Técnico,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-03-10,8:22,140,96,Não,1,Alta,Tecnico_20
+9134,Incidente Crítico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-05-19,18:03,215,96,Não,2,Alta,Tecnico_16
+4881,Suporte Técnico,Baixa Prioridade,Resolvido,RH,Cliente D,2025-01-14,12:34,117,24,Não,1,Baixa,Tecnico_11
+1134,Suporte Técnico,Média Prioridade,Em Andamento,Comercial,Cliente E,2024-12-30,15:26,69,72,Sim,5,Baixa,Tecnico_3
+7103,Manutenção,Baixa Prioridade,Cancelado,Financeiro,Cliente E,2024-12-18,10:45,180,48,Não,4,Alta,Tecnico_3
+3907,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente A,2025-04-05,17:10,83,48,Não,5,Baixa,Tecnico_5
+3339,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Operações,Cliente A,2025-01-28,13:13,6,24,Sim,4,Baixa,Tecnico_6
+2071,Incidente Crítico,Baixa Prioridade,Em Andamento,Comercial,Cliente D,2024-12-13,15:48,116,72,Não,2,Baixa,Tecnico_18
+9916,Solicitação de Serviço,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-05-20,14:05,165,96,Não,5,Baixa,Tecnico_12
+5340,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente A,2025-03-10,8:28,44,48,Sim,2,Baixa,Tecnico_9
+4874,Incidente Crítico,Alta Prioridade,Resolvido,TI,Cliente E,2025-01-22,16:53,18,96,Sim,2,Alta,Tecnico_1
+8320,Incidente Crítico,Média Prioridade,Pendente,Financeiro,Cliente B,2025-05-31,10:16,200,48,Não,3,Alta,Tecnico_2
+5888,Solicitação de Serviço,Média Prioridade,Em Andamento,RH,Cliente D,2025-02-17,11:31,34,72,Sim,1,Baixa,Tecnico_4
+7727,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente B,2025-05-04,16:42,232,24,Não,2,Média,Tecnico_20
+6243,Suporte Técnico,Média Prioridade,Pendente,Comercial,Cliente D,2025-01-14,11:05,54,96,Sim,5,Baixa,Tecnico_7
+4922,Manutenção,Alta Prioridade,Em Andamento,Financeiro,Cliente A,2025-06-09,18:44,221,48,Não,4,Média,Tecnico_13
+5972,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Comercial,Cliente E,2025-01-23,13:42,214,96,Não,3,Alta,Tecnico_15
+7048,Incidente Crítico,Alta Prioridade,Em Andamento,TI,Cliente D,2025-05-03,8:15,31,24,Não,5,Alta,Tecnico_3
+7747,Atendimento ao Cliente,Baixa Prioridade,Pendente,TI,Cliente A,2025-02-25,13:38,179,48,Não,3,Baixa,Tecnico_13
+9414,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente D,2025-03-22,18:17,186,48,Não,2,Baixa,Tecnico_2
+6558,Incidente Crítico,Baixa Prioridade,Resolvido,Financeiro,Cliente C,2025-03-10,11:56,75,96,Sim,3,Média,Tecnico_3
+5957,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente D,2025-03-09,17:03,55,72,Sim,4,Baixa,Tecnico_16
+3316,Manutenção,Alta Prioridade,Pendente,Comercial,Cliente E,2025-02-06,17:03,94,72,Não,5,Média,Tecnico_9
+3275,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente A,2024-12-18,17:10,175,72,Não,4,Baixa,Tecnico_20
+9196,Manutenção,Média Prioridade,Resolvido,Financeiro,Cliente C,2025-04-09,15:31,160,72,Não,5,Média,Tecnico_19
+8122,Suporte Técnico,Alta Prioridade,Resolvido,Operações,Cliente B,2025-05-25,13:07,89,24,Não,1,Alta,Tecnico_8
+8342,Suporte Técnico,Alta Prioridade,Cancelado,Operações,Cliente D,2025-03-24,17:29,238,48,Não,2,Alta,Tecnico_17
+2876,Atendimento ao Cliente,Alta Prioridade,Resolvido,TI,Cliente C,2025-04-11,10:33,56,96,Sim,4,Alta,Tecnico_5
+1799,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente A,2025-01-12,15:28,66,72,Sim,5,Média,Tecnico_14
+8160,Incidente Crítico,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-04-28,17:10,216,96,Não,3,Alta,Tecnico_2
+3155,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Financeiro,Cliente E,2025-05-18,10:55,47,72,Sim,4,Alta,Tecnico_14
+9418,Atendimento ao Cliente,Alta Prioridade,Resolvido,TI,Cliente A,2025-03-15,12:31,214,72,Não,4,Baixa,Tecnico_14
+5949,Solicitação de Serviço,Média Prioridade,Em Andamento,TI,Cliente D,2024-12-20,13:19,157,96,Não,4,Baixa,Tecnico_4
+1664,Atendimento ao Cliente,Baixa Prioridade,Pendente,TI,Cliente C,2025-04-15,11:29,23,24,Sim,1,Alta,Tecnico_14
+3456,Atendimento ao Cliente,Alta Prioridade,Cancelado,RH,Cliente B,2025-04-01,15:23,156,72,Não,4,Média,Tecnico_11
+1390,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente A,2025-03-29,10:06,156,96,Não,2,Média,Tecnico_2
+4483,Solicitação de Serviço,Média Prioridade,Cancelado,Comercial,Cliente C,2025-01-30,10:58,169,96,Não,3,Alta,Tecnico_6
+8483,Incidente Crítico,Alta Prioridade,Em Andamento,Comercial,Cliente B,2024-12-12,10:01,107,48,Não,2,Baixa,Tecnico_3
+4049,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente B,2025-02-02,8:40,23,24,Sim,1,Alta,Tecnico_4
+1031,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente A,2025-04-22,11:51,71,48,Não,2,Média,Tecnico_18
+4339,Suporte Técnico,Média Prioridade,Em Andamento,TI,Cliente A,2025-01-02,11:16,114,96,Não,1,Alta,Tecnico_6
+8784,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Comercial,Cliente B,2025-02-18,18:27,152,48,Não,2,Baixa,Tecnico_15
+1695,Manutenção,Baixa Prioridade,Cancelado,Comercial,Cliente A,2025-03-14,15:13,17,96,Sim,5,Alta,Tecnico_4
+2021,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente E,2024-12-11,17:49,172,72,Não,4,Baixa,Tecnico_11
+1706,Solicitação de Serviço,Baixa Prioridade,Resolvido,Operações,Cliente C,2025-01-03,18:58,33,24,Não,5,Média,Tecnico_2
+2798,Suporte Técnico,Média Prioridade,Cancelado,Comercial,Cliente E,2025-01-01,17:03,155,24,Não,1,Baixa,Tecnico_18
+9281,Incidente Crítico,Média Prioridade,Em Andamento,RH,Cliente E,2025-03-30,13:44,186,72,Não,5,Alta,Tecnico_14
+8113,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente D,2024-12-28,9:21,109,72,Não,4,Alta,Tecnico_8
+3711,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente A,2025-01-10,16:52,176,48,Não,1,Média,Tecnico_18
+8491,Incidente Crítico,Alta Prioridade,Em Andamento,Comercial,Cliente B,2025-06-09,10:41,215,24,Não,4,Baixa,Tecnico_14
+2313,Atendimento ao Cliente,Média Prioridade,Resolvido,Financeiro,Cliente D,2025-01-09,12:21,142,48,Não,4,Alta,Tecnico_12
+5992,Incidente Crítico,Média Prioridade,Em Andamento,RH,Cliente C,2025-01-31,11:20,147,96,Não,2,Alta,Tecnico_2
+8394,Suporte Técnico,Baixa Prioridade,Pendente,RH,Cliente A,2025-05-20,18:21,67,48,Não,4,Média,Tecnico_3
+4727,Manutenção,Média Prioridade,Em Andamento,Financeiro,Cliente E,2025-01-24,9:01,49,96,Sim,5,Baixa,Tecnico_9
+4018,Suporte Técnico,Baixa Prioridade,Pendente,Operações,Cliente E,2025-04-17,14:22,220,24,Não,3,Baixa,Tecnico_16
+8087,Solicitação de Serviço,Média Prioridade,Pendente,Financeiro,Cliente A,2025-02-01,11:37,58,96,Sim,2,Alta,Tecnico_6
+2325,Solicitação de Serviço,Alta Prioridade,Cancelado,Operações,Cliente B,2025-01-16,17:26,173,72,Não,5,Baixa,Tecnico_18
+4159,Incidente Crítico,Baixa Prioridade,Cancelado,RH,Cliente B,2025-01-15,15:10,153,96,Não,3,Média,Tecnico_8
+4639,Atendimento ao Cliente,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-02-13,9:49,162,96,Não,5,Alta,Tecnico_19
+2707,Manutenção,Alta Prioridade,Em Andamento,TI,Cliente D,2025-06-02,13:41,208,96,Não,5,Baixa,Tecnico_10
+9252,Solicitação de Serviço,Baixa Prioridade,Em Andamento,TI,Cliente A,2025-04-20,10:41,47,48,Sim,1,Média,Tecnico_17
+2486,Solicitação de Serviço,Alta Prioridade,Cancelado,RH,Cliente C,2024-12-16,10:43,81,96,Sim,4,Média,Tecnico_16
+8776,Atendimento ao Cliente,Alta Prioridade,Cancelado,Operações,Cliente E,2025-01-08,16:32,153,24,Não,4,Média,Tecnico_14
+7867,Atendimento ao Cliente,Média Prioridade,Cancelado,TI,Cliente A,2025-03-27,17:27,20,24,Sim,1,Baixa,Tecnico_6
+6019,Atendimento ao Cliente,Média Prioridade,Resolvido,Financeiro,Cliente E,2025-05-01,9:12,158,72,Não,1,Alta,Tecnico_13
+6571,Manutenção,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-03-29,9:51,173,96,Não,4,Alta,Tecnico_4
+8060,Incidente Crítico,Baixa Prioridade,Cancelado,Comercial,Cliente A,2025-03-16,11:31,186,48,Não,2,Média,Tecnico_11
+6588,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente B,2025-03-09,10:46,139,72,Não,1,Baixa,Tecnico_7
+9430,Incidente Crítico,Alta Prioridade,Em Andamento,TI,Cliente C,2025-02-12,13:47,16,24,Sim,5,Média,Tecnico_15
+4751,Incidente Crítico,Baixa Prioridade,Em Andamento,RH,Cliente D,2025-03-12,17:44,41,96,Sim,5,Alta,Tecnico_15
+2105,Solicitação de Serviço,Alta Prioridade,Pendente,Comercial,Cliente D,2025-02-01,18:35,28,24,Não,2,Média,Tecnico_8
+1659,Manutenção,Alta Prioridade,Pendente,RH,Cliente C,2024-12-22,16:39,38,72,Sim,2,Baixa,Tecnico_1
+8678,Manutenção,Baixa Prioridade,Resolvido,Comercial,Cliente A,2025-01-23,16:03,220,96,Não,1,Baixa,Tecnico_2
+8743,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente D,2024-12-15,18:39,93,48,Não,5,Baixa,Tecnico_9
+9958,Solicitação de Serviço,Média Prioridade,Em Andamento,Operações,Cliente C,2025-04-15,14:53,229,96,Não,5,Média,Tecnico_5
+1455,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente E,2025-04-03,16:59,9,48,Sim,3,Alta,Tecnico_14
+9754,Suporte Técnico,Alta Prioridade,Em Andamento,Operações,Cliente C,2025-04-19,9:23,8,96,Sim,2,Média,Tecnico_12
+1102,Incidente Crítico,Baixa Prioridade,Resolvido,RH,Cliente C,2025-06-04,15:57,158,24,Não,5,Média,Tecnico_1
+4388,Manutenção,Alta Prioridade,Pendente,Operações,Cliente B,2024-12-17,13:40,69,24,Não,1,Alta,Tecnico_13
+8091,Suporte Técnico,Alta Prioridade,Pendente,Comercial,Cliente A,2025-01-24,11:27,24,24,Sim,3,Alta,Tecnico_1
+7387,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente D,2025-03-06,15:58,35,24,Não,1,Alta,Tecnico_19
+7883,Solicitação de Serviço,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-02-08,18:09,36,72,Sim,2,Baixa,Tecnico_7
+4366,Incidente Crítico,Média Prioridade,Em Andamento,Comercial,Cliente A,2024-12-26,12:39,112,72,Não,1,Média,Tecnico_5
+6743,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente A,2025-01-26,12:00,220,72,Não,5,Média,Tecnico_4
+7502,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-04-05,15:53,130,72,Não,4,Alta,Tecnico_8
+2053,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente D,2025-04-21,8:00,123,72,Não,4,Baixa,Tecnico_5
+4768,Manutenção,Alta Prioridade,Pendente,Financeiro,Cliente E,2025-04-24,14:23,86,96,Sim,4,Baixa,Tecnico_9
+1479,Manutenção,Baixa Prioridade,Em Andamento,Financeiro,Cliente C,2025-04-20,17:23,6,72,Sim,2,Alta,Tecnico_3
+8346,Suporte Técnico,Baixa Prioridade,Cancelado,Comercial,Cliente C,2025-02-19,12:28,86,96,Sim,3,Média,Tecnico_20
+2556,Manutenção,Baixa Prioridade,Em Andamento,TI,Cliente B,2025-05-22,11:55,56,48,Não,2,Média,Tecnico_7
+7224,Incidente Crítico,Alta Prioridade,Pendente,Comercial,Cliente D,2024-12-11,16:58,228,96,Não,3,Baixa,Tecnico_11
+4127,Manutenção,Média Prioridade,Pendente,TI,Cliente E,2025-02-18,14:38,108,96,Não,4,Média,Tecnico_4
+7184,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-04-20,13:17,151,96,Não,2,Baixa,Tecnico_11
+5587,Manutenção,Alta Prioridade,Pendente,Operações,Cliente C,2025-02-06,17:14,70,48,Não,2,Média,Tecnico_6
+3842,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-01-26,12:49,45,24,Não,2,Baixa,Tecnico_7
+2362,Suporte Técnico,Média Prioridade,Resolvido,Comercial,Cliente C,2025-04-14,18:52,129,96,Não,5,Alta,Tecnico_3
+7488,Atendimento ao Cliente,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-01-15,14:56,238,96,Não,5,Baixa,Tecnico_12
+1775,Atendimento ao Cliente,Alta Prioridade,Pendente,Comercial,Cliente A,2025-04-22,15:27,218,48,Não,3,Alta,Tecnico_18
+4321,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Financeiro,Cliente C,2025-03-30,12:57,74,72,Não,2,Baixa,Tecnico_19
+9275,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente A,2025-03-28,10:41,103,96,Não,1,Baixa,Tecnico_16
+7346,Manutenção,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-02-02,17:34,49,48,Não,3,Baixa,Tecnico_7
+1522,Atendimento ao Cliente,Média Prioridade,Resolvido,Operações,Cliente B,2025-02-26,14:57,125,24,Não,5,Média,Tecnico_8
+3379,Solicitação de Serviço,Alta Prioridade,Resolvido,TI,Cliente E,2024-12-29,14:05,82,72,Não,1,Alta,Tecnico_15
+3708,Solicitação de Serviço,Alta Prioridade,Pendente,TI,Cliente C,2025-01-13,10:11,179,24,Não,3,Baixa,Tecnico_18
+2736,Incidente Crítico,Média Prioridade,Em Andamento,Operações,Cliente B,2025-02-09,15:13,122,24,Não,2,Média,Tecnico_1
+2018,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente E,2025-02-14,8:53,118,24,Não,2,Baixa,Tecnico_10
+4874,Manutenção,Baixa Prioridade,Resolvido,Comercial,Cliente A,2025-02-12,13:22,50,24,Não,3,Alta,Tecnico_6
+7277,Atendimento ao Cliente,Média Prioridade,Em Andamento,Comercial,Cliente A,2025-04-11,14:22,45,48,Sim,5,Alta,Tecnico_15
+3251,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente E,2024-12-28,14:24,117,72,Não,5,Baixa,Tecnico_14
+4455,Solicitação de Serviço,Alta Prioridade,Resolvido,Comercial,Cliente B,2025-04-24,9:59,101,96,Não,3,Alta,Tecnico_10
+5531,Manutenção,Alta Prioridade,Cancelado,RH,Cliente D,2025-05-19,11:57,239,72,Não,5,Média,Tecnico_11
+5572,Manutenção,Baixa Prioridade,Pendente,Operações,Cliente E,2025-04-20,9:08,70,96,Sim,2,Alta,Tecnico_8
+4256,Incidente Crítico,Média Prioridade,Resolvido,Comercial,Cliente C,2025-02-21,17:50,133,96,Não,4,Baixa,Tecnico_13
+9213,Manutenção,Média Prioridade,Em Andamento,Comercial,Cliente B,2025-01-18,8:41,174,96,Não,2,Alta,Tecnico_8
+5519,Solicitação de Serviço,Média Prioridade,Em Andamento,TI,Cliente E,2024-12-30,13:42,97,72,Não,2,Baixa,Tecnico_13
+7465,Atendimento ao Cliente,Média Prioridade,Em Andamento,Comercial,Cliente B,2025-05-17,15:10,74,72,Não,5,Baixa,Tecnico_18
+2233,Suporte Técnico,Média Prioridade,Pendente,Operações,Cliente B,2025-05-04,18:21,5,48,Sim,3,Média,Tecnico_5
+8708,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-02-06,11:59,167,72,Não,4,Baixa,Tecnico_10
+7420,Suporte Técnico,Média Prioridade,Cancelado,TI,Cliente C,2025-05-13,13:39,57,72,Sim,3,Média,Tecnico_11
+5075,Manutenção,Média Prioridade,Cancelado,Operações,Cliente B,2025-05-20,16:35,152,24,Não,2,Alta,Tecnico_6
+9220,Incidente Crítico,Baixa Prioridade,Cancelado,RH,Cliente C,2025-01-20,18:34,86,72,Não,3,Alta,Tecnico_10
+4681,Incidente Crítico,Média Prioridade,Cancelado,Operações,Cliente E,2025-05-27,13:07,57,24,Não,4,Baixa,Tecnico_15
+2635,Solicitação de Serviço,Alta Prioridade,Cancelado,Operações,Cliente B,2025-05-09,17:39,1,24,Sim,2,Alta,Tecnico_16
+4654,Solicitação de Serviço,Média Prioridade,Em Andamento,Financeiro,Cliente C,2025-02-07,10:54,63,96,Sim,5,Média,Tecnico_8
+2704,Solicitação de Serviço,Baixa Prioridade,Resolvido,Comercial,Cliente E,2025-02-27,15:26,151,96,Não,3,Baixa,Tecnico_8
+5319,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente A,2025-02-05,9:18,24,96,Sim,4,Média,Tecnico_8
+9853,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente C,2025-02-09,16:42,27,96,Sim,5,Baixa,Tecnico_8
+8932,Suporte Técnico,Alta Prioridade,Cancelado,Financeiro,Cliente C,2025-03-15,18:02,108,24,Não,2,Baixa,Tecnico_6
+5241,Atendimento ao Cliente,Média Prioridade,Resolvido,Comercial,Cliente E,2025-02-24,10:50,155,96,Não,3,Alta,Tecnico_12
+5740,Suporte Técnico,Alta Prioridade,Cancelado,Financeiro,Cliente A,2025-01-28,15:49,228,48,Não,2,Alta,Tecnico_10
+1370,Incidente Crítico,Média Prioridade,Em Andamento,Financeiro,Cliente E,2025-01-25,11:58,235,48,Não,5,Média,Tecnico_6
+1140,Solicitação de Serviço,Média Prioridade,Resolvido,RH,Cliente B,2025-06-08,12:00,36,96,Sim,5,Baixa,Tecnico_20
+9628,Suporte Técnico,Média Prioridade,Cancelado,Comercial,Cliente A,2025-05-21,11:21,145,96,Não,3,Média,Tecnico_10
+9681,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente A,2025-03-03,10:17,67,48,Não,1,Média,Tecnico_16
+6286,Solicitação de Serviço,Alta Prioridade,Pendente,Comercial,Cliente C,2024-12-31,15:24,212,24,Não,4,Média,Tecnico_11
+8064,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente C,2025-02-01,9:18,76,96,Sim,2,Alta,Tecnico_17
+2069,Solicitação de Serviço,Baixa Prioridade,Resolvido,Comercial,Cliente E,2025-05-27,9:18,101,72,Não,5,Média,Tecnico_14
+5582,Manutenção,Baixa Prioridade,Pendente,Comercial,Cliente E,2025-03-04,10:07,157,72,Não,1,Média,Tecnico_12
+7081,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Comercial,Cliente E,2025-04-15,15:47,1,48,Sim,3,Média,Tecnico_5
+6602,Suporte Técnico,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-02-23,8:54,57,48,Não,1,Média,Tecnico_19
+2603,Solicitação de Serviço,Alta Prioridade,Pendente,Comercial,Cliente B,2025-03-16,8:50,151,24,Não,4,Média,Tecnico_20
+8950,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente A,2025-01-23,15:20,114,48,Não,2,Alta,Tecnico_3
+2365,Atendimento ao Cliente,Média Prioridade,Pendente,TI,Cliente E,2025-01-15,17:01,154,96,Não,5,Média,Tecnico_12
+1810,Atendimento ao Cliente,Média Prioridade,Pendente,Financeiro,Cliente B,2024-12-19,16:22,151,48,Não,5,Alta,Tecnico_8
+8928,Solicitação de Serviço,Alta Prioridade,Resolvido,TI,Cliente E,2025-01-06,14:06,51,96,Sim,1,Alta,Tecnico_3
+8996,Atendimento ao Cliente,Média Prioridade,Em Andamento,Comercial,Cliente E,2024-12-30,11:08,172,48,Não,1,Média,Tecnico_9
+1761,Atendimento ao Cliente,Média Prioridade,Cancelado,TI,Cliente D,2025-04-08,10:10,88,48,Não,3,Média,Tecnico_17
+4557,Incidente Crítico,Média Prioridade,Em Andamento,Operações,Cliente C,2025-04-17,18:24,53,48,Não,1,Alta,Tecnico_7
+9109,Manutenção,Baixa Prioridade,Pendente,Operações,Cliente A,2025-03-12,11:32,225,96,Não,2,Média,Tecnico_12
+7460,Incidente Crítico,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-01-11,11:11,3,24,Sim,5,Média,Tecnico_19
+9931,Manutenção,Média Prioridade,Resolvido,Operações,Cliente D,2025-04-16,14:26,189,72,Não,1,Alta,Tecnico_3
+9300,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente B,2025-03-28,14:37,135,24,Não,4,Média,Tecnico_16
+7411,Manutenção,Média Prioridade,Em Andamento,Comercial,Cliente D,2025-02-11,8:26,206,72,Não,4,Média,Tecnico_9
+6059,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Comercial,Cliente E,2025-04-04,8:54,139,96,Não,4,Alta,Tecnico_5
+6204,Manutenção,Alta Prioridade,Cancelado,TI,Cliente C,2025-02-22,13:33,184,96,Não,1,Alta,Tecnico_7
+4258,Manutenção,Alta Prioridade,Resolvido,Comercial,Cliente D,2025-05-21,17:27,114,72,Não,5,Média,Tecnico_4
+5996,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente E,2025-05-13,8:29,84,24,Não,5,Baixa,Tecnico_20
+7328,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente E,2025-03-04,16:14,95,72,Não,5,Alta,Tecnico_18
+6935,Incidente Crítico,Baixa Prioridade,Pendente,RH,Cliente C,2025-04-23,15:25,94,96,Sim,2,Alta,Tecnico_4
+7461,Manutenção,Média Prioridade,Pendente,Financeiro,Cliente A,2024-12-23,8:44,121,96,Não,2,Baixa,Tecnico_15
+5625,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente B,2025-03-25,14:35,193,96,Não,3,Média,Tecnico_12
+6738,Solicitação de Serviço,Alta Prioridade,Pendente,Comercial,Cliente E,2025-02-17,11:32,145,48,Não,4,Baixa,Tecnico_8
+9121,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente A,2025-01-20,10:23,24,24,Sim,1,Baixa,Tecnico_3
+5130,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente D,2025-01-16,11:18,167,48,Não,4,Baixa,Tecnico_15
+3933,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente E,2025-03-21,13:56,45,48,Sim,2,Alta,Tecnico_10
+3157,Manutenção,Média Prioridade,Cancelado,Operações,Cliente E,2025-06-05,14:16,112,48,Não,2,Média,Tecnico_10
+9642,Incidente Crítico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-01-04,10:33,28,24,Não,4,Alta,Tecnico_7
+5603,Incidente Crítico,Média Prioridade,Pendente,RH,Cliente C,2025-01-20,13:26,72,48,Não,3,Média,Tecnico_5
+2819,Suporte Técnico,Alta Prioridade,Pendente,Comercial,Cliente E,2024-12-27,18:19,128,72,Não,1,Alta,Tecnico_18
+2530,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Operações,Cliente C,2025-04-19,11:18,76,72,Não,5,Baixa,Tecnico_14
+2541,Incidente Crítico,Baixa Prioridade,Em Andamento,Operações,Cliente E,2025-03-21,15:19,2,48,Sim,4,Baixa,Tecnico_5
+5137,Atendimento ao Cliente,Baixa Prioridade,Cancelado,TI,Cliente C,2025-04-13,13:14,124,48,Não,2,Alta,Tecnico_17
+9217,Incidente Crítico,Alta Prioridade,Pendente,Financeiro,Cliente D,2025-02-07,15:14,55,48,Não,4,Baixa,Tecnico_18
+1723,Incidente Crítico,Alta Prioridade,Em Andamento,Comercial,Cliente A,2025-05-17,12:22,166,48,Não,3,Baixa,Tecnico_4
+7108,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente C,2024-12-15,9:39,214,96,Não,1,Baixa,Tecnico_15
+8804,Solicitação de Serviço,Alta Prioridade,Cancelado,TI,Cliente D,2025-04-23,14:12,75,48,Não,3,Alta,Tecnico_2
+2884,Suporte Técnico,Alta Prioridade,Pendente,TI,Cliente B,2025-02-23,14:55,1,24,Sim,4,Média,Tecnico_4
+9221,Atendimento ao Cliente,Média Prioridade,Cancelado,Comercial,Cliente C,2024-12-24,12:07,164,72,Não,2,Baixa,Tecnico_12
+7545,Incidente Crítico,Média Prioridade,Resolvido,Operações,Cliente C,2025-04-20,11:38,94,72,Não,1,Baixa,Tecnico_17
+8394,Suporte Técnico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-01-08,13:55,183,96,Não,4,Alta,Tecnico_20
+6350,Incidente Crítico,Média Prioridade,Resolvido,TI,Cliente D,2025-04-18,9:54,93,96,Sim,4,Alta,Tecnico_5
+3796,Incidente Crítico,Baixa Prioridade,Resolvido,Operações,Cliente B,2025-05-26,17:02,36,72,Sim,5,Alta,Tecnico_8
+4406,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,TI,Cliente B,2025-01-02,17:08,224,96,Não,3,Média,Tecnico_16
+4208,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente E,2025-06-08,14:54,131,96,Não,2,Média,Tecnico_1
+4050,Manutenção,Alta Prioridade,Pendente,RH,Cliente D,2025-03-08,15:44,81,72,Não,3,Média,Tecnico_13
+4069,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente C,2025-01-27,13:49,95,48,Não,3,Alta,Tecnico_14
+3725,Solicitação de Serviço,Alta Prioridade,Pendente,Comercial,Cliente D,2025-03-15,18:56,122,96,Não,3,Alta,Tecnico_13
+8197,Suporte Técnico,Alta Prioridade,Pendente,Operações,Cliente D,2025-01-06,14:07,120,48,Não,3,Alta,Tecnico_12
+8779,Solicitação de Serviço,Média Prioridade,Cancelado,TI,Cliente D,2025-02-11,8:59,27,24,Não,1,Média,Tecnico_3
+9399,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente D,2024-12-17,9:56,208,96,Não,1,Média,Tecnico_4
+2649,Solicitação de Serviço,Média Prioridade,Em Andamento,RH,Cliente B,2025-02-27,16:26,42,24,Não,4,Baixa,Tecnico_4
+7533,Manutenção,Baixa Prioridade,Pendente,Comercial,Cliente D,2025-03-10,9:19,42,24,Não,1,Baixa,Tecnico_20
+1722,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente E,2025-01-27,12:29,6,96,Sim,1,Média,Tecnico_15
+1268,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Operações,Cliente B,2025-03-27,12:18,117,48,Não,5,Baixa,Tecnico_20
+6463,Incidente Crítico,Baixa Prioridade,Pendente,RH,Cliente B,2025-03-18,15:05,204,48,Não,1,Média,Tecnico_16
+9259,Incidente Crítico,Baixa Prioridade,Cancelado,RH,Cliente B,2025-04-26,16:56,118,72,Não,5,Baixa,Tecnico_2
+6704,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente B,2025-05-02,15:48,133,96,Não,4,Média,Tecnico_7
+1253,Manutenção,Alta Prioridade,Cancelado,Operações,Cliente A,2025-01-18,13:08,54,48,Não,1,Alta,Tecnico_3
+5943,Suporte Técnico,Média Prioridade,Resolvido,TI,Cliente B,2025-02-05,14:30,67,24,Não,5,Média,Tecnico_20
+9621,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente E,2025-02-11,16:53,211,24,Não,2,Alta,Tecnico_19
+4799,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente B,2025-04-29,14:40,215,96,Não,1,Baixa,Tecnico_3
+6922,Solicitação de Serviço,Média Prioridade,Pendente,TI,Cliente E,2025-04-10,11:28,54,72,Sim,1,Baixa,Tecnico_1
+4097,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente E,2025-02-26,12:52,116,48,Não,2,Alta,Tecnico_1
+4126,Suporte Técnico,Alta Prioridade,Pendente,Financeiro,Cliente E,2025-01-20,11:11,20,48,Sim,1,Média,Tecnico_12
+4562,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente C,2025-02-16,14:21,169,96,Não,3,Baixa,Tecnico_4
+6088,Manutenção,Alta Prioridade,Resolvido,TI,Cliente B,2024-12-17,12:49,236,48,Não,1,Baixa,Tecnico_3
+9814,Solicitação de Serviço,Média Prioridade,Em Andamento,TI,Cliente B,2025-03-04,13:04,169,48,Não,2,Baixa,Tecnico_4
+8751,Manutenção,Média Prioridade,Resolvido,Operações,Cliente B,2025-01-06,13:32,173,48,Não,2,Baixa,Tecnico_3
+7646,Manutenção,Baixa Prioridade,Em Andamento,Financeiro,Cliente E,2024-12-18,14:11,61,48,Não,4,Média,Tecnico_14
+2254,Suporte Técnico,Alta Prioridade,Cancelado,TI,Cliente E,2025-02-21,11:16,70,72,Sim,2,Baixa,Tecnico_8
+3012,Incidente Crítico,Baixa Prioridade,Pendente,Comercial,Cliente C,2025-01-29,16:50,93,72,Não,4,Baixa,Tecnico_13
+6097,Suporte Técnico,Baixa Prioridade,Resolvido,Operações,Cliente D,2025-01-21,17:02,55,48,Não,1,Baixa,Tecnico_15
+7923,Incidente Crítico,Média Prioridade,Resolvido,TI,Cliente D,2025-03-05,18:43,83,96,Sim,4,Média,Tecnico_1
+1921,Atendimento ao Cliente,Média Prioridade,Resolvido,Comercial,Cliente D,2025-05-25,14:52,120,48,Não,1,Alta,Tecnico_20
+3726,Suporte Técnico,Média Prioridade,Em Andamento,TI,Cliente E,2025-02-27,18:43,114,72,Não,5,Média,Tecnico_8
+1376,Incidente Crítico,Baixa Prioridade,Em Andamento,TI,Cliente C,2025-04-29,17:26,157,96,Não,5,Alta,Tecnico_12
+1943,Solicitação de Serviço,Alta Prioridade,Em Andamento,TI,Cliente C,2025-05-30,10:09,33,48,Sim,3,Baixa,Tecnico_2
+1455,Manutenção,Baixa Prioridade,Resolvido,Financeiro,Cliente B,2025-05-15,16:09,158,48,Não,1,Média,Tecnico_10
+6371,Solicitação de Serviço,Alta Prioridade,Em Andamento,TI,Cliente A,2025-04-29,10:17,38,24,Não,4,Alta,Tecnico_15
+9128,Incidente Crítico,Média Prioridade,Cancelado,RH,Cliente D,2025-06-04,18:49,164,72,Não,5,Média,Tecnico_6
+3950,Manutenção,Alta Prioridade,Cancelado,Financeiro,Cliente C,2025-04-24,13:38,69,48,Não,1,Alta,Tecnico_7
+9090,Incidente Crítico,Média Prioridade,Resolvido,Operações,Cliente C,2025-04-30,10:28,107,72,Não,5,Alta,Tecnico_19
+8658,Manutenção,Alta Prioridade,Cancelado,Operações,Cliente B,2025-03-15,8:55,97,24,Não,2,Alta,Tecnico_10
+6247,Suporte Técnico,Média Prioridade,Resolvido,TI,Cliente E,2025-02-22,15:58,115,96,Não,3,Média,Tecnico_9
+2758,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente E,2025-05-09,9:29,72,24,Não,1,Alta,Tecnico_12
+6553,Incidente Crítico,Alta Prioridade,Pendente,Financeiro,Cliente B,2025-01-23,18:53,235,24,Não,2,Baixa,Tecnico_12
+5889,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,TI,Cliente E,2025-03-14,16:04,154,96,Não,3,Baixa,Tecnico_6
+8953,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente A,2025-05-15,12:44,90,24,Não,5,Média,Tecnico_10
+7328,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente A,2025-01-01,16:52,183,48,Não,5,Média,Tecnico_2
+2329,Solicitação de Serviço,Baixa Prioridade,Pendente,Operações,Cliente D,2025-02-16,15:41,224,48,Não,1,Alta,Tecnico_19
+6513,Suporte Técnico,Média Prioridade,Pendente,Operações,Cliente C,2024-12-13,13:58,49,96,Sim,4,Alta,Tecnico_3
+7784,Solicitação de Serviço,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-01-25,12:34,106,24,Não,2,Baixa,Tecnico_7
+3421,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Financeiro,Cliente D,2025-02-05,16:45,14,96,Sim,1,Alta,Tecnico_9
+3873,Incidente Crítico,Baixa Prioridade,Em Andamento,Financeiro,Cliente A,2025-05-09,16:21,121,96,Não,2,Média,Tecnico_5
+6790,Suporte Técnico,Baixa Prioridade,Cancelado,RH,Cliente C,2025-04-14,16:14,228,24,Não,5,Alta,Tecnico_14
+2658,Atendimento ao Cliente,Baixa Prioridade,Resolvido,RH,Cliente B,2025-02-17,11:49,211,96,Não,1,Alta,Tecnico_13
+8382,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente E,2025-03-29,17:34,54,48,Não,1,Baixa,Tecnico_20
+1920,Atendimento ao Cliente,Baixa Prioridade,Pendente,TI,Cliente A,2025-04-13,12:13,102,72,Não,2,Média,Tecnico_5
+7809,Atendimento ao Cliente,Baixa Prioridade,Resolvido,RH,Cliente D,2025-06-06,11:20,31,24,Não,1,Baixa,Tecnico_19
+2666,Manutenção,Baixa Prioridade,Resolvido,RH,Cliente B,2025-01-31,12:52,158,72,Não,1,Média,Tecnico_5
+9930,Atendimento ao Cliente,Média Prioridade,Resolvido,Comercial,Cliente A,2025-04-27,11:30,140,72,Não,5,Média,Tecnico_3
+8395,Incidente Crítico,Média Prioridade,Resolvido,Financeiro,Cliente C,2025-05-05,16:54,182,48,Não,3,Baixa,Tecnico_17
+6014,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2025-01-13,15:15,137,48,Não,3,Alta,Tecnico_1
+7703,Incidente Crítico,Baixa Prioridade,Em Andamento,RH,Cliente D,2025-01-05,11:20,55,48,Não,2,Média,Tecnico_19
+3271,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente E,2024-12-11,13:07,111,96,Não,1,Alta,Tecnico_15
+3107,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente E,2025-02-10,14:19,88,72,Não,3,Alta,Tecnico_3
+2340,Atendimento ao Cliente,Alta Prioridade,Resolvido,Operações,Cliente B,2025-04-27,18:16,240,96,Não,4,Baixa,Tecnico_20
+1453,Incidente Crítico,Alta Prioridade,Pendente,TI,Cliente B,2025-03-30,11:44,183,24,Não,4,Alta,Tecnico_10
+3867,Suporte Técnico,Baixa Prioridade,Cancelado,Financeiro,Cliente C,2025-01-27,13:13,158,24,Não,5,Baixa,Tecnico_4
+6321,Incidente Crítico,Alta Prioridade,Cancelado,Operações,Cliente C,2025-01-15,13:37,42,24,Não,5,Baixa,Tecnico_11
+9807,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2025-05-30,10:15,47,96,Sim,2,Média,Tecnico_17
+5545,Solicitação de Serviço,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-03-30,17:03,192,24,Não,5,Alta,Tecnico_13
+2002,Incidente Crítico,Baixa Prioridade,Pendente,Comercial,Cliente B,2025-03-29,13:47,53,24,Não,1,Média,Tecnico_2
+7308,Solicitação de Serviço,Baixa Prioridade,Resolvido,RH,Cliente B,2025-01-01,12:43,225,24,Não,4,Baixa,Tecnico_12
+2507,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente D,2025-01-16,13:56,97,72,Não,5,Baixa,Tecnico_12
+7307,Manutenção,Baixa Prioridade,Pendente,RH,Cliente C,2025-04-17,9:08,101,48,Não,2,Média,Tecnico_4
+5139,Incidente Crítico,Alta Prioridade,Pendente,Operações,Cliente A,2025-03-06,10:34,32,24,Não,3,Alta,Tecnico_13
+1238,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Financeiro,Cliente A,2025-04-16,9:27,156,72,Não,2,Baixa,Tecnico_2
+9716,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente C,2025-01-07,13:20,95,72,Não,3,Baixa,Tecnico_5
+1096,Suporte Técnico,Baixa Prioridade,Cancelado,TI,Cliente E,2024-12-15,14:20,214,48,Não,4,Média,Tecnico_19
+2634,Incidente Crítico,Alta Prioridade,Cancelado,Comercial,Cliente B,2025-05-22,10:58,60,72,Sim,1,Média,Tecnico_9
+8975,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente A,2025-04-20,9:49,158,96,Não,5,Baixa,Tecnico_4
+5636,Solicitação de Serviço,Média Prioridade,Cancelado,TI,Cliente D,2025-04-21,14:27,140,24,Não,1,Média,Tecnico_11
+5075,Atendimento ao Cliente,Média Prioridade,Cancelado,RH,Cliente B,2025-02-07,14:13,230,96,Não,4,Média,Tecnico_10
+9540,Solicitação de Serviço,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-02-10,15:20,152,48,Não,5,Alta,Tecnico_7
+2216,Manutenção,Média Prioridade,Resolvido,TI,Cliente E,2025-03-20,15:09,95,72,Não,4,Média,Tecnico_20
+2885,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente A,2025-04-18,15:30,120,24,Não,1,Baixa,Tecnico_11
+1762,Solicitação de Serviço,Alta Prioridade,Resolvido,Financeiro,Cliente E,2025-02-16,18:30,93,24,Não,2,Média,Tecnico_12
+1149,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente E,2025-04-20,12:42,102,72,Não,2,Média,Tecnico_18
+1610,Solicitação de Serviço,Alta Prioridade,Pendente,Operações,Cliente A,2025-01-01,18:53,34,24,Não,1,Baixa,Tecnico_8
+3672,Manutenção,Média Prioridade,Cancelado,Operações,Cliente E,2025-02-16,18:49,108,48,Não,3,Média,Tecnico_16
+7675,Atendimento ao Cliente,Baixa Prioridade,Pendente,Financeiro,Cliente B,2025-02-19,18:36,42,72,Sim,3,Média,Tecnico_20
+1536,Suporte Técnico,Média Prioridade,Em Andamento,RH,Cliente C,2025-01-11,12:26,158,24,Não,1,Alta,Tecnico_12
+1656,Incidente Crítico,Média Prioridade,Pendente,Comercial,Cliente E,2024-12-14,17:23,108,72,Não,1,Baixa,Tecnico_12
+6245,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Operações,Cliente E,2025-05-31,16:19,140,24,Não,2,Média,Tecnico_9
+8226,Manutenção,Baixa Prioridade,Pendente,Operações,Cliente B,2025-04-28,9:11,68,24,Não,1,Média,Tecnico_1
+8143,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente A,2025-02-02,14:08,150,72,Não,1,Média,Tecnico_13
+8774,Incidente Crítico,Alta Prioridade,Em Andamento,Operações,Cliente C,2025-03-01,10:16,22,72,Sim,2,Alta,Tecnico_7
+8516,Manutenção,Baixa Prioridade,Em Andamento,RH,Cliente E,2025-03-24,9:25,205,72,Não,5,Média,Tecnico_15
+7476,Atendimento ao Cliente,Alta Prioridade,Resolvido,Comercial,Cliente E,2025-04-19,13:56,104,96,Não,5,Baixa,Tecnico_12
+8752,Suporte Técnico,Média Prioridade,Resolvido,TI,Cliente D,2025-04-08,11:04,39,96,Sim,1,Alta,Tecnico_19
+9939,Solicitação de Serviço,Alta Prioridade,Pendente,RH,Cliente D,2025-03-28,12:25,90,48,Não,4,Baixa,Tecnico_3
+3794,Suporte Técnico,Média Prioridade,Pendente,Operações,Cliente A,2025-02-03,18:54,122,24,Não,3,Baixa,Tecnico_19
+9004,Suporte Técnico,Média Prioridade,Em Andamento,TI,Cliente B,2025-01-16,14:20,105,48,Não,5,Alta,Tecnico_19
+4376,Solicitação de Serviço,Alta Prioridade,Cancelado,RH,Cliente B,2025-03-03,15:29,68,48,Não,5,Baixa,Tecnico_5
+8458,Solicitação de Serviço,Média Prioridade,Em Andamento,Comercial,Cliente C,2025-05-09,15:42,12,48,Sim,4,Média,Tecnico_2
+2870,Incidente Crítico,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-04-18,8:03,214,96,Não,5,Média,Tecnico_11
+8060,Manutenção,Baixa Prioridade,Resolvido,RH,Cliente D,2025-05-08,13:29,11,96,Sim,5,Alta,Tecnico_12
+9309,Manutenção,Baixa Prioridade,Resolvido,TI,Cliente D,2025-01-13,17:44,148,72,Não,3,Média,Tecnico_17
+5524,Manutenção,Alta Prioridade,Cancelado,Operações,Cliente E,2025-01-09,14:20,56,72,Sim,3,Média,Tecnico_8
+4347,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2025-04-06,8:31,34,48,Sim,4,Baixa,Tecnico_1
+3303,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Operações,Cliente B,2024-12-15,8:18,89,24,Não,2,Alta,Tecnico_15
+8841,Atendimento ao Cliente,Média Prioridade,Pendente,RH,Cliente B,2025-04-16,9:37,124,24,Não,2,Alta,Tecnico_20
+7704,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente E,2025-04-04,16:28,90,72,Não,1,Baixa,Tecnico_10
+9071,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente B,2025-06-03,17:20,19,48,Sim,2,Baixa,Tecnico_13
+4396,Solicitação de Serviço,Média Prioridade,Resolvido,Financeiro,Cliente D,2025-01-23,13:40,205,24,Não,2,Alta,Tecnico_13
+2351,Manutenção,Média Prioridade,Em Andamento,Comercial,Cliente C,2025-04-13,8:38,225,24,Não,5,Baixa,Tecnico_17
+1744,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente E,2024-12-15,13:10,102,24,Não,2,Baixa,Tecnico_11
+4253,Incidente Crítico,Baixa Prioridade,Resolvido,RH,Cliente D,2025-02-10,15:45,235,48,Não,3,Média,Tecnico_4
+5054,Manutenção,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-06-01,12:27,212,96,Não,5,Baixa,Tecnico_15
+3842,Incidente Crítico,Baixa Prioridade,Cancelado,TI,Cliente A,2025-03-29,11:38,49,72,Sim,5,Baixa,Tecnico_2
+6939,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente E,2024-12-30,13:29,99,72,Não,4,Alta,Tecnico_13
+6886,Manutenção,Baixa Prioridade,Resolvido,Operações,Cliente D,2025-03-27,13:53,7,48,Sim,5,Média,Tecnico_18
+7906,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente D,2025-04-15,9:33,202,48,Não,3,Média,Tecnico_17
+8627,Manutenção,Baixa Prioridade,Em Andamento,Financeiro,Cliente A,2025-03-21,9:55,70,24,Não,3,Baixa,Tecnico_20
+7948,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente D,2025-01-07,15:58,70,48,Não,2,Baixa,Tecnico_13
+7382,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente A,2025-02-27,15:00,62,96,Sim,3,Baixa,Tecnico_20
+8569,Manutenção,Alta Prioridade,Cancelado,Comercial,Cliente D,2024-12-31,17:26,45,24,Não,5,Baixa,Tecnico_5
+7558,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Comercial,Cliente B,2025-03-03,9:31,73,48,Não,4,Baixa,Tecnico_1
+6258,Manutenção,Média Prioridade,Cancelado,Operações,Cliente D,2025-03-12,16:01,207,48,Não,2,Média,Tecnico_7
+1811,Manutenção,Média Prioridade,Pendente,Operações,Cliente D,2025-05-17,9:36,36,96,Sim,3,Média,Tecnico_10
+7138,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente A,2025-05-05,13:24,159,96,Não,4,Alta,Tecnico_3
+1351,Manutenção,Alta Prioridade,Em Andamento,TI,Cliente A,2025-06-09,18:11,179,24,Não,5,Alta,Tecnico_13
+9386,Incidente Crítico,Alta Prioridade,Pendente,TI,Cliente D,2025-03-26,17:52,59,72,Sim,4,Média,Tecnico_4
+6985,Incidente Crítico,Baixa Prioridade,Resolvido,RH,Cliente E,2025-05-08,17:01,143,24,Não,1,Alta,Tecnico_2
+1924,Solicitação de Serviço,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-04-12,16:34,81,96,Sim,5,Baixa,Tecnico_17
+5131,Manutenção,Média Prioridade,Pendente,RH,Cliente D,2025-03-09,12:25,53,72,Sim,5,Média,Tecnico_8
+2752,Atendimento ao Cliente,Alta Prioridade,Cancelado,RH,Cliente C,2025-04-26,12:47,31,24,Não,3,Baixa,Tecnico_1
+8334,Incidente Crítico,Média Prioridade,Resolvido,Financeiro,Cliente E,2024-12-21,10:02,146,48,Não,1,Baixa,Tecnico_20
+3309,Suporte Técnico,Baixa Prioridade,Resolvido,Financeiro,Cliente C,2025-02-24,16:11,21,72,Sim,1,Média,Tecnico_15
+5329,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente C,2025-05-04,14:47,142,72,Não,5,Alta,Tecnico_7
+9604,Solicitação de Serviço,Alta Prioridade,Em Andamento,Operações,Cliente B,2025-03-03,12:57,69,72,Sim,3,Média,Tecnico_7
+7640,Suporte Técnico,Média Prioridade,Cancelado,Financeiro,Cliente E,2025-01-01,16:13,121,96,Não,5,Baixa,Tecnico_8
+5459,Solicitação de Serviço,Alta Prioridade,Em Andamento,RH,Cliente C,2024-12-27,17:25,128,24,Não,2,Alta,Tecnico_2
+3206,Atendimento ao Cliente,Média Prioridade,Resolvido,Financeiro,Cliente C,2025-02-19,13:19,206,48,Não,3,Média,Tecnico_9
+4416,Suporte Técnico,Média Prioridade,Em Andamento,RH,Cliente B,2025-05-14,16:24,52,72,Sim,2,Alta,Tecnico_9
+1269,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente A,2025-01-22,10:24,2,24,Sim,1,Média,Tecnico_1
+4797,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente D,2025-06-02,16:19,153,96,Não,2,Baixa,Tecnico_17
+5636,Suporte Técnico,Alta Prioridade,Pendente,Operações,Cliente D,2025-04-11,8:50,205,24,Não,5,Alta,Tecnico_10
+1189,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente C,2025-02-26,10:34,207,24,Não,2,Baixa,Tecnico_8
+9754,Incidente Crítico,Alta Prioridade,Resolvido,RH,Cliente C,2025-01-11,14:11,136,96,Não,3,Alta,Tecnico_3
+3310,Manutenção,Média Prioridade,Cancelado,Financeiro,Cliente B,2025-01-04,14:06,120,24,Não,1,Baixa,Tecnico_9
+3715,Solicitação de Serviço,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-06-06,15:37,31,96,Sim,4,Média,Tecnico_2
+6166,Manutenção,Média Prioridade,Resolvido,Financeiro,Cliente D,2024-12-29,16:33,122,96,Não,1,Baixa,Tecnico_9
+8973,Incidente Crítico,Baixa Prioridade,Pendente,Operações,Cliente C,2025-05-20,18:05,66,72,Sim,3,Baixa,Tecnico_4
+1374,Suporte Técnico,Baixa Prioridade,Pendente,TI,Cliente C,2025-01-22,8:09,204,24,Não,5,Alta,Tecnico_17
+4122,Incidente Crítico,Baixa Prioridade,Resolvido,Comercial,Cliente A,2025-01-25,14:30,125,96,Não,4,Baixa,Tecnico_18
+1356,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente B,2025-05-16,15:28,199,24,Não,2,Alta,Tecnico_17
+4263,Manutenção,Baixa Prioridade,Em Andamento,RH,Cliente E,2025-05-11,13:03,221,96,Não,2,Média,Tecnico_1
+5976,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente A,2025-03-23,16:53,101,96,Não,2,Baixa,Tecnico_1
+6626,Solicitação de Serviço,Alta Prioridade,Resolvido,Financeiro,Cliente C,2024-12-14,11:53,180,24,Não,3,Baixa,Tecnico_14
+6695,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente C,2024-12-20,12:49,50,96,Sim,2,Alta,Tecnico_19
+9249,Incidente Crítico,Alta Prioridade,Resolvido,TI,Cliente B,2025-02-09,12:19,132,48,Não,1,Baixa,Tecnico_12
+1556,Solicitação de Serviço,Baixa Prioridade,Resolvido,TI,Cliente A,2025-05-25,16:10,95,48,Não,5,Média,Tecnico_14
+8610,Atendimento ao Cliente,Alta Prioridade,Resolvido,RH,Cliente D,2025-05-17,15:48,120,48,Não,5,Média,Tecnico_11
+5243,Suporte Técnico,Média Prioridade,Em Andamento,RH,Cliente B,2024-12-18,11:25,110,24,Não,2,Baixa,Tecnico_5
+5545,Incidente Crítico,Baixa Prioridade,Cancelado,Operações,Cliente E,2024-12-12,11:24,187,48,Não,3,Baixa,Tecnico_9
+6287,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente C,2025-02-01,18:27,138,24,Não,4,Baixa,Tecnico_6
+7082,Solicitação de Serviço,Alta Prioridade,Cancelado,Comercial,Cliente D,2025-02-18,9:46,35,96,Sim,2,Alta,Tecnico_14
+8064,Atendimento ao Cliente,Baixa Prioridade,Cancelado,TI,Cliente B,2025-02-07,16:35,50,72,Sim,2,Média,Tecnico_14
+4340,Solicitação de Serviço,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-02-10,9:16,49,48,Não,3,Baixa,Tecnico_20
+4846,Suporte Técnico,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-03-18,11:48,146,72,Não,2,Baixa,Tecnico_4
+2359,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente A,2025-05-22,13:15,156,72,Não,2,Baixa,Tecnico_19
+3499,Atendimento ao Cliente,Baixa Prioridade,Pendente,Financeiro,Cliente E,2025-05-30,14:23,175,96,Não,1,Alta,Tecnico_5
+6493,Manutenção,Média Prioridade,Resolvido,Operações,Cliente C,2025-01-31,12:47,97,96,Não,5,Alta,Tecnico_15
+1585,Incidente Crítico,Média Prioridade,Resolvido,Comercial,Cliente B,2025-03-02,18:36,224,96,Não,3,Média,Tecnico_13
+6369,Solicitação de Serviço,Alta Prioridade,Cancelado,Operações,Cliente E,2025-01-21,11:10,224,48,Não,5,Média,Tecnico_12
+2842,Manutenção,Baixa Prioridade,Resolvido,Operações,Cliente C,2025-05-17,17:05,53,24,Não,1,Média,Tecnico_7
+7575,Manutenção,Alta Prioridade,Em Andamento,TI,Cliente D,2025-06-07,18:28,202,24,Não,5,Alta,Tecnico_10
+8696,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Comercial,Cliente E,2025-04-18,13:10,16,72,Sim,4,Baixa,Tecnico_10
+1815,Suporte Técnico,Alta Prioridade,Pendente,Operações,Cliente D,2025-05-28,17:30,8,72,Sim,5,Baixa,Tecnico_14
+3298,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente C,2025-03-21,13:21,38,24,Não,2,Alta,Tecnico_17
+9869,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente D,2025-03-29,12:02,101,96,Não,1,Baixa,Tecnico_17
+5847,Atendimento ao Cliente,Alta Prioridade,Pendente,Comercial,Cliente E,2025-02-02,14:33,149,24,Não,2,Média,Tecnico_2
+8398,Atendimento ao Cliente,Alta Prioridade,Cancelado,RH,Cliente A,2025-01-20,16:43,178,72,Não,3,Média,Tecnico_9
+4812,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Comercial,Cliente D,2025-02-24,18:48,107,48,Não,5,Média,Tecnico_3
+7309,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente C,2024-12-19,12:07,161,96,Não,2,Alta,Tecnico_7
+7878,Incidente Crítico,Média Prioridade,Pendente,Comercial,Cliente D,2024-12-22,14:32,132,72,Não,3,Baixa,Tecnico_9
+6036,Manutenção,Baixa Prioridade,Cancelado,RH,Cliente C,2025-01-29,18:03,61,24,Não,1,Alta,Tecnico_6
+9116,Suporte Técnico,Baixa Prioridade,Cancelado,TI,Cliente E,2025-04-09,9:04,93,72,Não,1,Baixa,Tecnico_16
+8711,Solicitação de Serviço,Média Prioridade,Pendente,Financeiro,Cliente D,2024-12-15,17:32,195,96,Não,1,Baixa,Tecnico_18
+3443,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente E,2025-04-14,17:31,122,96,Não,4,Média,Tecnico_11
+1474,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente C,2025-03-05,17:13,203,96,Não,1,Média,Tecnico_8
+5554,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Operações,Cliente A,2025-01-24,17:05,4,48,Sim,4,Baixa,Tecnico_2
+1237,Suporte Técnico,Baixa Prioridade,Resolvido,RH,Cliente E,2025-05-19,11:56,39,24,Não,4,Média,Tecnico_17
+7847,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente A,2025-06-08,15:05,100,24,Não,3,Alta,Tecnico_16
+5437,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Comercial,Cliente C,2025-02-06,16:48,230,24,Não,5,Baixa,Tecnico_12
+4389,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente B,2024-12-25,16:58,169,24,Não,3,Média,Tecnico_5
+5478,Manutenção,Baixa Prioridade,Resolvido,TI,Cliente E,2025-03-31,16:46,22,96,Sim,5,Alta,Tecnico_7
+9980,Atendimento ao Cliente,Alta Prioridade,Resolvido,RH,Cliente E,2025-05-31,11:01,197,72,Não,5,Baixa,Tecnico_5
+1868,Suporte Técnico,Média Prioridade,Resolvido,Financeiro,Cliente C,2025-01-28,12:02,34,48,Sim,4,Baixa,Tecnico_20
+7967,Suporte Técnico,Média Prioridade,Em Andamento,TI,Cliente D,2025-03-22,18:05,223,48,Não,4,Média,Tecnico_4
+4508,Manutenção,Média Prioridade,Pendente,Operações,Cliente B,2024-12-31,14:34,50,72,Sim,2,Alta,Tecnico_15
+2797,Incidente Crítico,Alta Prioridade,Em Andamento,TI,Cliente C,2025-05-13,8:53,224,96,Não,4,Alta,Tecnico_15
+2648,Incidente Crítico,Baixa Prioridade,Em Andamento,RH,Cliente C,2025-03-22,8:38,96,48,Não,3,Alta,Tecnico_6
+5843,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente A,2025-04-28,18:54,85,24,Não,3,Baixa,Tecnico_20
+6919,Atendimento ao Cliente,Média Prioridade,Resolvido,Financeiro,Cliente E,2025-01-22,11:24,135,96,Não,4,Média,Tecnico_10
+3839,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente A,2025-04-13,14:01,49,48,Não,4,Baixa,Tecnico_20
+8692,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente D,2025-05-10,9:49,209,72,Não,4,Baixa,Tecnico_19
+1864,Solicitação de Serviço,Média Prioridade,Cancelado,RH,Cliente C,2025-02-26,18:06,83,72,Não,1,Baixa,Tecnico_9
+5203,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente B,2025-01-31,17:30,91,72,Não,4,Baixa,Tecnico_10
+1947,Manutenção,Baixa Prioridade,Em Andamento,TI,Cliente A,2025-04-11,18:52,25,72,Sim,5,Baixa,Tecnico_14
+8564,Manutenção,Baixa Prioridade,Resolvido,Operações,Cliente E,2025-01-25,16:37,210,96,Não,2,Alta,Tecnico_14
+3788,Manutenção,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-03-22,16:22,23,96,Sim,1,Baixa,Tecnico_11
+1013,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Operações,Cliente C,2025-01-29,10:23,184,96,Não,2,Alta,Tecnico_12
+4699,Manutenção,Alta Prioridade,Cancelado,RH,Cliente A,2025-05-18,17:47,54,48,Não,1,Alta,Tecnico_13
+7270,Atendimento ao Cliente,Média Prioridade,Resolvido,Comercial,Cliente E,2025-04-26,14:54,95,96,Sim,5,Baixa,Tecnico_6
+8501,Manutenção,Alta Prioridade,Em Andamento,Operações,Cliente A,2025-04-21,17:41,127,72,Não,4,Baixa,Tecnico_8
+7233,Manutenção,Alta Prioridade,Pendente,TI,Cliente C,2025-03-22,10:35,81,48,Não,1,Média,Tecnico_13
+7626,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente A,2025-02-15,11:20,166,96,Não,4,Alta,Tecnico_2
+3357,Suporte Técnico,Alta Prioridade,Em Andamento,Financeiro,Cliente E,2024-12-17,18:31,104,24,Não,4,Média,Tecnico_7
+7648,Solicitação de Serviço,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-05-30,15:45,185,48,Não,1,Alta,Tecnico_20
+8717,Solicitação de Serviço,Média Prioridade,Em Andamento,Operações,Cliente A,2025-01-28,12:13,142,48,Não,1,Média,Tecnico_19
+6834,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente D,2025-04-14,14:32,197,24,Não,2,Baixa,Tecnico_17
+8184,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Comercial,Cliente B,2025-04-20,17:04,32,72,Sim,5,Alta,Tecnico_16
+5336,Solicitação de Serviço,Média Prioridade,Pendente,Operações,Cliente A,2025-03-09,15:30,203,24,Não,4,Baixa,Tecnico_3
+6667,Manutenção,Alta Prioridade,Pendente,TI,Cliente A,2025-04-23,11:31,63,24,Não,5,Média,Tecnico_12
+3166,Manutenção,Média Prioridade,Em Andamento,TI,Cliente C,2025-04-27,10:09,52,48,Não,5,Alta,Tecnico_18
+2187,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente E,2025-05-07,18:21,116,96,Não,2,Média,Tecnico_7
+4543,Manutenção,Média Prioridade,Cancelado,TI,Cliente A,2025-02-10,8:01,162,24,Não,4,Média,Tecnico_14
+3273,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente D,2025-04-28,16:14,89,24,Não,4,Alta,Tecnico_2
+8650,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente E,2025-04-05,11:43,118,72,Não,4,Alta,Tecnico_14
+8221,Suporte Técnico,Alta Prioridade,Em Andamento,TI,Cliente D,2025-05-12,10:23,194,24,Não,3,Alta,Tecnico_1
+6691,Solicitação de Serviço,Média Prioridade,Resolvido,Operações,Cliente B,2025-06-09,10:26,29,72,Sim,1,Baixa,Tecnico_8
+1918,Solicitação de Serviço,Baixa Prioridade,Em Andamento,TI,Cliente C,2025-05-02,13:06,164,96,Não,3,Baixa,Tecnico_1
+7182,Atendimento ao Cliente,Média Prioridade,Cancelado,RH,Cliente B,2025-03-04,15:28,70,24,Não,5,Baixa,Tecnico_5
+3683,Incidente Crítico,Média Prioridade,Em Andamento,Financeiro,Cliente D,2025-04-16,18:43,86,72,Não,5,Baixa,Tecnico_7
+9588,Manutenção,Baixa Prioridade,Cancelado,RH,Cliente D,2024-12-28,18:42,37,72,Sim,5,Baixa,Tecnico_4
+8650,Solicitação de Serviço,Alta Prioridade,Pendente,Operações,Cliente E,2025-05-14,17:04,123,24,Não,5,Alta,Tecnico_13
+4258,Atendimento ao Cliente,Média Prioridade,Pendente,RH,Cliente A,2025-04-28,18:40,131,96,Não,2,Alta,Tecnico_9
+8492,Manutenção,Baixa Prioridade,Em Andamento,RH,Cliente D,2025-04-28,14:52,154,24,Não,1,Média,Tecnico_12
+5783,Manutenção,Média Prioridade,Pendente,RH,Cliente B,2025-04-30,8:59,102,96,Não,1,Baixa,Tecnico_18
+9540,Solicitação de Serviço,Média Prioridade,Resolvido,RH,Cliente D,2025-03-08,9:17,96,24,Não,5,Média,Tecnico_1
+1326,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Operações,Cliente D,2025-04-05,9:32,105,72,Não,3,Média,Tecnico_7
+4314,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente B,2025-03-17,16:48,108,96,Não,4,Média,Tecnico_9
+9684,Suporte Técnico,Alta Prioridade,Resolvido,Operações,Cliente B,2025-03-12,16:09,227,72,Não,2,Média,Tecnico_6
+5414,Atendimento ao Cliente,Alta Prioridade,Pendente,RH,Cliente A,2025-03-03,8:48,185,72,Não,4,Baixa,Tecnico_1
+6922,Atendimento ao Cliente,Alta Prioridade,Pendente,Operações,Cliente E,2025-05-20,8:51,112,96,Não,2,Baixa,Tecnico_7
+4885,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente D,2025-02-27,11:50,110,72,Não,2,Média,Tecnico_4
+6426,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-01-27,8:06,102,24,Não,5,Alta,Tecnico_19
+6637,Suporte Técnico,Alta Prioridade,Resolvido,Operações,Cliente E,2025-02-17,11:54,157,24,Não,3,Baixa,Tecnico_4
+9477,Suporte Técnico,Alta Prioridade,Resolvido,RH,Cliente B,2025-01-11,17:14,117,72,Não,1,Alta,Tecnico_11
+6780,Solicitação de Serviço,Média Prioridade,Cancelado,Comercial,Cliente B,2025-01-06,9:39,199,24,Não,1,Baixa,Tecnico_13
+5939,Suporte Técnico,Baixa Prioridade,Resolvido,TI,Cliente D,2025-03-10,15:48,18,72,Sim,3,Média,Tecnico_8
+6726,Incidente Crítico,Baixa Prioridade,Cancelado,Financeiro,Cliente E,2025-01-31,16:41,127,96,Não,5,Média,Tecnico_8
+5758,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente A,2025-03-21,17:55,46,96,Sim,4,Alta,Tecnico_6
+2667,Atendimento ao Cliente,Média Prioridade,Pendente,TI,Cliente C,2025-04-23,15:51,232,24,Não,3,Baixa,Tecnico_8
+4927,Solicitação de Serviço,Média Prioridade,Em Andamento,Operações,Cliente C,2025-01-24,9:00,161,48,Não,4,Média,Tecnico_12
+3556,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente B,2025-04-13,9:57,220,24,Não,4,Baixa,Tecnico_8
+3512,Solicitação de Serviço,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-05-20,15:34,53,96,Sim,4,Alta,Tecnico_3
+2173,Manutenção,Baixa Prioridade,Resolvido,TI,Cliente E,2025-03-03,8:14,37,72,Sim,3,Média,Tecnico_12
+7936,Suporte Técnico,Média Prioridade,Cancelado,Comercial,Cliente E,2025-03-29,9:05,29,24,Não,1,Alta,Tecnico_9
+2050,Incidente Crítico,Alta Prioridade,Resolvido,TI,Cliente E,2025-04-01,15:41,12,96,Sim,1,Média,Tecnico_20
+4621,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente C,2025-04-21,17:18,126,72,Não,2,Alta,Tecnico_7
+2735,Solicitação de Serviço,Baixa Prioridade,Resolvido,TI,Cliente D,2025-05-25,15:04,124,72,Não,4,Baixa,Tecnico_8
+5495,Solicitação de Serviço,Alta Prioridade,Cancelado,RH,Cliente E,2025-04-08,8:13,148,48,Não,4,Alta,Tecnico_12
+8633,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente B,2025-03-04,11:14,171,72,Não,5,Baixa,Tecnico_14
+3622,Incidente Crítico,Média Prioridade,Resolvido,RH,Cliente D,2025-05-19,18:37,83,48,Não,4,Alta,Tecnico_14
+1342,Incidente Crítico,Alta Prioridade,Pendente,RH,Cliente C,2025-01-07,9:19,229,24,Não,3,Baixa,Tecnico_19
+2393,Solicitação de Serviço,Média Prioridade,Resolvido,Comercial,Cliente A,2025-03-21,8:21,178,96,Não,4,Alta,Tecnico_9
+6079,Solicitação de Serviço,Alta Prioridade,Em Andamento,Operações,Cliente C,2025-05-27,12:19,50,72,Sim,2,Baixa,Tecnico_2
+1447,Suporte Técnico,Alta Prioridade,Cancelado,Operações,Cliente E,2025-04-11,18:15,78,48,Não,1,Alta,Tecnico_15
+9493,Atendimento ao Cliente,Média Prioridade,Em Andamento,Operações,Cliente B,2025-05-07,15:26,189,48,Não,4,Média,Tecnico_12
+2672,Solicitação de Serviço,Média Prioridade,Cancelado,Comercial,Cliente A,2025-05-12,14:31,80,48,Não,3,Baixa,Tecnico_2
+4302,Incidente Crítico,Alta Prioridade,Em Andamento,Operações,Cliente C,2025-06-08,16:59,84,24,Não,1,Alta,Tecnico_19
+6538,Incidente Crítico,Média Prioridade,Pendente,Financeiro,Cliente D,2025-01-25,17:47,126,96,Não,1,Alta,Tecnico_11
+4654,Solicitação de Serviço,Média Prioridade,Em Andamento,TI,Cliente C,2025-04-25,16:29,147,96,Não,3,Alta,Tecnico_9
+4815,Manutenção,Alta Prioridade,Resolvido,Operações,Cliente D,2025-02-23,16:36,173,24,Não,2,Média,Tecnico_15
+5396,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente A,2025-01-22,18:20,136,24,Não,3,Média,Tecnico_16
+5324,Solicitação de Serviço,Baixa Prioridade,Resolvido,Operações,Cliente A,2025-03-17,17:04,97,48,Não,3,Média,Tecnico_14
+3861,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Comercial,Cliente B,2025-01-06,12:23,9,72,Sim,2,Média,Tecnico_18
+3474,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente B,2024-12-30,10:17,81,24,Não,5,Baixa,Tecnico_11
+9456,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-01-22,8:36,196,96,Não,5,Alta,Tecnico_14
+1936,Suporte Técnico,Média Prioridade,Resolvido,Financeiro,Cliente A,2025-04-17,11:43,224,24,Não,2,Baixa,Tecnico_10
+2715,Solicitação de Serviço,Média Prioridade,Pendente,Comercial,Cliente E,2025-03-30,8:20,165,24,Não,2,Baixa,Tecnico_16
+5803,Incidente Crítico,Alta Prioridade,Em Andamento,Comercial,Cliente A,2025-03-26,15:43,52,96,Sim,2,Alta,Tecnico_10
+2579,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente C,2025-05-30,18:08,61,24,Não,3,Alta,Tecnico_12
+7500,Suporte Técnico,Média Prioridade,Pendente,RH,Cliente A,2025-03-21,10:47,128,96,Não,5,Média,Tecnico_6
+8197,Manutenção,Baixa Prioridade,Em Andamento,TI,Cliente B,2024-12-29,8:42,55,24,Não,3,Média,Tecnico_7
+6831,Solicitação de Serviço,Baixa Prioridade,Cancelado,TI,Cliente B,2025-04-01,14:11,16,72,Sim,3,Média,Tecnico_11
+6718,Atendimento ao Cliente,Média Prioridade,Em Andamento,Operações,Cliente C,2025-01-12,15:32,169,24,Não,4,Alta,Tecnico_14
+6393,Manutenção,Baixa Prioridade,Cancelado,TI,Cliente C,2025-05-13,10:04,198,96,Não,5,Média,Tecnico_15
+3963,Solicitação de Serviço,Média Prioridade,Em Andamento,RH,Cliente B,2025-01-30,14:21,91,24,Não,5,Média,Tecnico_6
+7451,Atendimento ao Cliente,Média Prioridade,Pendente,Operações,Cliente D,2024-12-18,13:38,106,72,Não,2,Média,Tecnico_5
+6634,Manutenção,Baixa Prioridade,Resolvido,RH,Cliente C,2025-04-25,15:25,20,24,Sim,4,Média,Tecnico_13
+8807,Solicitação de Serviço,Alta Prioridade,Pendente,Financeiro,Cliente E,2025-06-04,8:59,109,96,Não,1,Média,Tecnico_7
+9498,Incidente Crítico,Alta Prioridade,Em Andamento,RH,Cliente D,2025-04-15,11:51,7,96,Sim,3,Baixa,Tecnico_13
+9371,Suporte Técnico,Alta Prioridade,Resolvido,RH,Cliente D,2025-03-08,12:42,85,48,Não,3,Alta,Tecnico_2
+2276,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Financeiro,Cliente D,2025-03-15,16:03,118,72,Não,4,Baixa,Tecnico_12
+9358,Manutenção,Alta Prioridade,Pendente,Financeiro,Cliente E,2025-04-17,13:43,45,48,Sim,3,Baixa,Tecnico_14
+4554,Solicitação de Serviço,Baixa Prioridade,Resolvido,Operações,Cliente D,2025-02-24,16:37,174,48,Não,4,Alta,Tecnico_8
+1930,Incidente Crítico,Média Prioridade,Pendente,Comercial,Cliente A,2025-05-26,9:23,61,48,Não,1,Média,Tecnico_7
+4497,Manutenção,Média Prioridade,Pendente,Operações,Cliente B,2025-02-08,10:57,74,72,Não,3,Alta,Tecnico_4
+3726,Atendimento ao Cliente,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-04-19,15:14,51,48,Não,4,Média,Tecnico_7
+3620,Manutenção,Alta Prioridade,Cancelado,Financeiro,Cliente A,2024-12-30,17:50,151,24,Não,4,Baixa,Tecnico_7
+3639,Solicitação de Serviço,Baixa Prioridade,Pendente,Financeiro,Cliente B,2024-12-14,10:49,15,72,Sim,1,Baixa,Tecnico_7
+1397,Incidente Crítico,Baixa Prioridade,Pendente,TI,Cliente A,2025-04-20,11:15,196,96,Não,4,Baixa,Tecnico_1
+5481,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-03-21,9:48,133,24,Não,4,Baixa,Tecnico_15
+4159,Manutenção,Média Prioridade,Pendente,TI,Cliente B,2025-06-08,15:11,33,24,Não,2,Alta,Tecnico_11
+5690,Incidente Crítico,Alta Prioridade,Cancelado,Comercial,Cliente E,2025-02-13,10:31,151,72,Não,5,Alta,Tecnico_13
+2760,Solicitação de Serviço,Alta Prioridade,Cancelado,TI,Cliente A,2025-02-07,10:36,96,24,Não,3,Alta,Tecnico_11
+7533,Atendimento ao Cliente,Média Prioridade,Cancelado,Comercial,Cliente B,2025-04-11,16:54,122,96,Não,5,Baixa,Tecnico_12
+6989,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Comercial,Cliente C,2025-01-27,9:10,119,96,Não,1,Alta,Tecnico_6
+6127,Solicitação de Serviço,Alta Prioridade,Pendente,Financeiro,Cliente D,2025-03-17,9:36,2,72,Sim,1,Alta,Tecnico_16
+7916,Manutenção,Baixa Prioridade,Em Andamento,Comercial,Cliente B,2025-02-21,14:38,71,48,Não,1,Alta,Tecnico_8
+5026,Solicitação de Serviço,Alta Prioridade,Resolvido,Operações,Cliente E,2025-04-10,9:56,42,24,Não,2,Média,Tecnico_9
+9388,Suporte Técnico,Baixa Prioridade,Em Andamento,Financeiro,Cliente E,2025-01-27,16:43,27,24,Não,1,Baixa,Tecnico_20
+5398,Suporte Técnico,Alta Prioridade,Em Andamento,Financeiro,Cliente E,2025-05-06,8:06,188,96,Não,5,Alta,Tecnico_12
+4717,Suporte Técnico,Baixa Prioridade,Resolvido,TI,Cliente D,2025-05-11,13:46,172,48,Não,3,Média,Tecnico_7
+6193,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Financeiro,Cliente C,2025-02-03,18:55,152,72,Não,2,Baixa,Tecnico_16
+1274,Atendimento ao Cliente,Alta Prioridade,Resolvido,TI,Cliente B,2025-02-02,10:53,136,24,Não,3,Média,Tecnico_14
+8419,Solicitação de Serviço,Alta Prioridade,Cancelado,TI,Cliente C,2025-01-26,18:29,189,48,Não,1,Média,Tecnico_12
+1650,Incidente Crítico,Média Prioridade,Resolvido,TI,Cliente D,2025-05-13,10:10,123,72,Não,5,Média,Tecnico_2
+6368,Manutenção,Média Prioridade,Em Andamento,Comercial,Cliente E,2025-05-05,15:13,187,72,Não,3,Alta,Tecnico_3
+5646,Manutenção,Média Prioridade,Resolvido,Operações,Cliente E,2024-12-22,9:24,104,96,Não,3,Baixa,Tecnico_15
+4036,Manutenção,Baixa Prioridade,Cancelado,Financeiro,Cliente D,2025-05-05,17:46,9,48,Sim,2,Média,Tecnico_17
+8794,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente C,2025-04-13,14:12,93,96,Sim,1,Média,Tecnico_18
+1531,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente E,2024-12-31,14:41,45,72,Sim,1,Baixa,Tecnico_19
+8429,Solicitação de Serviço,Baixa Prioridade,Resolvido,Comercial,Cliente B,2025-03-25,13:11,42,24,Não,4,Alta,Tecnico_13
+4472,Suporte Técnico,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-04-25,17:07,56,24,Não,2,Baixa,Tecnico_17
+7491,Manutenção,Baixa Prioridade,Pendente,Financeiro,Cliente B,2025-05-28,8:27,95,24,Não,1,Alta,Tecnico_9
+4378,Incidente Crítico,Alta Prioridade,Pendente,Comercial,Cliente D,2025-01-14,8:25,237,72,Não,4,Alta,Tecnico_13
+6337,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente D,2025-02-10,14:24,182,96,Não,3,Média,Tecnico_6
+4077,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente A,2025-05-15,18:28,219,48,Não,4,Média,Tecnico_14
+5375,Suporte Técnico,Alta Prioridade,Pendente,Operações,Cliente B,2024-12-18,14:47,192,24,Não,1,Média,Tecnico_17
+5238,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente B,2025-02-15,11:21,174,48,Não,1,Alta,Tecnico_20
+4829,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente B,2025-04-13,11:48,133,48,Não,4,Alta,Tecnico_10
+3826,Suporte Técnico,Alta Prioridade,Pendente,Operações,Cliente E,2025-01-12,9:17,174,96,Não,1,Média,Tecnico_7
+7740,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente B,2025-03-03,17:43,135,72,Não,3,Alta,Tecnico_10
+7089,Manutenção,Média Prioridade,Cancelado,Operações,Cliente B,2025-03-04,8:04,232,24,Não,5,Baixa,Tecnico_3
+1151,Manutenção,Alta Prioridade,Cancelado,Operações,Cliente D,2025-03-28,18:18,100,24,Não,3,Alta,Tecnico_8
+9309,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente A,2025-05-08,8:32,7,72,Sim,5,Média,Tecnico_3
+5371,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente A,2025-04-05,14:27,65,48,Não,1,Baixa,Tecnico_4
+7255,Suporte Técnico,Baixa Prioridade,Pendente,TI,Cliente A,2025-02-23,11:34,184,48,Não,3,Baixa,Tecnico_3
+3055,Incidente Crítico,Alta Prioridade,Pendente,RH,Cliente A,2025-05-01,17:35,167,24,Não,3,Baixa,Tecnico_9
+5486,Incidente Crítico,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-01-09,10:16,14,24,Sim,5,Alta,Tecnico_12
+6037,Manutenção,Média Prioridade,Em Andamento,Comercial,Cliente C,2025-01-13,14:09,110,96,Não,3,Média,Tecnico_13
+8227,Manutenção,Alta Prioridade,Resolvido,RH,Cliente C,2025-06-08,14:57,195,48,Não,2,Alta,Tecnico_8
+4391,Solicitação de Serviço,Alta Prioridade,Pendente,RH,Cliente D,2025-06-06,12:29,33,24,Não,2,Alta,Tecnico_11
+1403,Manutenção,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2024-12-23,17:27,117,24,Não,3,Média,Tecnico_4
+4176,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente B,2025-04-22,8:59,95,24,Não,5,Média,Tecnico_15
+8889,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente A,2025-02-01,12:49,118,72,Não,4,Alta,Tecnico_1
+9458,Manutenção,Alta Prioridade,Pendente,RH,Cliente E,2025-01-08,9:46,16,72,Sim,5,Alta,Tecnico_9
+8926,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente C,2024-12-28,11:57,192,48,Não,5,Baixa,Tecnico_6
+5263,Manutenção,Média Prioridade,Em Andamento,RH,Cliente E,2025-05-07,16:43,220,24,Não,4,Média,Tecnico_18
+3604,Incidente Crítico,Alta Prioridade,Resolvido,Operações,Cliente A,2025-05-11,16:55,89,48,Não,3,Alta,Tecnico_16
+6601,Incidente Crítico,Média Prioridade,Resolvido,RH,Cliente E,2025-04-23,18:01,169,72,Não,2,Baixa,Tecnico_10
+8258,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente A,2025-02-24,13:14,18,72,Sim,4,Baixa,Tecnico_3
+6283,Solicitação de Serviço,Alta Prioridade,Em Andamento,Operações,Cliente B,2025-04-28,13:41,84,96,Sim,4,Baixa,Tecnico_15
+2422,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente C,2025-03-31,11:10,215,48,Não,2,Alta,Tecnico_8
+2398,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-03-30,15:16,125,48,Não,5,Alta,Tecnico_4
+5216,Suporte Técnico,Alta Prioridade,Cancelado,TI,Cliente A,2024-12-12,17:29,29,96,Sim,2,Alta,Tecnico_7
+9309,Atendimento ao Cliente,Baixa Prioridade,Pendente,Operações,Cliente E,2025-06-04,17:16,176,96,Não,4,Média,Tecnico_19
+3780,Manutenção,Alta Prioridade,Cancelado,TI,Cliente C,2025-02-15,11:33,184,96,Não,4,Alta,Tecnico_19
+1949,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente A,2025-02-28,12:49,116,48,Não,5,Baixa,Tecnico_7
+6966,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente D,2025-04-28,17:37,86,24,Não,2,Alta,Tecnico_10
+9334,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente D,2025-01-23,13:54,128,96,Não,4,Baixa,Tecnico_14
+6519,Atendimento ao Cliente,Média Prioridade,Cancelado,RH,Cliente E,2025-03-04,9:29,170,24,Não,1,Média,Tecnico_10
+9723,Solicitação de Serviço,Baixa Prioridade,Resolvido,Comercial,Cliente A,2024-12-14,13:59,237,24,Não,5,Alta,Tecnico_1
+6337,Manutenção,Alta Prioridade,Em Andamento,RH,Cliente B,2025-06-04,16:37,210,72,Não,1,Alta,Tecnico_17
+9938,Incidente Crítico,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-05-22,9:45,116,48,Não,4,Baixa,Tecnico_2
+1564,Manutenção,Média Prioridade,Resolvido,RH,Cliente D,2025-03-07,17:21,177,96,Não,4,Alta,Tecnico_17
+8861,Incidente Crítico,Média Prioridade,Pendente,Comercial,Cliente D,2025-05-06,12:52,228,72,Não,2,Baixa,Tecnico_10
+5752,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente B,2025-01-03,15:11,117,48,Não,3,Baixa,Tecnico_18
+1113,Incidente Crítico,Baixa Prioridade,Em Andamento,Financeiro,Cliente D,2025-03-19,14:40,26,24,Não,3,Baixa,Tecnico_5
+6088,Solicitação de Serviço,Alta Prioridade,Pendente,Operações,Cliente D,2025-03-27,8:19,185,24,Não,2,Baixa,Tecnico_9
+7191,Solicitação de Serviço,Alta Prioridade,Em Andamento,RH,Cliente D,2025-03-04,16:02,151,72,Não,2,Alta,Tecnico_19
+3702,Suporte Técnico,Baixa Prioridade,Em Andamento,TI,Cliente D,2025-02-27,8:37,170,24,Não,3,Baixa,Tecnico_20
+6712,Solicitação de Serviço,Média Prioridade,Resolvido,RH,Cliente A,2024-12-20,14:08,94,48,Não,1,Média,Tecnico_20
+4620,Atendimento ao Cliente,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-02-22,12:01,87,96,Sim,1,Alta,Tecnico_4
+6485,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente A,2025-04-25,14:15,84,24,Não,5,Média,Tecnico_7
+3405,Incidente Crítico,Média Prioridade,Em Andamento,TI,Cliente E,2024-12-25,11:28,72,48,Não,1,Baixa,Tecnico_14
+9416,Suporte Técnico,Média Prioridade,Pendente,TI,Cliente A,2024-12-27,9:02,239,72,Não,5,Alta,Tecnico_7
+8958,Solicitação de Serviço,Média Prioridade,Pendente,Operações,Cliente C,2025-04-17,17:11,3,96,Sim,4,Média,Tecnico_12
+7572,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente A,2025-01-22,18:06,218,72,Não,5,Alta,Tecnico_13
+5100,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente A,2025-01-11,18:25,232,48,Não,3,Baixa,Tecnico_13
+9598,Solicitação de Serviço,Alta Prioridade,Resolvido,TI,Cliente B,2025-04-11,10:48,127,48,Não,1,Média,Tecnico_5
+8607,Incidente Crítico,Alta Prioridade,Resolvido,TI,Cliente E,2025-01-09,12:23,80,24,Não,1,Baixa,Tecnico_2
+7179,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Operações,Cliente E,2024-12-23,11:43,175,72,Não,4,Média,Tecnico_12
+5429,Solicitação de Serviço,Baixa Prioridade,Em Andamento,RH,Cliente A,2025-03-24,15:08,150,24,Não,2,Média,Tecnico_2
+5096,Suporte Técnico,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-04-30,12:25,66,24,Não,2,Alta,Tecnico_9
+8701,Manutenção,Alta Prioridade,Em Andamento,RH,Cliente D,2025-03-06,12:32,218,72,Não,2,Baixa,Tecnico_6
+5393,Solicitação de Serviço,Baixa Prioridade,Pendente,TI,Cliente B,2025-01-13,13:42,21,48,Sim,2,Alta,Tecnico_10
+7946,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente A,2025-01-22,16:43,226,48,Não,4,Baixa,Tecnico_19
+6029,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente B,2024-12-24,15:47,230,96,Não,3,Alta,Tecnico_4
+2994,Atendimento ao Cliente,Média Prioridade,Em Andamento,Operações,Cliente A,2025-03-24,15:27,213,48,Não,3,Baixa,Tecnico_3
+3557,Solicitação de Serviço,Baixa Prioridade,Resolvido,Operações,Cliente C,2025-02-17,14:47,131,72,Não,3,Baixa,Tecnico_19
+4146,Incidente Crítico,Baixa Prioridade,Resolvido,RH,Cliente A,2025-02-21,13:02,108,48,Não,3,Média,Tecnico_8
+8878,Solicitação de Serviço,Média Prioridade,Cancelado,Operações,Cliente A,2024-12-26,16:30,205,72,Não,3,Alta,Tecnico_9
+8380,Incidente Crítico,Alta Prioridade,Resolvido,Operações,Cliente B,2025-02-08,13:59,161,72,Não,4,Alta,Tecnico_19
+6062,Incidente Crítico,Baixa Prioridade,Resolvido,RH,Cliente C,2025-04-12,15:51,124,72,Não,4,Média,Tecnico_19
+7456,Solicitação de Serviço,Alta Prioridade,Cancelado,Operações,Cliente E,2025-04-23,17:55,7,24,Sim,2,Baixa,Tecnico_17
+4995,Manutenção,Alta Prioridade,Em Andamento,RH,Cliente B,2025-04-17,11:18,181,96,Não,2,Média,Tecnico_19
+9801,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente B,2024-12-30,13:23,33,24,Não,3,Baixa,Tecnico_8
+7223,Atendimento ao Cliente,Média Prioridade,Em Andamento,TI,Cliente C,2025-01-06,14:14,89,72,Não,4,Alta,Tecnico_13
+7939,Manutenção,Média Prioridade,Resolvido,Operações,Cliente D,2025-02-18,14:58,239,48,Não,3,Média,Tecnico_16
+3536,Suporte Técnico,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-03-09,9:44,238,96,Não,5,Baixa,Tecnico_12
+4300,Manutenção,Alta Prioridade,Resolvido,TI,Cliente E,2025-04-02,15:20,35,96,Sim,5,Baixa,Tecnico_7
+6562,Atendimento ao Cliente,Média Prioridade,Em Andamento,RH,Cliente A,2025-02-11,9:29,184,48,Não,5,Alta,Tecnico_13
+8079,Suporte Técnico,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-02-26,18:12,89,48,Não,4,Alta,Tecnico_7
+4482,Solicitação de Serviço,Baixa Prioridade,Resolvido,RH,Cliente A,2025-03-09,18:07,163,48,Não,1,Alta,Tecnico_6
+5222,Suporte Técnico,Baixa Prioridade,Cancelado,Financeiro,Cliente E,2025-03-08,10:06,47,72,Sim,5,Média,Tecnico_20
+2520,Incidente Crítico,Baixa Prioridade,Pendente,Financeiro,Cliente D,2025-01-01,12:46,176,48,Não,4,Alta,Tecnico_18
+8017,Manutenção,Baixa Prioridade,Resolvido,Comercial,Cliente E,2025-04-26,17:58,7,96,Sim,5,Baixa,Tecnico_3
+4078,Incidente Crítico,Alta Prioridade,Cancelado,TI,Cliente D,2025-05-02,9:59,94,48,Não,4,Média,Tecnico_16
+4822,Incidente Crítico,Alta Prioridade,Pendente,Operações,Cliente C,2025-01-22,14:32,95,72,Não,3,Média,Tecnico_13
+5297,Solicitação de Serviço,Baixa Prioridade,Resolvido,RH,Cliente D,2025-04-23,13:22,41,72,Sim,4,Baixa,Tecnico_4
+9165,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente C,2025-02-11,8:32,43,96,Sim,2,Média,Tecnico_2
+4160,Suporte Técnico,Alta Prioridade,Pendente,Comercial,Cliente A,2025-03-07,17:43,216,96,Não,2,Média,Tecnico_10
+2942,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Comercial,Cliente C,2025-02-24,10:30,197,96,Não,1,Alta,Tecnico_12
+7211,Manutenção,Alta Prioridade,Em Andamento,RH,Cliente D,2024-12-16,13:09,212,24,Não,2,Média,Tecnico_13
+3652,Suporte Técnico,Baixa Prioridade,Cancelado,RH,Cliente B,2025-01-29,15:06,7,48,Sim,1,Baixa,Tecnico_6
+5440,Atendimento ao Cliente,Média Prioridade,Pendente,Financeiro,Cliente D,2025-01-15,10:16,119,96,Não,5,Média,Tecnico_7
+4173,Solicitação de Serviço,Alta Prioridade,Cancelado,Financeiro,Cliente C,2025-04-27,18:33,26,24,Não,1,Média,Tecnico_14
+9699,Suporte Técnico,Alta Prioridade,Resolvido,Financeiro,Cliente D,2025-01-05,8:18,196,96,Não,5,Média,Tecnico_3
+8672,Incidente Crítico,Baixa Prioridade,Resolvido,Operações,Cliente C,2024-12-25,8:45,114,72,Não,4,Média,Tecnico_8
+1637,Incidente Crítico,Alta Prioridade,Em Andamento,Financeiro,Cliente D,2025-01-21,11:47,151,48,Não,2,Média,Tecnico_2
+1916,Solicitação de Serviço,Baixa Prioridade,Cancelado,Financeiro,Cliente A,2025-03-13,15:27,160,24,Não,2,Alta,Tecnico_10
+2909,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente B,2025-06-08,13:10,217,24,Não,2,Média,Tecnico_13
+4020,Suporte Técnico,Alta Prioridade,Pendente,Comercial,Cliente D,2025-05-29,10:43,122,24,Não,3,Baixa,Tecnico_2
+4464,Atendimento ao Cliente,Baixa Prioridade,Resolvido,TI,Cliente E,2025-06-05,14:46,80,48,Não,3,Alta,Tecnico_7
+9474,Manutenção,Média Prioridade,Cancelado,RH,Cliente B,2025-01-03,15:06,67,48,Não,1,Baixa,Tecnico_11
+9820,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Operações,Cliente C,2025-05-11,17:18,46,96,Sim,5,Média,Tecnico_16
+5491,Manutenção,Baixa Prioridade,Cancelado,Operações,Cliente B,2025-01-04,13:26,139,48,Não,1,Média,Tecnico_12
+6294,Suporte Técnico,Baixa Prioridade,Resolvido,RH,Cliente D,2025-04-05,9:34,111,72,Não,3,Média,Tecnico_14
+6846,Suporte Técnico,Alta Prioridade,Pendente,RH,Cliente E,2025-02-19,13:44,98,24,Não,5,Baixa,Tecnico_7
+8888,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente E,2025-04-05,18:06,76,96,Sim,1,Média,Tecnico_14
+8482,Atendimento ao Cliente,Baixa Prioridade,Cancelado,RH,Cliente A,2025-04-13,16:49,180,96,Não,2,Alta,Tecnico_14
+1036,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente D,2025-03-13,15:12,106,72,Não,5,Alta,Tecnico_17
+2723,Atendimento ao Cliente,Baixa Prioridade,Cancelado,RH,Cliente D,2025-04-24,16:57,131,96,Não,3,Baixa,Tecnico_12
+1138,Suporte Técnico,Média Prioridade,Pendente,Financeiro,Cliente C,2025-03-21,18:01,188,96,Não,4,Média,Tecnico_19
+6800,Solicitação de Serviço,Baixa Prioridade,Pendente,RH,Cliente B,2025-03-12,10:39,166,72,Não,1,Baixa,Tecnico_8
+3075,Manutenção,Alta Prioridade,Pendente,TI,Cliente C,2024-12-11,8:44,115,72,Não,4,Alta,Tecnico_2
+5167,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente C,2025-04-23,16:56,17,72,Sim,5,Alta,Tecnico_4
+8113,Manutenção,Média Prioridade,Resolvido,Operações,Cliente A,2025-02-23,12:04,1,48,Sim,5,Média,Tecnico_12
+6391,Manutenção,Média Prioridade,Cancelado,Financeiro,Cliente A,2025-02-14,11:31,98,96,Não,2,Alta,Tecnico_19
+4516,Solicitação de Serviço,Alta Prioridade,Resolvido,RH,Cliente B,2025-02-18,10:09,184,48,Não,2,Baixa,Tecnico_2
+4908,Atendimento ao Cliente,Média Prioridade,Cancelado,Financeiro,Cliente E,2025-02-14,10:20,160,48,Não,1,Média,Tecnico_19
+5234,Solicitação de Serviço,Baixa Prioridade,Pendente,Financeiro,Cliente A,2025-03-19,16:20,3,96,Sim,5,Baixa,Tecnico_7
+9728,Incidente Crítico,Alta Prioridade,Em Andamento,Comercial,Cliente E,2025-05-13,10:03,134,24,Não,1,Alta,Tecnico_10
+3481,Manutenção,Baixa Prioridade,Em Andamento,Financeiro,Cliente B,2025-05-11,10:09,125,24,Não,3,Média,Tecnico_18
+5427,Suporte Técnico,Alta Prioridade,Pendente,Financeiro,Cliente C,2025-03-19,8:58,233,24,Não,2,Média,Tecnico_14
+4636,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-05-15,18:14,117,72,Não,4,Alta,Tecnico_18
+2163,Solicitação de Serviço,Alta Prioridade,Cancelado,Financeiro,Cliente B,2025-06-07,11:17,66,96,Sim,3,Baixa,Tecnico_16
+2508,Incidente Crítico,Baixa Prioridade,Cancelado,Operações,Cliente E,2025-01-09,10:35,129,96,Não,5,Média,Tecnico_16
+1981,Solicitação de Serviço,Baixa Prioridade,Pendente,Comercial,Cliente B,2025-04-20,10:28,57,24,Não,2,Média,Tecnico_4
+2260,Solicitação de Serviço,Alta Prioridade,Em Andamento,RH,Cliente B,2025-05-06,11:47,17,96,Sim,2,Alta,Tecnico_9
+8697,Incidente Crítico,Baixa Prioridade,Cancelado,RH,Cliente B,2025-01-27,15:47,91,48,Não,1,Média,Tecnico_12
+1417,Suporte Técnico,Baixa Prioridade,Pendente,Operações,Cliente C,2024-12-12,8:59,219,24,Não,3,Baixa,Tecnico_20
+1676,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente C,2025-03-24,12:29,81,48,Não,1,Baixa,Tecnico_1
+1026,Atendimento ao Cliente,Média Prioridade,Cancelado,Operações,Cliente D,2025-05-17,12:21,208,48,Não,4,Média,Tecnico_7
+5993,Solicitação de Serviço,Baixa Prioridade,Cancelado,TI,Cliente A,2025-04-18,12:06,99,96,Não,1,Baixa,Tecnico_1
+3536,Suporte Técnico,Baixa Prioridade,Em Andamento,Financeiro,Cliente B,2025-05-09,13:34,54,96,Sim,4,Média,Tecnico_14
+6127,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente B,2025-03-09,10:16,123,72,Não,1,Baixa,Tecnico_3
+3067,Solicitação de Serviço,Média Prioridade,Em Andamento,Comercial,Cliente E,2025-01-09,15:46,64,24,Não,2,Baixa,Tecnico_2
+1310,Solicitação de Serviço,Média Prioridade,Resolvido,Financeiro,Cliente D,2025-03-25,13:20,70,24,Não,1,Baixa,Tecnico_6
+4354,Atendimento ao Cliente,Alta Prioridade,Pendente,Operações,Cliente D,2025-03-17,10:32,40,96,Sim,3,Alta,Tecnico_11
+7626,Manutenção,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-05-23,8:46,124,96,Não,3,Média,Tecnico_16
+9388,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente E,2025-01-02,14:05,157,24,Não,2,Baixa,Tecnico_15
+6185,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente B,2025-02-09,11:14,194,72,Não,5,Média,Tecnico_16
+4543,Solicitação de Serviço,Média Prioridade,Resolvido,Financeiro,Cliente E,2025-01-12,9:59,78,96,Sim,1,Baixa,Tecnico_6
+6808,Solicitação de Serviço,Média Prioridade,Resolvido,Operações,Cliente D,2024-12-27,14:21,93,72,Não,2,Média,Tecnico_1
+3212,Suporte Técnico,Alta Prioridade,Em Andamento,Financeiro,Cliente E,2024-12-30,8:43,15,48,Sim,1,Alta,Tecnico_8
+5510,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente A,2025-04-26,11:38,219,48,Não,4,Média,Tecnico_2
+8096,Manutenção,Alta Prioridade,Pendente,Financeiro,Cliente E,2025-02-14,13:21,22,96,Sim,5,Alta,Tecnico_2
+1720,Suporte Técnico,Baixa Prioridade,Resolvido,Operações,Cliente B,2025-02-13,16:03,205,24,Não,3,Média,Tecnico_13
+3943,Incidente Crítico,Média Prioridade,Pendente,Operações,Cliente A,2025-04-20,13:32,44,72,Sim,5,Média,Tecnico_1
+8567,Suporte Técnico,Média Prioridade,Em Andamento,Comercial,Cliente E,2025-05-13,17:44,4,72,Sim,3,Média,Tecnico_10
+2967,Solicitação de Serviço,Alta Prioridade,Cancelado,Comercial,Cliente C,2024-12-14,12:44,36,96,Sim,3,Média,Tecnico_18
+3036,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente C,2025-04-01,8:50,65,24,Não,3,Média,Tecnico_3
+7262,Suporte Técnico,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-03-12,11:23,145,96,Não,2,Média,Tecnico_7
+1104,Atendimento ao Cliente,Alta Prioridade,Cancelado,Financeiro,Cliente D,2025-05-17,9:24,103,24,Não,1,Baixa,Tecnico_6
+2508,Atendimento ao Cliente,Média Prioridade,Pendente,TI,Cliente A,2025-03-29,14:15,29,24,Não,3,Alta,Tecnico_9
+6740,Atendimento ao Cliente,Baixa Prioridade,Resolvido,Financeiro,Cliente C,2025-01-27,8:57,74,72,Não,3,Baixa,Tecnico_1
+5007,Suporte Técnico,Baixa Prioridade,Cancelado,TI,Cliente E,2024-12-19,12:41,85,96,Sim,2,Baixa,Tecnico_2
+9942,Solicitação de Serviço,Alta Prioridade,Resolvido,Comercial,Cliente B,2025-03-29,11:02,239,96,Não,5,Alta,Tecnico_9
+5144,Incidente Crítico,Alta Prioridade,Em Andamento,TI,Cliente E,2025-03-22,16:19,135,72,Não,1,Média,Tecnico_12
+1563,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente B,2025-03-12,16:26,112,96,Não,1,Alta,Tecnico_8
+4255,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente A,2025-03-19,9:40,84,48,Não,1,Média,Tecnico_7
+2917,Atendimento ao Cliente,Baixa Prioridade,Cancelado,TI,Cliente E,2024-12-28,13:40,229,72,Não,2,Baixa,Tecnico_3
+8488,Solicitação de Serviço,Alta Prioridade,Resolvido,TI,Cliente C,2025-05-22,14:20,221,24,Não,1,Média,Tecnico_7
+6504,Solicitação de Serviço,Baixa Prioridade,Cancelado,Comercial,Cliente B,2025-04-11,15:44,67,48,Não,3,Média,Tecnico_14
+7018,Atendimento ao Cliente,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-02-10,16:39,234,48,Não,4,Baixa,Tecnico_5
+5928,Manutenção,Média Prioridade,Cancelado,TI,Cliente D,2025-05-07,15:16,214,96,Não,5,Média,Tecnico_11
+8986,Incidente Crítico,Alta Prioridade,Pendente,Comercial,Cliente B,2025-02-24,13:10,173,96,Não,2,Baixa,Tecnico_12
+3552,Suporte Técnico,Média Prioridade,Em Andamento,Operações,Cliente A,2025-03-25,12:32,53,72,Sim,5,Baixa,Tecnico_7
+9991,Incidente Crítico,Média Prioridade,Pendente,RH,Cliente B,2025-03-03,17:25,239,96,Não,5,Alta,Tecnico_8
+5611,Suporte Técnico,Alta Prioridade,Em Andamento,Financeiro,Cliente A,2025-05-23,13:38,131,48,Não,2,Baixa,Tecnico_14
+4388,Incidente Crítico,Baixa Prioridade,Resolvido,RH,Cliente D,2025-05-06,10:28,171,96,Não,5,Baixa,Tecnico_14
+6340,Solicitação de Serviço,Alta Prioridade,Em Andamento,Financeiro,Cliente D,2025-05-13,10:11,54,24,Não,5,Média,Tecnico_11
+6612,Atendimento ao Cliente,Alta Prioridade,Pendente,Operações,Cliente D,2025-03-31,9:00,96,72,Não,5,Média,Tecnico_3
+4076,Suporte Técnico,Alta Prioridade,Resolvido,TI,Cliente A,2025-01-16,15:50,155,48,Não,1,Baixa,Tecnico_17
+3070,Manutenção,Alta Prioridade,Em Andamento,Operações,Cliente A,2024-12-30,17:02,31,24,Não,2,Média,Tecnico_5
+1295,Manutenção,Média Prioridade,Resolvido,Comercial,Cliente E,2024-12-12,13:48,43,72,Sim,4,Média,Tecnico_16
+5436,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente E,2025-03-09,17:58,69,24,Não,1,Baixa,Tecnico_18
+3299,Suporte Técnico,Média Prioridade,Pendente,RH,Cliente B,2025-03-08,8:37,72,48,Não,4,Baixa,Tecnico_13
+3139,Atendimento ao Cliente,Média Prioridade,Resolvido,TI,Cliente C,2024-12-24,16:00,181,24,Não,4,Alta,Tecnico_18
+2333,Suporte Técnico,Alta Prioridade,Cancelado,Operações,Cliente B,2025-03-22,12:53,222,96,Não,5,Baixa,Tecnico_6
+3978,Atendimento ao Cliente,Média Prioridade,Resolvido,Financeiro,Cliente C,2025-04-02,8:42,138,96,Não,4,Média,Tecnico_10
+9170,Incidente Crítico,Baixa Prioridade,Em Andamento,Operações,Cliente C,2025-02-21,12:46,106,96,Não,1,Baixa,Tecnico_1
+2713,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente D,2025-05-27,12:29,140,96,Não,4,Baixa,Tecnico_4
+2344,Solicitação de Serviço,Média Prioridade,Pendente,TI,Cliente D,2025-01-09,13:51,55,24,Não,5,Baixa,Tecnico_18
+1563,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente A,2025-05-05,13:48,156,72,Não,2,Média,Tecnico_6
+7833,Suporte Técnico,Alta Prioridade,Resolvido,RH,Cliente B,2025-02-14,18:28,120,96,Não,3,Alta,Tecnico_3
+9255,Manutenção,Baixa Prioridade,Em Andamento,Comercial,Cliente A,2025-01-18,12:42,184,24,Não,2,Média,Tecnico_19
+9328,Atendimento ao Cliente,Baixa Prioridade,Cancelado,TI,Cliente A,2024-12-29,16:55,21,96,Sim,4,Baixa,Tecnico_10
+2041,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Comercial,Cliente D,2025-05-31,10:22,5,72,Sim,5,Alta,Tecnico_11
+3983,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente A,2025-02-02,12:42,112,96,Não,5,Alta,Tecnico_20
+5353,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente E,2024-12-16,14:38,104,24,Não,2,Alta,Tecnico_3
+6700,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-02-01,10:24,101,24,Não,4,Média,Tecnico_19
+1927,Atendimento ao Cliente,Alta Prioridade,Em Andamento,TI,Cliente D,2024-12-28,10:59,197,96,Não,1,Média,Tecnico_17
+4849,Atendimento ao Cliente,Alta Prioridade,Cancelado,TI,Cliente D,2024-12-31,16:34,221,96,Não,2,Média,Tecnico_4
+1020,Incidente Crítico,Alta Prioridade,Pendente,Financeiro,Cliente B,2025-01-02,15:37,139,72,Não,5,Baixa,Tecnico_13
+6741,Suporte Técnico,Média Prioridade,Cancelado,Comercial,Cliente D,2025-01-28,14:45,155,24,Não,3,Alta,Tecnico_3
+6824,Atendimento ao Cliente,Alta Prioridade,Resolvido,TI,Cliente E,2025-03-04,16:03,30,96,Sim,1,Baixa,Tecnico_9
+5676,Solicitação de Serviço,Média Prioridade,Em Andamento,Operações,Cliente A,2025-05-18,10:13,213,24,Não,4,Média,Tecnico_19
+7331,Manutenção,Baixa Prioridade,Cancelado,Financeiro,Cliente A,2025-01-21,18:39,211,24,Não,4,Alta,Tecnico_16
+4459,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente A,2025-04-15,17:41,206,24,Não,4,Baixa,Tecnico_9
+3710,Suporte Técnico,Alta Prioridade,Em Andamento,Operações,Cliente D,2025-05-03,8:22,89,24,Não,2,Alta,Tecnico_1
+8969,Solicitação de Serviço,Baixa Prioridade,Resolvido,TI,Cliente B,2024-12-30,10:00,65,24,Não,1,Alta,Tecnico_16
+7096,Manutenção,Baixa Prioridade,Resolvido,Comercial,Cliente D,2025-05-22,8:01,197,48,Não,3,Média,Tecnico_6
+4705,Incidente Crítico,Alta Prioridade,Resolvido,Financeiro,Cliente D,2024-12-26,9:59,195,96,Não,1,Média,Tecnico_4
+3765,Atendimento ao Cliente,Baixa Prioridade,Pendente,Financeiro,Cliente E,2025-02-04,15:28,22,96,Sim,4,Baixa,Tecnico_15
+1594,Atendimento ao Cliente,Média Prioridade,Em Andamento,Financeiro,Cliente A,2025-01-06,8:16,218,24,Não,2,Média,Tecnico_3
+7426,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Operações,Cliente E,2025-04-11,8:56,23,72,Sim,2,Média,Tecnico_2
+4982,Manutenção,Média Prioridade,Pendente,Comercial,Cliente D,2025-01-17,17:20,85,72,Não,2,Média,Tecnico_13
+9568,Solicitação de Serviço,Média Prioridade,Em Andamento,Operações,Cliente E,2025-03-15,17:48,15,72,Sim,1,Baixa,Tecnico_14
+4899,Atendimento ao Cliente,Baixa Prioridade,Pendente,Comercial,Cliente A,2025-01-14,10:42,113,96,Não,2,Baixa,Tecnico_2
+8067,Atendimento ao Cliente,Alta Prioridade,Pendente,TI,Cliente C,2025-05-09,13:52,10,48,Sim,2,Alta,Tecnico_14
+9659,Suporte Técnico,Média Prioridade,Resolvido,Operações,Cliente B,2025-03-25,9:37,177,24,Não,4,Alta,Tecnico_10
+2213,Manutenção,Média Prioridade,Em Andamento,Financeiro,Cliente A,2025-01-21,13:29,47,96,Sim,5,Alta,Tecnico_12
+4754,Atendimento ao Cliente,Média Prioridade,Em Andamento,Comercial,Cliente C,2025-04-15,16:28,78,24,Não,2,Baixa,Tecnico_4
+7077,Atendimento ao Cliente,Alta Prioridade,Pendente,RH,Cliente A,2025-01-09,14:17,198,72,Não,4,Média,Tecnico_11
+6360,Atendimento ao Cliente,Média Prioridade,Resolvido,Comercial,Cliente D,2025-05-07,8:47,107,96,Não,1,Média,Tecnico_6
+8087,Suporte Técnico,Média Prioridade,Resolvido,RH,Cliente A,2025-03-03,14:43,28,72,Sim,4,Média,Tecnico_17
+8886,Manutenção,Média Prioridade,Cancelado,TI,Cliente D,2025-03-13,9:38,96,72,Não,5,Baixa,Tecnico_16
+8400,Solicitação de Serviço,Alta Prioridade,Em Andamento,Comercial,Cliente A,2025-01-20,15:54,183,72,Não,1,Alta,Tecnico_14
+8672,Solicitação de Serviço,Baixa Prioridade,Resolvido,Financeiro,Cliente D,2025-01-19,9:56,170,72,Não,5,Baixa,Tecnico_20
+8574,Suporte Técnico,Baixa Prioridade,Cancelado,TI,Cliente C,2025-02-20,12:31,3,24,Sim,1,Baixa,Tecnico_11
+8537,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente A,2025-02-20,9:53,171,72,Não,1,Alta,Tecnico_3
+4549,Incidente Crítico,Alta Prioridade,Cancelado,Comercial,Cliente D,2025-05-28,10:32,84,48,Não,1,Alta,Tecnico_20
+6613,Incidente Crítico,Média Prioridade,Cancelado,RH,Cliente D,2025-04-14,12:05,215,72,Não,5,Alta,Tecnico_9
+8615,Manutenção,Média Prioridade,Pendente,Financeiro,Cliente C,2025-06-09,18:08,78,24,Não,2,Baixa,Tecnico_13
+4731,Manutenção,Média Prioridade,Resolvido,Operações,Cliente C,2025-01-21,17:15,130,96,Não,3,Baixa,Tecnico_20
+5475,Atendimento ao Cliente,Alta Prioridade,Em Andamento,TI,Cliente A,2024-12-19,14:54,24,72,Sim,3,Média,Tecnico_4
+7530,Solicitação de Serviço,Média Prioridade,Pendente,RH,Cliente B,2025-05-13,17:08,129,96,Não,2,Alta,Tecnico_8
+3970,Atendimento ao Cliente,Alta Prioridade,Em Andamento,RH,Cliente A,2025-01-13,11:19,73,96,Sim,2,Baixa,Tecnico_3
+3134,Solicitação de Serviço,Média Prioridade,Resolvido,TI,Cliente D,2024-12-22,15:58,27,48,Sim,2,Baixa,Tecnico_8
+5515,Incidente Crítico,Alta Prioridade,Cancelado,Financeiro,Cliente D,2025-02-10,13:00,65,24,Não,2,Média,Tecnico_3
+2074,Incidente Crítico,Média Prioridade,Pendente,TI,Cliente A,2025-01-10,14:46,78,24,Não,3,Alta,Tecnico_4
+5490,Suporte Técnico,Média Prioridade,Em Andamento,Comercial,Cliente A,2025-03-19,18:31,165,24,Não,2,Baixa,Tecnico_12
+2551,Manutenção,Baixa Prioridade,Resolvido,TI,Cliente B,2025-05-21,12:43,157,24,Não,4,Média,Tecnico_12
+4950,Manutenção,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-05-19,18:08,143,48,Não,4,Alta,Tecnico_17
+2198,Atendimento ao Cliente,Média Prioridade,Pendente,Comercial,Cliente A,2025-01-16,16:57,125,24,Não,5,Alta,Tecnico_13
+6671,Manutenção,Baixa Prioridade,Em Andamento,RH,Cliente A,2025-04-05,8:45,148,24,Não,3,Baixa,Tecnico_20
+5963,Atendimento ao Cliente,Alta Prioridade,Pendente,Comercial,Cliente C,2025-03-20,18:41,13,24,Sim,4,Alta,Tecnico_11
+6069,Incidente Crítico,Baixa Prioridade,Em Andamento,RH,Cliente D,2025-05-04,18:32,64,72,Sim,5,Baixa,Tecnico_15
+3324,Incidente Crítico,Média Prioridade,Em Andamento,Financeiro,Cliente A,2024-12-29,18:09,138,72,Não,1,Baixa,Tecnico_6
+1756,Manutenção,Média Prioridade,Cancelado,RH,Cliente A,2025-01-20,17:17,194,24,Não,1,Baixa,Tecnico_11
+7038,Atendimento ao Cliente,Alta Prioridade,Cancelado,Comercial,Cliente B,2025-05-08,12:18,101,72,Não,2,Média,Tecnico_1
+8826,Atendimento ao Cliente,Média Prioridade,Cancelado,Financeiro,Cliente E,2025-01-05,15:59,96,24,Não,5,Alta,Tecnico_19
+9242,Incidente Crítico,Média Prioridade,Resolvido,RH,Cliente A,2025-01-30,10:40,197,48,Não,3,Alta,Tecnico_11
+4014,Manutenção,Média Prioridade,Resolvido,RH,Cliente D,2025-05-09,16:15,73,72,Não,1,Baixa,Tecnico_10
+3424,Suporte Técnico,Baixa Prioridade,Pendente,TI,Cliente B,2025-01-06,9:09,94,48,Não,3,Alta,Tecnico_10
+6514,Solicitação de Serviço,Alta Prioridade,Cancelado,TI,Cliente E,2024-12-30,13:08,29,24,Não,5,Baixa,Tecnico_6
+8123,Atendimento ao Cliente,Média Prioridade,Cancelado,Comercial,Cliente C,2024-12-14,17:34,38,96,Sim,2,Média,Tecnico_7
+2800,Solicitação de Serviço,Baixa Prioridade,Pendente,Financeiro,Cliente C,2025-03-14,18:52,222,96,Não,5,Média,Tecnico_18
+8264,Suporte Técnico,Média Prioridade,Resolvido,Financeiro,Cliente D,2025-05-13,16:25,33,24,Não,5,Baixa,Tecnico_17
+8013,Atendimento ao Cliente,Alta Prioridade,Cancelado,RH,Cliente D,2025-05-18,12:49,227,24,Não,2,Média,Tecnico_3
+6579,Incidente Crítico,Baixa Prioridade,Pendente,TI,Cliente E,2025-01-21,11:14,237,48,Não,5,Média,Tecnico_3
+2081,Solicitação de Serviço,Baixa Prioridade,Cancelado,RH,Cliente B,2025-01-20,16:33,238,24,Não,3,Alta,Tecnico_18
+3970,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente D,2025-02-17,9:12,153,24,Não,3,Baixa,Tecnico_3
+5370,Manutenção,Média Prioridade,Em Andamento,Operações,Cliente B,2025-06-02,9:36,83,48,Não,1,Alta,Tecnico_17
+7004,Manutenção,Alta Prioridade,Resolvido,Comercial,Cliente B,2025-03-30,16:04,20,96,Sim,1,Alta,Tecnico_16
+7349,Suporte Técnico,Baixa Prioridade,Em Andamento,RH,Cliente E,2025-02-23,8:26,186,72,Não,5,Média,Tecnico_5
+6222,Solicitação de Serviço,Média Prioridade,Cancelado,Financeiro,Cliente A,2025-03-06,16:00,37,72,Sim,2,Alta,Tecnico_20
+8288,Manutenção,Alta Prioridade,Resolvido,Comercial,Cliente B,2025-03-22,9:12,156,48,Não,2,Alta,Tecnico_7
+7569,Incidente Crítico,Média Prioridade,Em Andamento,Comercial,Cliente A,2024-12-13,17:56,64,24,Não,3,Alta,Tecnico_13
+9011,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Operações,Cliente B,2025-01-15,8:37,85,96,Sim,2,Alta,Tecnico_1
+4317,Incidente Crítico,Baixa Prioridade,Pendente,Operações,Cliente E,2025-04-29,15:47,131,48,Não,4,Média,Tecnico_2
+9986,Manutenção,Média Prioridade,Cancelado,RH,Cliente A,2025-05-13,14:32,130,48,Não,1,Alta,Tecnico_18
+1990,Incidente Crítico,Baixa Prioridade,Cancelado,Operações,Cliente D,2025-01-17,10:20,51,24,Não,2,Alta,Tecnico_20
+8864,Suporte Técnico,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-05-15,11:04,171,96,Não,3,Média,Tecnico_20
+5004,Atendimento ao Cliente,Média Prioridade,Resolvido,RH,Cliente D,2025-02-19,18:38,16,48,Sim,4,Média,Tecnico_18
+9969,Suporte Técnico,Baixa Prioridade,Resolvido,Comercial,Cliente B,2025-05-16,16:30,70,48,Não,5,Média,Tecnico_12
+1386,Incidente Crítico,Alta Prioridade,Em Andamento,Financeiro,Cliente A,2025-06-09,13:13,51,72,Sim,4,Baixa,Tecnico_19
+2747,Atendimento ao Cliente,Média Prioridade,Pendente,Financeiro,Cliente E,2025-02-08,17:28,113,48,Não,1,Alta,Tecnico_16
+5899,Atendimento ao Cliente,Baixa Prioridade,Cancelado,Comercial,Cliente D,2025-05-10,9:41,87,72,Não,1,Alta,Tecnico_5
+8672,Solicitação de Serviço,Média Prioridade,Cancelado,TI,Cliente D,2025-01-14,14:03,120,24,Não,2,Média,Tecnico_7
+6434,Incidente Crítico,Baixa Prioridade,Resolvido,Financeiro,Cliente B,2025-01-04,18:25,237,24,Não,2,Baixa,Tecnico_9
+5933,Suporte Técnico,Baixa Prioridade,Em Andamento,Operações,Cliente C,2025-05-23,9:01,101,96,Não,3,Baixa,Tecnico_2
+9098,Suporte Técnico,Baixa Prioridade,Em Andamento,Financeiro,Cliente A,2024-12-15,13:44,17,96,Sim,2,Baixa,Tecnico_4
+1428,Atendimento ao Cliente,Alta Prioridade,Pendente,TI,Cliente D,2025-04-12,9:23,133,96,Não,1,Baixa,Tecnico_14
+7622,Manutenção,Alta Prioridade,Em Andamento,Comercial,Cliente E,2025-04-09,15:08,154,24,Não,1,Alta,Tecnico_6
+3256,Suporte Técnico,Alta Prioridade,Cancelado,Operações,Cliente B,2025-05-04,18:21,142,48,Não,4,Baixa,Tecnico_18
+3839,Solicitação de Serviço,Alta Prioridade,Em Andamento,Comercial,Cliente D,2025-04-17,13:53,152,48,Não,2,Alta,Tecnico_11
+1305,Incidente Crítico,Baixa Prioridade,Em Andamento,Operações,Cliente B,2025-04-04,10:08,145,48,Não,5,Média,Tecnico_17
+2163,Suporte Técnico,Baixa Prioridade,Em Andamento,Comercial,Cliente D,2024-12-27,10:02,151,24,Não,2,Média,Tecnico_10
+6301,Atendimento ao Cliente,Alta Prioridade,Pendente,Comercial,Cliente B,2025-05-25,17:23,102,72,Não,4,Média,Tecnico_16
+3335,Suporte Técnico,Alta Prioridade,Resolvido,Comercial,Cliente D,2024-12-22,18:59,97,96,Não,4,Média,Tecnico_4
+6868,Incidente Crítico,Alta Prioridade,Resolvido,TI,Cliente A,2025-04-14,15:31,189,48,Não,5,Baixa,Tecnico_18
+7540,Suporte Técnico,Baixa Prioridade,Cancelado,Operações,Cliente A,2025-01-25,14:33,158,24,Não,1,Baixa,Tecnico_4
+2113,Incidente Crítico,Alta Prioridade,Cancelado,TI,Cliente A,2025-04-13,18:36,203,24,Não,3,Alta,Tecnico_1
+3756,Manutenção,Baixa Prioridade,Pendente,Comercial,Cliente A,2025-03-26,14:40,200,24,Não,3,Alta,Tecnico_4
+6157,Solicitação de Serviço,Alta Prioridade,Cancelado,RH,Cliente B,2025-02-17,12:22,2,24,Sim,4,Média,Tecnico_8
+3013,Incidente Crítico,Alta Prioridade,Cancelado,Financeiro,Cliente B,2025-04-08,16:23,28,48,Sim,3,Média,Tecnico_20
+8155,Suporte Técnico,Média Prioridade,Cancelado,RH,Cliente A,2025-03-11,12:10,110,24,Não,5,Média,Tecnico_20
+5320,Atendimento ao Cliente,Alta Prioridade,Em Andamento,Financeiro,Cliente B,2025-01-18,10:08,48,96,Sim,4,Alta,Tecnico_12
+3644,Solicitação de Serviço,Alta Prioridade,Pendente,Operações,Cliente D,2025-04-21,13:27,124,48,Não,3,Baixa,Tecnico_20
+6461,Suporte Técnico,Média Prioridade,Cancelado,Operações,Cliente C,2025-04-08,11:26,180,24,Não,4,Média,Tecnico_12
+1364,Manutenção,Baixa Prioridade,Pendente,Operações,Cliente D,2025-04-19,13:02,65,24,Não,4,Alta,Tecnico_7
+9382,Suporte Técnico,Baixa Prioridade,Resolvido,RH,Cliente B,2025-03-21,10:13,14,24,Sim,4,Média,Tecnico_14
+4932,Incidente Crítico,Média Prioridade,Cancelado,Operações,Cliente D,2025-02-22,16:04,43,48,Sim,2,Alta,Tecnico_12
+2804,Solicitação de Serviço,Baixa Prioridade,Em Andamento,Financeiro,Cliente C,2025-05-04,10:39,97,96,Não,1,Média,Tecnico_3
